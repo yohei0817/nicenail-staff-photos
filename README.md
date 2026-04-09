@@ -11,21 +11,21 @@
 
 - 先頭の記号（■□●▲★◆）は除去
 - `*` はそのまま残す（同名スタッフの区別用）
-- 拡張子は `.jpg`
+- 拡張子は `.jpg` `.jpeg` `.png` いずれもOK
 
 ### 例
 
 | Salon Connect上の名前 | ファイル名 |
 |---|---|
-| ●Aoi | `Aoi.jpg` |
-| □Karen* | `Karen*.jpg` |
-| Yuuka | `Yuuka.jpg` |
-| Yuuka* | `Yuuka*.jpg` |
-| Yuuka** | `Yuuka**.jpg` |
-| ■Akane | `Akane.jpg` |
+| ●Aoi | `Aoi.png` |
+| □Karen* | `Karen*.png` |
+| Yuuka | `Yuuka.png` |
+| Yuuka* | `Yuuka*.png` |
+| Yuuka** | `Yuuka**.png` |
+| ■Akane | `Akane.png` |
 
 ## 写真の仕様
 
 - 正方形推奨（ダッシュボードでは丸くトリミングされます）
 - 推奨サイズ: 200x200px 以上
-- 形式: JPEG (.jpg)
+- 形式: JPEG (.jpg/.jpeg) または PNG (.png)
