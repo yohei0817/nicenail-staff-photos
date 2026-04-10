@@ -25,7 +25,8 @@
       "target": 4796000
     },
     "旗の台店": {
-      "budget": 3630000
+      "budget": 3630000,
+      "target": 3070000
     },
     "溝の口店": {
       "budget": 4537500,
@@ -179,6 +180,22 @@
     },
     "Natsuki__0": {
       "target": 883000,
+      "remainDays": 21
+    },
+    "Hazuki__0": {
+      "target": 850000,
+      "remainDays": 21
+    },
+    "Maki__0": {
+      "target": 850000,
+      "remainDays": 20
+    },
+    "Ayana__0": {
+      "target": 720000,
+      "remainDays": 21
+    },
+    "Aki__0": {
+      "target": 650000,
       "remainDays": 21
     }
   }
