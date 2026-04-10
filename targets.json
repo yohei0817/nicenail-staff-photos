@@ -2,35 +2,43 @@
   "stores": {
     "三軒茶屋店": {
       "budget": 5142500,
-      "target": 5410000
+      "target": 5410000,
+      "staffCount": 7
     },
     "二子玉川店": {
       "budget": 4840000,
-      "target": 4030000
+      "target": 4030000,
+      "staffCount": 5
     },
     "自由が丘店": {
       "budget": 4537500,
-      "target": 4300000
+      "target": 4300000,
+      "staffCount": 5
     },
     "大森店": {
       "budget": 3932500,
-      "target": 2500000
+      "target": 2500000,
+      "staffCount": 3
     },
     "綱島店": {
       "budget": 5142500,
-      "target": 5186500
+      "target": 5186500,
+      "staffCount": 6
     },
     "センター南店": {
       "budget": 4840000,
-      "target": 4796000
+      "target": 4796000,
+      "staffCount": 5
     },
     "旗の台店": {
       "budget": 3630000,
-      "target": 3070000
+      "target": 3070000,
+      "staffCount": 4
     },
     "溝の口店": {
       "budget": 4537500,
-      "target": 4820000
+      "target": 4820000,
+      "staffCount": 6
     }
   },
   "staff": {
