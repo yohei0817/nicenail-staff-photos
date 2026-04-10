@@ -9,7 +9,8 @@
       "target": 4030000
     },
     "自由が丘店": {
-      "budget": 4537500
+      "budget": 4537500,
+      "target": 4300000
     },
     "大森店": {
       "budget": 3932500
@@ -99,6 +100,26 @@
     },
     "Momo__0": {
       "target": 700000,
+      "remainDays": 21
+    },
+    "Rikoto__0": {
+      "target": 970000,
+      "remainDays": 23
+    },
+    "Rino__0": {
+      "target": 870000,
+      "remainDays": 21
+    },
+    "Sayaka__0": {
+      "target": 870000,
+      "remainDays": 21
+    },
+    "Yuuka__1": {
+      "target": 860000,
+      "remainDays": 20
+    },
+    "Kaine__0": {
+      "target": 730000,
       "remainDays": 21
     }
   }
