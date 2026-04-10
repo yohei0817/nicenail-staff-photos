@@ -2,7 +2,7 @@
   "stores": {
     "三軒茶屋店": {
       "budget": 5142500,
-      "target": 5010000
+      "target": 5410000
     },
     "二子玉川店": {
       "budget": 4840000,
@@ -67,8 +67,8 @@
       "remainDays": 21
     },
     "Karen__1": {
-      "target": 400000,
-      "remainDays": 11
+      "target": 800000,
+      "remainDays": 21
     },
     "Akane__0": {
       "target": 800000,
