@@ -13,7 +13,8 @@
       "target": 4300000
     },
     "大森店": {
-      "budget": 3932500
+      "budget": 3932500,
+      "target": 2500000
     },
     "綱島店": {
       "budget": 5142500
@@ -120,6 +121,18 @@
     },
     "Kaine__0": {
       "target": 730000,
+      "remainDays": 21
+    },
+    "Monami__0": {
+      "target": 900000,
+      "remainDays": 19
+    },
+    "Mami__0": {
+      "target": 850000,
+      "remainDays": 21
+    },
+    "Konoka__0": {
+      "target": 750000,
       "remainDays": 21
     }
   }
