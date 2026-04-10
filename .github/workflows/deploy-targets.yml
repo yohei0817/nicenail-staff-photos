@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: yohei0817/salon-dashboard
+          token: ${{ secrets.GH_TARGETS_TOKEN }}
           path: dashboard
 
       - name: Setup Python
