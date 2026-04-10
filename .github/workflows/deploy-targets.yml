@@ -1,0 +1,47 @@
+name: Deploy on targets update
+
+on:
+  push:
+    paths:
+      - 'targets.json'
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout staff-photos repo
+        uses: actions/checkout@v4
+
+      - name: Checkout salon-dashboard repo
+        uses: actions/checkout@v4
+        with:
+          repository: yohei0817/salon-dashboard
+          path: dashboard
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install opencv-python-headless numpy Pillow
+
+      - name: Copy targets.json
+        run: cp targets.json dashboard/data/targets.json
+
+      - name: Generate HTML
+        working-directory: dashboard
+        env:
+          GH_TARGETS_TOKEN: ${{ secrets.GH_TARGETS_TOKEN }}
+        run: python3 generate_html.py
+
+      - name: Deploy to Netlify
+        working-directory: dashboard
+        run: |
+          npm install -g netlify-cli
+          netlify deploy --prod --dir=dist --auth=${{ secrets.NETLIFY_AUTH_TOKEN }} --site=${{ secrets.NETLIFY_SITE_ID }}
