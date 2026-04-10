@@ -23,7 +23,7 @@
     },
     "溝の口店": {
       "budget": 4537500,
-      "target": 3920000
+      "target": 4820000
     }
   },
   "staff": {
@@ -38,6 +38,10 @@
     "Minato__0": {
       "target": 870000,
       "remainDays": 20
+    },
+    "Reika__1": {
+      "target": 900000,
+      "remainDays": 21
     },
     "Shoko__0": {
       "target": 750000,
