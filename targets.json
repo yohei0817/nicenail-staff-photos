@@ -1,7 +1,8 @@
 {
   "stores": {
     "三軒茶屋店": {
-      "budget": 5142500
+      "budget": 5142500,
+      "target": 4530000
     },
     "二子玉川店": {
       "budget": 4840000
@@ -50,6 +51,34 @@
     "Miyu__0": {
       "target": 550000,
       "remainDays": 19
+    },
+    "Ann__0": {
+      "target": 880000,
+      "remainDays": 21
+    },
+    "Miki__0": {
+      "target": 1050000,
+      "remainDays": 24
+    },
+    "Yuuka__2": {
+      "target": 850000,
+      "remainDays": 21
+    },
+    "Karen__1": {
+      "target": 400000,
+      "remainDays": 11
+    },
+    "Akane__0": {
+      "target": 800000,
+      "remainDays": 21
+    },
+    "Rinka__0": {
+      "target": 550000,
+      "remainDays": 21
+    },
+    "Yuumi__0": {
+      "target": 0,
+      "remainDays": 0
     }
   }
 }
