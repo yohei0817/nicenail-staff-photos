@@ -1,0 +1,51 @@
+{
+  "stores": {
+    "三軒茶屋店": {
+      "budget": 5142500
+    },
+    "二子玉川店": {
+      "budget": 4840000
+    },
+    "自由が丘店": {
+      "budget": 4537500
+    },
+    "大森店": {
+      "budget": 3932500
+    },
+    "綱島店": {
+      "budget": 5142500
+    },
+    "センター南店": {
+      "budget": 4840000
+    },
+    "旗の台店": {
+      "budget": 3630000
+    },
+    "溝の口店": {
+      "budget": 4537500,
+      "target": 3920000
+    }
+  },
+  "staff": {
+    "Hinako__0": {
+      "target": 900000,
+      "remainDays": 20
+    },
+    "Mana__0": {
+      "target": 850000,
+      "remainDays": 19
+    },
+    "Minato__0": {
+      "target": 870000,
+      "remainDays": 20
+    },
+    "Shoko__0": {
+      "target": 750000,
+      "remainDays": 17
+    },
+    "Miyu__0": {
+      "target": 550000,
+      "remainDays": 19
+    }
+  }
+}
