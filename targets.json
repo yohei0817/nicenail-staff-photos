@@ -21,7 +21,8 @@
       "target": 5186500
     },
     "センター南店": {
-      "budget": 4840000
+      "budget": 4840000,
+      "target": 4796000
     },
     "旗の台店": {
       "budget": 3630000
@@ -158,6 +159,26 @@
     },
     "Noa__0": {
       "target": 727500,
+      "remainDays": 21
+    },
+    "Karen__0": {
+      "target": 932000,
+      "remainDays": 22
+    },
+    "Riko__0": {
+      "target": 987000,
+      "remainDays": 21
+    },
+    "Risa__0": {
+      "target": 1034000,
+      "remainDays": 22
+    },
+    "Yuuka__0": {
+      "target": 960000,
+      "remainDays": 21
+    },
+    "Natsuki__0": {
+      "target": 883000,
       "remainDays": 21
     }
   }
