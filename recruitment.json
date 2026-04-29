@@ -2855,17 +2855,17 @@
       "id": "R20260316-002",
       "applied_date": "2026-03-16",
       "name": "大城 結愛",
-      "interview": "〇",
-      "interview_changed_date": "2026-03-16",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "連絡無し",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-03-16",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
-      "updated_by": "migration_v1",
-      "updated_at": "2026-04-26T20:11:01+09:00"
+      "updated_by": "honbu",
+      "updated_at": "2026-04-30T02:44:45+09:00"
     },
     {
       "id": "R20260321-001",
