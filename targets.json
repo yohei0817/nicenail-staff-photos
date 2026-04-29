@@ -1642,7 +1642,7 @@
       },
       "綱島店": {
         "budget": 4537500,
-        "target": 4710000
+        "target": 4680000
       },
       "センター南店": {
         "budget": 4235000
@@ -1680,11 +1680,11 @@
       "Haruka__0": {
         "byStore": {
           "綱島店": {
-            "target": 800000,
+            "target": 770000,
             "remainDays": 18.5
           }
         },
-        "target": 800000,
+        "target": 770000,
         "remainDays": 18.5,
         "helpDays": 0
       },
