@@ -1641,11 +1641,11 @@
         "budget": 3327500
       },
       "綱島店": {
-        "budget": 4537500
+        "budget": 4537500,
+        "target": 0
       },
       "センター南店": {
-        "budget": 4235000,
-        "target": 0
+        "budget": 4235000
       },
       "旗の台店": {
         "budget": 3327500
@@ -1655,59 +1655,70 @@
       }
     },
     "staff": {
-      "Risa__0": {
+      "Aoi__0": {
         "byStore": {
-          "センター南店": {
+          "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 21.5
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 21.5,
         "helpDays": 0
       },
-      "Riko__0": {
+      "Yui__0": {
         "byStore": {
-          "センター南店": {
+          "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 21
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 21,
         "helpDays": 0
       },
-      "Yuuka__0": {
+      "Haruka__0": {
         "byStore": {
-          "センター南店": {
+          "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 18.5
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 18.5,
         "helpDays": 0
       },
-      "Karen__0": {
+      "Hana__0": {
         "byStore": {
-          "センター南店": {
+          "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 22
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 22,
         "helpDays": 0
       },
-      "Natsuki__0": {
+      "Noa__0": {
         "byStore": {
-          "センター南店": {
+          "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 21
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Mariko__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 0,
+            "remainDays": 21
+          }
+        },
+        "target": 0,
+        "remainDays": 21,
         "helpDays": 0
       }
     },
