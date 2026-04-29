@@ -1431,8 +1431,8 @@
       "id": "R20251002-001",
       "applied_date": "2025-10-02",
       "name": "本杉 佑美",
-      "interview": "〇",
-      "interview_changed_date": "2025-10-02",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
       "status": "選考辞退",
@@ -1440,8 +1440,8 @@
       "source": "リジョブ",
       "note": "",
       "deleted": false,
-      "updated_by": "migration_v1",
-      "updated_at": "2026-04-26T20:11:01+09:00"
+      "updated_by": "honbu",
+      "updated_at": "2026-04-30T02:53:53+09:00"
     },
     {
       "id": "R20251008-001",
