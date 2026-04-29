@@ -134,7 +134,8 @@
     "Seira",
     "Sora",
     "Yukino",
-    "Yumeko.N"
+    "Yumeko.N",
+    "Karen*"
   ],
   "concurrent_manager": {
     "Yuuka*__0": [
@@ -1283,6 +1284,10 @@
     "Mai": {
       "retired": "2025-11-04",
       "joined": "2025-04-19"
+    },
+    "Karen*": {
+      "retired": "2026-05-31",
+      "joined": "2025-08-28"
     }
   }
 }
