@@ -2103,8 +2103,8 @@
       "id": "R20251218-001",
       "applied_date": "2025-12-18",
       "name": "棚町 シャニイユエン",
-      "interview": "〇",
-      "interview_changed_date": "2025-12-18",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
       "status": "選考辞退",
@@ -2112,8 +2112,8 @@
       "source": "リジョブ",
       "note": "",
       "deleted": false,
-      "updated_by": "migration_v1",
-      "updated_at": "2026-04-26T20:11:01+09:00"
+      "updated_by": "honbu",
+      "updated_at": "2026-04-30T02:48:25+09:00"
     },
     {
       "id": "R20251218-002",
