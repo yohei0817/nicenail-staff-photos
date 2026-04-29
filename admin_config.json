@@ -8,7 +8,8 @@
     "Mana.T": "Mana",
     "Minato.T": "Minato",
     "Minato.N": "Minato",
-    "Rikoto.T": "Rikoto"
+    "Rikoto.T": "Rikoto",
+    "Masaki.M": "Masaki"
   },
   "roles_history": {
     "Yuuka*": [
@@ -1239,30 +1240,6 @@
     "Masaki": {
       "retired": "2026-01-31",
       "joined": "2023-10-05"
-    },
-    "Juri.M": {
-      "retired": "2024-04-04",
-      "joined": ""
-    },
-    "Juri": {
-      "retired": "2026-01-06",
-      "joined": ""
-    },
-    "Akari": {
-      "retired": "2025-09-19",
-      "joined": ""
-    },
-    "Ami.K": {
-      "retired": "2025-03-21",
-      "joined": ""
-    },
-    "Hanon": {
-      "retired": "2026-01-31",
-      "joined": ""
-    },
-    "Miho.M": {
-      "retired": "2025-03-09",
-      "joined": ""
     }
   }
 }
