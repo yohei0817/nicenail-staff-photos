@@ -1642,7 +1642,7 @@
       },
       "綱島店": {
         "budget": 4537500,
-        "target": 0
+        "target": 4710000
       },
       "センター南店": {
         "budget": 4235000
@@ -1658,66 +1658,66 @@
       "Aoi__0": {
         "byStore": {
           "綱島店": {
-            "target": 0,
+            "target": 910000,
             "remainDays": 21.5
           }
         },
-        "target": 0,
+        "target": 910000,
         "remainDays": 21.5,
         "helpDays": 0
       },
       "Yui__0": {
         "byStore": {
           "綱島店": {
-            "target": 0,
+            "target": 860000,
             "remainDays": 21
           }
         },
-        "target": 0,
+        "target": 860000,
         "remainDays": 21,
         "helpDays": 0
       },
       "Haruka__0": {
         "byStore": {
           "綱島店": {
-            "target": 0,
+            "target": 800000,
             "remainDays": 18.5
           }
         },
-        "target": 0,
+        "target": 800000,
         "remainDays": 18.5,
         "helpDays": 0
       },
       "Hana__0": {
         "byStore": {
           "綱島店": {
-            "target": 0,
+            "target": 770000,
             "remainDays": 22
           }
         },
-        "target": 0,
+        "target": 770000,
         "remainDays": 22,
         "helpDays": 0
       },
       "Noa__0": {
         "byStore": {
           "綱島店": {
-            "target": 0,
+            "target": 685000,
             "remainDays": 21
           }
         },
-        "target": 0,
+        "target": 685000,
         "remainDays": 21,
         "helpDays": 0
       },
       "Mariko__0": {
         "byStore": {
           "綱島店": {
-            "target": 0,
+            "target": 685000,
             "remainDays": 21
           }
         },
-        "target": 0,
+        "target": 685000,
         "remainDays": 21,
         "helpDays": 0
       }
