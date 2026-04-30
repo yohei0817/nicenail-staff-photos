@@ -54,6 +54,10 @@
       "target": 870000,
       "remainDays": 20
     },
+    "Reika__1": {
+      "target": 900000,
+      "remainDays": 21
+    },
     "Shoko__0": {
       "target": 750000,
       "remainDays": 17
@@ -61,10 +65,6 @@
     "Miyu__0": {
       "target": 550000,
       "remainDays": 19
-    },
-    "Reika__1": {
-      "target": 900000,
-      "remainDays": 21
     },
     "Ann__0": {
       "target": 880000,
@@ -1644,70 +1644,81 @@
         "budget": 4537500
       },
       "センター南店": {
-        "budget": 4235000,
-        "target": 0
+        "budget": 4235000
       },
       "旗の台店": {
         "budget": 3327500
       },
       "溝の口店": {
-        "budget": 4235000
+        "budget": 4235000,
+        "target": 4720000
       }
     },
     "staff": {
-      "Risa__0": {
+      "Hinako__0": {
         "byStore": {
-          "センター南店": {
-            "target": 0,
-            "remainDays": 24
-          }
-        },
-        "target": 0,
-        "remainDays": 24,
-        "helpDays": 0
-      },
-      "Riko__0": {
-        "byStore": {
-          "センター南店": {
-            "target": 0,
+          "溝の口店": {
+            "target": 900000,
             "remainDays": 22
           }
         },
-        "target": 0,
+        "target": 900000,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Yuuka__0": {
+      "Mana__0": {
         "byStore": {
-          "センター南店": {
-            "target": 0,
-            "remainDays": 23
+          "溝の口店": {
+            "target": 800000,
+            "remainDays": 18
           }
         },
-        "target": 0,
-        "remainDays": 23,
+        "target": 800000,
+        "remainDays": 18,
         "helpDays": 0
       },
-      "Karen__0": {
+      "Minato__0": {
         "byStore": {
-          "センター南店": {
-            "target": 0,
-            "remainDays": 23
-          }
-        },
-        "target": 0,
-        "remainDays": 23,
-        "helpDays": 0
-      },
-      "Natsuki__0": {
-        "byStore": {
-          "センター南店": {
-            "target": 0,
+          "溝の口店": {
+            "target": 850000,
             "remainDays": 22
           }
         },
-        "target": 0,
+        "target": 850000,
         "remainDays": 22,
+        "helpDays": 0
+      },
+      "Reika__1": {
+        "byStore": {
+          "溝の口店": {
+            "target": 820000,
+            "remainDays": 20
+          }
+        },
+        "target": 820000,
+        "remainDays": 20,
+        "helpDays": 0
+      },
+      "Shoko__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 750000,
+            "remainDays": 18
+          }
+        },
+        "target": 750000,
+        "remainDays": 18,
+        "helpDays": 0
+      },
+      "Miyu__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 600000,
+            "remainDays": 21
+          }
+        },
+        "target": 600000,
+        "remainDays": 21,
         "helpDays": 0
       }
     },
