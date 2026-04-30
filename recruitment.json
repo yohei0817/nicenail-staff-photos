@@ -3229,11 +3229,11 @@
       "offer_changed_date": null,
       "status": "面接調整中",
       "status_changed_date": "2026-04-25",
-      "source": null,
+      "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-01T01:05:53+09:00"
+      "updated_at": "2026-05-01T02:44:21+09:00"
     },
     {
       "id": "R20260430-004",
