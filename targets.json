@@ -1651,7 +1651,7 @@
       },
       "溝の口店": {
         "budget": 4235000,
-        "target": 4730000
+        "target": 4720000
       }
     },
     "staff": {
@@ -1680,11 +1680,11 @@
       "Minato__0": {
         "byStore": {
           "溝の口店": {
-            "target": 860000,
+            "target": 850000,
             "remainDays": 22
           }
         },
-        "target": 860000,
+        "target": 850000,
         "remainDays": 22,
         "helpDays": 0
       },
