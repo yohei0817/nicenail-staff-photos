@@ -1651,7 +1651,7 @@
       },
       "溝の口店": {
         "budget": 4235000,
-        "target": 4790000
+        "target": 4780000
       }
     },
     "staff": {
@@ -1680,11 +1680,11 @@
       "Minato__0": {
         "byStore": {
           "溝の口店": {
-            "target": 880000,
+            "target": 870000,
             "remainDays": 22
           }
         },
-        "target": 880000,
+        "target": 870000,
         "remainDays": 22,
         "helpDays": 0
       },
@@ -1692,11 +1692,11 @@
         "byStore": {
           "溝の口店": {
             "target": 840000,
-            "remainDays": 20
+            "remainDays": 21
           }
         },
         "target": 840000,
-        "remainDays": 20,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Shoko__0": {
@@ -1723,5 +1723,37 @@
       }
     },
     "month": "2026-05"
+  },
+  "futureMonths": {
+    "2026-06": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 4702500
+        },
+        "大森店": {
+          "budget": 3762000
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 4389000
+        },
+        "旗の台店": {
+          "budget": 3448500
+        },
+        "溝の口店": {
+          "budget": 4389000
+        }
+      },
+      "staff": {},
+      "month": "2026-06"
+    }
   }
 }
