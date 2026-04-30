@@ -1630,19 +1630,23 @@
     "month": "2026-05",
     "stores": {
       "三軒茶屋店": {
-        "budget": 4537500
+        "budget": 4537500,
+        "staffCount": 6
       },
       "二子玉川店": {
         "budget": 4537500,
-        "target": 13046000
+        "target": 13046000,
+        "staffCount": 5
       },
       "自由が丘店": {
         "budget": 4235000,
-        "target": 4300000
+        "target": 4300000,
+        "staffCount": 5
       },
       "大森店": {
         "budget": 3327500,
-        "target": 3380000
+        "target": 3380000,
+        "staffCount": 4
       },
       "綱島店": {
         "budget": 4537500,
@@ -1651,15 +1655,18 @@
       },
       "センター南店": {
         "budget": 4235000,
-        "target": 4670000
+        "target": 4670000,
+        "staffCount": 5
       },
       "旗の台店": {
         "budget": 3327500,
-        "target": 3050000
+        "target": 3050000,
+        "staffCount": 4
       },
       "溝の口店": {
         "budget": 4235000,
-        "target": 4760000
+        "target": 4760000,
+        "staffCount": 6
       }
     },
     "staff": {
