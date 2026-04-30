@@ -1632,7 +1632,8 @@
         "budget": 4537500
       },
       "二子玉川店": {
-        "budget": 4537500
+        "budget": 4537500,
+        "target": 13046000
       },
       "自由が丘店": {
         "budget": 4235000
@@ -1650,75 +1651,63 @@
         "budget": 3327500
       },
       "溝の口店": {
-        "budget": 4235000,
-        "target": 4300000
+        "budget": 4235000
       }
     },
     "staff": {
-      "Hinako__0": {
+      "Machi__0": {
         "byStore": {
-          "溝の口店": {
-            "target": 950000,
-            "remainDays": 22
-          }
-        },
-        "target": 950000,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Mana__0": {
-        "byStore": {
-          "溝の口店": {
-            "target": 800000,
+          "二子玉川店": {
+            "target": 9460000,
             "remainDays": 20
           }
         },
-        "target": 800000,
+        "target": 9460000,
         "remainDays": 20,
         "helpDays": 0
       },
-      "Minato__0": {
+      "Miho__0": {
         "byStore": {
-          "溝の口店": {
-            "target": 900000,
+          "二子玉川店": {
+            "target": 924000,
             "remainDays": 22
           }
         },
-        "target": 900000,
+        "target": 924000,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Reika__1": {
+      "Yuuri__0": {
         "byStore": {
-          "溝の口店": {
-            "target": 900000,
+          "二子玉川店": {
+            "target": 924000,
             "remainDays": 22
           }
         },
-        "target": 900000,
+        "target": 924000,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Shoko__0": {
+      "Natsuki__1": {
         "byStore": {
-          "溝の口店": {
-            "target": 750000,
-            "remainDays": 18
+          "二子玉川店": {
+            "target": 880000,
+            "remainDays": 22
           }
         },
-        "target": 750000,
-        "remainDays": 18,
+        "target": 880000,
+        "remainDays": 22,
         "helpDays": 0
       },
-      "Miyu__0": {
+      "Momo__0": {
         "byStore": {
-          "溝の口店": {
-            "target": 0,
-            "remainDays": 0
+          "二子玉川店": {
+            "target": 858000,
+            "remainDays": 22
           }
         },
-        "target": 0,
-        "remainDays": 0,
+        "target": 858000,
+        "remainDays": 22,
         "helpDays": 0
       }
     },
