@@ -1625,11 +1625,12 @@
       }
     }
   },
-  "month": "2026-04",
   "next": {
+    "month": "2026-05",
     "stores": {
       "三軒茶屋店": {
-        "budget": 4537500
+        "budget": 4537500,
+        "target": 4952000
       },
       "二子玉川店": {
         "budget": 4537500,
@@ -1639,7 +1640,8 @@
         "budget": 4235000
       },
       "大森店": {
-        "budget": 3327500
+        "budget": 3327500,
+        "target": 3380000
       },
       "綱島店": {
         "budget": 4537500
@@ -1655,6 +1657,121 @@
       }
     },
     "staff": {
+      "Monami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 900000,
+            "remainDays": 20
+          },
+          "三軒茶屋店": {
+            "target": 42000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 942000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Mami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 880000,
+            "remainDays": 22
+          }
+        },
+        "target": 880000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Karen__1": {
+        "byStore": {
+          "大森店": {
+            "target": 800000,
+            "remainDays": 20
+          }
+        },
+        "target": 800000,
+        "remainDays": 20,
+        "helpDays": 0
+      },
+      "Konoka__0": {
+        "byStore": {
+          "大森店": {
+            "target": 800000,
+            "remainDays": 22
+          }
+        },
+        "target": 800000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Miki__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 1100000,
+            "remainDays": 25
+          }
+        },
+        "target": 1100000,
+        "remainDays": 25,
+        "helpDays": 0
+      },
+      "Yuuka__2": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 920000,
+            "remainDays": 24
+          }
+        },
+        "target": 920000,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Ann__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 900000,
+            "remainDays": 22
+          }
+        },
+        "target": 900000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Akane__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 750000,
+            "remainDays": 20
+          }
+        },
+        "target": 750000,
+        "remainDays": 20,
+        "helpDays": 0
+      },
+      "Rinka__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 620000,
+            "remainDays": 22
+          }
+        },
+        "target": 620000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Yuumi__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 620000,
+            "remainDays": 22
+          }
+        },
+        "target": 620000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
       "Machi__0": {
         "byStore": {
           "二子玉川店": {
@@ -1710,11 +1827,11 @@
         "remainDays": 22,
         "helpDays": 0
       }
-    },
-    "month": "2026-05"
+    }
   },
   "futureMonths": {
     "2026-06": {
+      "month": "2026-06",
       "stores": {
         "三軒茶屋店": {
           "budget": 5016000
@@ -1741,8 +1858,8 @@
           "budget": 4389000
         }
       },
-      "staff": {},
-      "month": "2026-06"
+      "staff": {}
     }
-  }
+  },
+  "month": "2026-04"
 }
