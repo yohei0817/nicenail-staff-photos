@@ -1633,7 +1633,7 @@
       },
       "二子玉川店": {
         "budget": 4537500,
-        "target": 4543000
+        "target": 4554000
       },
       "自由が丘店": {
         "budget": 4235000
@@ -1691,11 +1691,11 @@
       "Natsuki__1": {
         "byStore": {
           "二子玉川店": {
-            "target": 913000,
+            "target": 924000,
             "remainDays": 22
           }
         },
-        "target": 913000,
+        "target": 924000,
         "remainDays": 22,
         "helpDays": 0
       },
