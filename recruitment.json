@@ -3213,11 +3213,11 @@
       "offer_changed_date": null,
       "status": "面接調整中",
       "status_changed_date": "2026-04-24",
-      "source": null,
+      "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-01T01:05:30+09:00"
+      "updated_at": "2026-05-01T02:44:27+09:00"
     },
     {
       "id": "R20260430-003",
