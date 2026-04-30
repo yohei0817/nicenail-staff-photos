@@ -31,8 +31,8 @@
       "staffCount": 5
     },
     "旗の台店": {
-      "budget": 3327500,
-      "target": 3330000,
+      "budget": 3630000,
+      "target": 3070000,
       "staffCount": 4
     },
     "溝の口店": {
@@ -2533,7 +2533,62 @@
       }
     }
   },
-  "next": null,
+  "next": {
+    "month": "2026-05",
+    "stores": {
+      "旗の台店": {
+        "budget": 3327500,
+        "target": 3050000,
+        "staffCount": 4
+      }
+    },
+    "staff": {
+      "Maki__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 830000,
+            "remainDays": 22
+          }
+        },
+        "target": 830000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Hazuki__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 830000,
+            "remainDays": 22
+          }
+        },
+        "target": 830000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Ayana__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 740000,
+            "remainDays": 22
+          }
+        },
+        "target": 740000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Aki__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 650000,
+            "remainDays": 21
+          }
+        },
+        "target": 650000,
+        "remainDays": 21,
+        "helpDays": 0
+      }
+    }
+  },
   "futureMonths": {
     "2026-06": {
       "month": "2026-06",
