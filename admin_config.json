@@ -1391,6 +1391,14 @@
         "type": "annual",
         "fy": 25
       }
+    ],
+    "Mami": [
+      {
+        "type": "quarterly",
+        "fy": 25,
+        "q": 1,
+        "url": "https://www.notion.so/Summer-Edition-2025-SALON-DIVISION-HERO-INTERVIEW-1e9ab31f37ef801187caf37784e76ad5?source=copy_link"
+      }
     ]
   }
 }
