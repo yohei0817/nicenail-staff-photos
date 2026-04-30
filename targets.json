@@ -1629,110 +1629,84 @@
   "next": {
     "stores": {
       "三軒茶屋店": {
-        "budget": 4537500,
-        "target": 0,
-        "staffCount": 6
+        "budget": 4537500
       },
       "二子玉川店": {
-        "budget": 4537500,
-        "target": 0,
-        "staffCount": 5
+        "budget": 4537500
       },
       "自由が丘店": {
-        "budget": 4235000,
-        "target": 0,
-        "staffCount": 5
+        "budget": 4235000
       },
       "大森店": {
-        "budget": 3327500,
-        "target": 0,
-        "staffCount": 4
+        "budget": 3327500
       },
       "綱島店": {
-        "budget": 4537500,
-        "target": 5189000,
-        "staffCount": 6
+        "budget": 4537500
       },
       "センター南店": {
         "budget": 4235000,
-        "target": 0,
-        "staffCount": 5
+        "target": 0
       },
       "旗の台店": {
-        "budget": 3327500,
-        "target": 0,
-        "staffCount": 4
+        "budget": 3327500
       },
       "溝の口店": {
-        "budget": 4235000,
-        "target": 0,
-        "staffCount": 6
+        "budget": 4235000
       }
     },
     "staff": {
-      "Aoi__0": {
+      "Risa__0": {
         "byStore": {
-          "綱島店": {
-            "target": 1014000,
+          "センター南店": {
+            "target": 0,
+            "remainDays": 24
+          }
+        },
+        "target": 0,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Riko__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 0,
             "remainDays": 22
           }
         },
-        "target": 1014000,
+        "target": 0,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Yui__0": {
+      "Yuuka__0": {
         "byStore": {
-          "綱島店": {
-            "target": 940000,
+          "センター南店": {
+            "target": 0,
+            "remainDays": 23
+          }
+        },
+        "target": 0,
+        "remainDays": 23,
+        "helpDays": 0
+      },
+      "Karen__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 0,
+            "remainDays": 23
+          }
+        },
+        "target": 0,
+        "remainDays": 23,
+        "helpDays": 0
+      },
+      "Natsuki__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 0,
             "remainDays": 22
           }
         },
-        "target": 940000,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Haruka__0": {
-        "byStore": {
-          "綱島店": {
-            "target": 900000,
-            "remainDays": 20
-          }
-        },
-        "target": 900000,
-        "remainDays": 20,
-        "helpDays": 0
-      },
-      "Hana__0": {
-        "byStore": {
-          "綱島店": {
-            "target": 880000,
-            "remainDays": 22
-          }
-        },
-        "target": 880000,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Noa__0": {
-        "byStore": {
-          "綱島店": {
-            "target": 727500,
-            "remainDays": 22
-          }
-        },
-        "target": 727500,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Mariko__0": {
-        "byStore": {
-          "綱島店": {
-            "target": 727500,
-            "remainDays": 22
-          }
-        },
-        "target": 727500,
+        "target": 0,
         "remainDays": 22,
         "helpDays": 0
       }
