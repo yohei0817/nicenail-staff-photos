@@ -1655,7 +1655,7 @@
       },
       "センター南店": {
         "budget": 4235000,
-        "target": 0,
+        "target": 4670000,
         "staffCount": 5
       },
       "旗の台店": {
@@ -2069,6 +2069,61 @@
         },
         "target": 600000,
         "remainDays": 21,
+        "helpDays": 0
+      },
+      "Risa__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 1040000,
+            "remainDays": 24
+          }
+        },
+        "target": 1040000,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Riko__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 950000,
+            "remainDays": 22
+          }
+        },
+        "target": 950000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Yuuka__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 940000,
+            "remainDays": 23
+          }
+        },
+        "target": 940000,
+        "remainDays": 23,
+        "helpDays": 0
+      },
+      "Karen__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 910000,
+            "remainDays": 23
+          }
+        },
+        "target": 910000,
+        "remainDays": 23,
+        "helpDays": 0
+      },
+      "Natsuki__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 830000,
+            "remainDays": 22
+          }
+        },
+        "target": 830000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
