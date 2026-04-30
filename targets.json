@@ -1632,11 +1632,11 @@
         "budget": 4537500
       },
       "二子玉川店": {
-        "budget": 4537500
+        "budget": 4537500,
+        "target": 0
       },
       "自由が丘店": {
-        "budget": 4235000,
-        "target": 4300000
+        "budget": 4235000
       },
       "大森店": {
         "budget": 3327500
@@ -1648,110 +1648,65 @@
         "budget": 4235000
       },
       "旗の台店": {
-        "budget": 3327500,
-        "target": 3050000
+        "budget": 3327500
       },
       "溝の口店": {
         "budget": 4235000
       }
     },
     "staff": {
-      "Yuuka__1": {
+      "Machi__0": {
         "byStore": {
-          "自由が丘店": {
-            "target": 890000,
-            "remainDays": 21.5
+          "二子玉川店": {
+            "target": 0,
+            "remainDays": 20
           }
         },
-        "target": 890000,
-        "remainDays": 21.5,
+        "target": 0,
+        "remainDays": 20,
         "helpDays": 0
       },
-      "Rikoto__0": {
+      "Miho__0": {
         "byStore": {
-          "自由が丘店": {
-            "target": 990000,
-            "remainDays": 24
-          }
-        },
-        "target": 990000,
-        "remainDays": 24,
-        "helpDays": 0
-      },
-      "Rino__0": {
-        "byStore": {
-          "自由が丘店": {
-            "target": 835000,
+          "二子玉川店": {
+            "target": 0,
             "remainDays": 22
           }
         },
-        "target": 835000,
+        "target": 0,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Sayaka__0": {
+      "Yuuri__0": {
         "byStore": {
-          "自由が丘店": {
-            "target": 835000,
+          "二子玉川店": {
+            "target": 0,
             "remainDays": 22
           }
         },
-        "target": 835000,
+        "target": 0,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Kaine__0": {
+      "Natsuki__1": {
         "byStore": {
-          "自由が丘店": {
-            "target": 750000,
+          "二子玉川店": {
+            "target": 0,
             "remainDays": 22
           }
         },
-        "target": 750000,
+        "target": 0,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Maki__0": {
+      "Momo__0": {
         "byStore": {
-          "旗の台店": {
-            "target": 830000,
+          "二子玉川店": {
+            "target": 0,
             "remainDays": 22
           }
         },
-        "target": 830000,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Hazuki__0": {
-        "byStore": {
-          "旗の台店": {
-            "target": 830000,
-            "remainDays": 22
-          }
-        },
-        "target": 830000,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Ayana__0": {
-        "byStore": {
-          "旗の台店": {
-            "target": 740000,
-            "remainDays": 22
-          }
-        },
-        "target": 740000,
-        "remainDays": 22,
-        "helpDays": 0
-      },
-      "Aki__0": {
-        "byStore": {
-          "旗の台店": {
-            "target": 650000,
-            "remainDays": 22
-          }
-        },
-        "target": 650000,
+        "target": 0,
         "remainDays": 22,
         "helpDays": 0
       }
