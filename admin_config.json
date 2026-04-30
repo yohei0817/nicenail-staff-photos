@@ -1390,6 +1390,12 @@
       {
         "type": "annual",
         "fy": 25
+      },
+      {
+        "type": "quarterly",
+        "fy": 25,
+        "q": 3,
+        "url": "https://www.notion.so/Winter-Edition-2025-SALON-DIVISION-HERO-INTERVIEW-1e9ab31f37ef806b832dc5f4570c1690?source=copy_link"
       }
     ],
     "Mami": [
