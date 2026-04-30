@@ -1635,7 +1635,8 @@
         "budget": 4537500
       },
       "自由が丘店": {
-        "budget": 4235000
+        "budget": 4235000,
+        "target": 4280000
       },
       "大森店": {
         "budget": 3327500
@@ -1650,75 +1651,63 @@
         "budget": 3327500
       },
       "溝の口店": {
-        "budget": 4235000,
-        "target": 4720000
+        "budget": 4235000
       }
     },
     "staff": {
-      "Hinako__0": {
+      "Yuuka__1": {
         "byStore": {
-          "溝の口店": {
-            "target": 900000,
+          "自由が丘店": {
+            "target": 885000,
+            "remainDays": 21.5
+          }
+        },
+        "target": 885000,
+        "remainDays": 21.5,
+        "helpDays": 0
+      },
+      "Rikoto__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 985000,
+            "remainDays": 24
+          }
+        },
+        "target": 985000,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Rino__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 830000,
             "remainDays": 22
           }
         },
-        "target": 900000,
+        "target": 830000,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Mana__0": {
+      "Sayaka__0": {
         "byStore": {
-          "溝の口店": {
-            "target": 800000,
-            "remainDays": 18
-          }
-        },
-        "target": 800000,
-        "remainDays": 18,
-        "helpDays": 0
-      },
-      "Minato__0": {
-        "byStore": {
-          "溝の口店": {
-            "target": 850000,
+          "自由が丘店": {
+            "target": 830000,
             "remainDays": 22
           }
         },
-        "target": 850000,
+        "target": 830000,
         "remainDays": 22,
         "helpDays": 0
       },
-      "Reika__1": {
+      "Kaine__0": {
         "byStore": {
-          "溝の口店": {
-            "target": 820000,
-            "remainDays": 20
-          }
-        },
-        "target": 820000,
-        "remainDays": 20,
-        "helpDays": 0
-      },
-      "Shoko__0": {
-        "byStore": {
-          "溝の口店": {
+          "自由が丘店": {
             "target": 750000,
-            "remainDays": 18
+            "remainDays": 22
           }
         },
         "target": 750000,
-        "remainDays": 18,
-        "helpDays": 0
-      },
-      "Miyu__0": {
-        "byStore": {
-          "溝の口店": {
-            "target": 600000,
-            "remainDays": 21
-          }
-        },
-        "target": 600000,
-        "remainDays": 21,
+        "remainDays": 22,
         "helpDays": 0
       }
     },
