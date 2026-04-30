@@ -1363,6 +1363,12 @@
         "type": "annual",
         "fy": 24
       }
+    ],
+    "Yuuka*": [
+      {
+        "type": "annual",
+        "fy": 24
+      }
     ]
   }
 }
