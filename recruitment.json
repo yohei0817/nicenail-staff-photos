@@ -3266,6 +3266,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-01T02:39:39+09:00"
+    },
+    {
+      "id": "R20260430-006",
+      "applied_date": "2026-04-30",
+      "name": "池田",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-04-30",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-01T05:10:09+09:00"
     }
   ]
 }
