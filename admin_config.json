@@ -1375,6 +1375,12 @@
         "type": "annual",
         "fy": 24
       }
+    ],
+    "Yui": [
+      {
+        "type": "annual",
+        "fy": 25
+      }
     ]
   }
 }
