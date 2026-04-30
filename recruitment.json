@@ -3207,8 +3207,8 @@
       "id": "R20260430-002",
       "applied_date": "2026-04-24",
       "name": "瀬川 樹聖",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-12",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3217,7 +3217,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-01T02:46:26+09:00"
+      "updated_at": "2026-05-01T02:47:34+09:00"
     },
     {
       "id": "R20260430-003",
