@@ -3202,6 +3202,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-01T01:05:15+09:00"
+    },
+    {
+      "id": "R20260430-002",
+      "applied_date": "2026-04-30",
+      "name": "瀬川 樹聖",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-04-24",
+      "source": null,
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-01T01:05:30+09:00"
     }
   ]
 }
