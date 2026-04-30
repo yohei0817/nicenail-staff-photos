@@ -1351,6 +1351,12 @@
         "type": "annual",
         "fy": 23
       }
+    ],
+    "Reika": [
+      {
+        "type": "annual",
+        "fy": 23
+      }
     ]
   }
 }
