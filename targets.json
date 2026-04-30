@@ -1651,7 +1651,7 @@
       },
       "溝の口店": {
         "budget": 4235000,
-        "target": 4730000
+        "target": 4790000
       }
     },
     "staff": {
@@ -1669,33 +1669,33 @@
       "Mana__0": {
         "byStore": {
           "溝の口店": {
-            "target": 800000,
+            "target": 820000,
             "remainDays": 18
           }
         },
-        "target": 800000,
+        "target": 820000,
         "remainDays": 18,
         "helpDays": 0
       },
       "Minato__0": {
         "byStore": {
           "溝の口店": {
-            "target": 850000,
+            "target": 880000,
             "remainDays": 22
           }
         },
-        "target": 850000,
+        "target": 880000,
         "remainDays": 22,
         "helpDays": 0
       },
       "Reika__1": {
         "byStore": {
           "溝の口店": {
-            "target": 830000,
+            "target": 840000,
             "remainDays": 20
           }
         },
-        "target": 830000,
+        "target": 840000,
         "remainDays": 20,
         "helpDays": 0
       },
