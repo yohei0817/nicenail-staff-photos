@@ -3218,6 +3218,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-02T03:02:59+09:00"
+    },
+    {
+      "id": "R20260427-001",
+      "applied_date": "2026-04-27",
+      "name": "三枝 美桜",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-01",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-02T03:03:20+09:00"
     }
   ]
 }
