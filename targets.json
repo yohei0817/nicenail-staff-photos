@@ -22,7 +22,7 @@
     },
     "綱島店": {
       "budget": 4537500,
-      "target": 5189000,
+      "target": 4680000,
       "staffCount": 6
     },
     "センター南店": {
@@ -314,66 +314,66 @@
     "Aoi__0": {
       "byStore": {
         "綱島店": {
-          "target": 1014000,
+          "target": 900000,
           "remainDays": 22
         }
       },
-      "target": 1014000,
+      "target": 900000,
       "remainDays": 22,
       "helpDays": 0
     },
     "Yui__0": {
       "byStore": {
         "綱島店": {
-          "target": 940000,
-          "remainDays": 22
+          "target": 860000,
+          "remainDays": 21
         }
       },
-      "target": 940000,
-      "remainDays": 22,
+      "target": 860000,
+      "remainDays": 21,
       "helpDays": 0
     },
     "Haruka__0": {
       "byStore": {
         "綱島店": {
-          "target": 900000,
-          "remainDays": 20
+          "target": 780000,
+          "remainDays": 19
         }
       },
-      "target": 900000,
-      "remainDays": 20,
+      "target": 780000,
+      "remainDays": 19,
       "helpDays": 0
     },
     "Hana__0": {
       "byStore": {
         "綱島店": {
-          "target": 880000,
+          "target": 770000,
           "remainDays": 22
         }
       },
-      "target": 880000,
+      "target": 770000,
       "remainDays": 22,
       "helpDays": 0
     },
     "Noa__0": {
       "byStore": {
         "綱島店": {
-          "target": 727500,
+          "target": 685000,
           "remainDays": 22
         }
       },
-      "target": 727500,
+      "target": 685000,
       "remainDays": 22,
       "helpDays": 0
     },
     "Mariko__0": {
       "byStore": {
         "綱島店": {
-          "target": 727500,
+          "target": 685000,
           "remainDays": 22
         }
       },
-      "target": 727500,
+      "target": 685000,
       "remainDays": 22,
       "helpDays": 0
     },
@@ -1217,6 +1217,816 @@
         },
         "溝の口店": {
           "target": 3718000
+        }
+      }
+    },
+    "2026-05": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 4537500,
+          "target": 4952000,
+          "staffCount": 6
+        },
+        "二子玉川店": {
+          "budget": 4537500,
+          "target": 4598000,
+          "staffCount": 5
+        },
+        "自由が丘店": {
+          "budget": 4235000,
+          "target": 4300000,
+          "staffCount": 5
+        },
+        "大森店": {
+          "budget": 3327500,
+          "target": 3380000,
+          "staffCount": 4
+        },
+        "綱島店": {
+          "budget": 4537500,
+          "target": 4680000,
+          "staffCount": 6
+        },
+        "センター南店": {
+          "budget": 4235000,
+          "target": 4670000,
+          "staffCount": 5
+        },
+        "旗の台店": {
+          "budget": 3327500,
+          "target": 3070000,
+          "staffCount": 4
+        },
+        "溝の口店": {
+          "budget": 4235000,
+          "target": 4760000,
+          "staffCount": 6
+        }
+      },
+      "staff": {
+        "Yuuka__1": {
+          "byStore": {
+            "自由が丘店": {
+              "target": 890000,
+              "remainDays": 21.5
+            }
+          },
+          "target": 890000,
+          "remainDays": 21.5,
+          "helpDays": 0
+        },
+        "Rikoto__0": {
+          "byStore": {
+            "自由が丘店": {
+              "target": 990000,
+              "remainDays": 24
+            }
+          },
+          "target": 990000,
+          "remainDays": 24,
+          "helpDays": 0
+        },
+        "Rino__0": {
+          "byStore": {
+            "自由が丘店": {
+              "target": 835000,
+              "remainDays": 22
+            }
+          },
+          "target": 835000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Sayaka__0": {
+          "byStore": {
+            "自由が丘店": {
+              "target": 835000,
+              "remainDays": 22
+            }
+          },
+          "target": 835000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Kaine__0": {
+          "byStore": {
+            "自由が丘店": {
+              "target": 750000,
+              "remainDays": 22
+            }
+          },
+          "target": 750000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Maki__0": {
+          "byStore": {
+            "旗の台店": {
+              "target": 885000,
+              "remainDays": 22
+            }
+          },
+          "target": 885000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Hazuki__0": {
+          "byStore": {
+            "旗の台店": {
+              "target": 885000,
+              "remainDays": 22
+            }
+          },
+          "target": 885000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Ayana__0": {
+          "byStore": {
+            "旗の台店": {
+              "target": 820000,
+              "remainDays": 22
+            }
+          },
+          "target": 820000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Aki__0": {
+          "byStore": {
+            "旗の台店": {
+              "target": 740000,
+              "remainDays": 21
+            }
+          },
+          "target": 740000,
+          "remainDays": 21,
+          "helpDays": 0
+        },
+        "Machi__0": {
+          "byStore": {
+            "二子玉川店": {
+              "target": 880000,
+              "remainDays": 20
+            }
+          },
+          "target": 880000,
+          "remainDays": 20,
+          "helpDays": 0
+        },
+        "Miho__0": {
+          "byStore": {
+            "二子玉川店": {
+              "target": 946000,
+              "remainDays": 22
+            }
+          },
+          "target": 946000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Yuuri__0": {
+          "byStore": {
+            "二子玉川店": {
+              "target": 946000,
+              "remainDays": 22
+            }
+          },
+          "target": 946000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Natsuki__1": {
+          "byStore": {
+            "二子玉川店": {
+              "target": 924000,
+              "remainDays": 22
+            }
+          },
+          "target": 924000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Momo__0": {
+          "byStore": {
+            "二子玉川店": {
+              "target": 902000,
+              "remainDays": 22
+            }
+          },
+          "target": 902000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Monami__0": {
+          "byStore": {
+            "大森店": {
+              "target": 900000,
+              "remainDays": 20
+            },
+            "三軒茶屋店": {
+              "target": 42000,
+              "remainDays": 1,
+              "type": "help"
+            }
+          },
+          "target": 942000,
+          "remainDays": 21,
+          "helpDays": 0
+        },
+        "Mami__0": {
+          "byStore": {
+            "大森店": {
+              "target": 880000,
+              "remainDays": 22
+            }
+          },
+          "target": 880000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Karen__1": {
+          "byStore": {
+            "大森店": {
+              "target": 800000,
+              "remainDays": 20
+            }
+          },
+          "target": 800000,
+          "remainDays": 20,
+          "helpDays": 0
+        },
+        "Konoka__0": {
+          "byStore": {
+            "大森店": {
+              "target": 800000,
+              "remainDays": 22
+            }
+          },
+          "target": 800000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Miki__0": {
+          "byStore": {
+            "三軒茶屋店": {
+              "target": 1100000,
+              "remainDays": 25
+            }
+          },
+          "target": 1100000,
+          "remainDays": 25,
+          "helpDays": 0
+        },
+        "Yuuka__2": {
+          "byStore": {
+            "三軒茶屋店": {
+              "target": 920000,
+              "remainDays": 24
+            }
+          },
+          "target": 920000,
+          "remainDays": 24,
+          "helpDays": 0
+        },
+        "Ann__0": {
+          "byStore": {
+            "三軒茶屋店": {
+              "target": 900000,
+              "remainDays": 22
+            }
+          },
+          "target": 900000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Akane__0": {
+          "byStore": {
+            "三軒茶屋店": {
+              "target": 750000,
+              "remainDays": 20
+            }
+          },
+          "target": 750000,
+          "remainDays": 20,
+          "helpDays": 0
+        },
+        "Rinka__0": {
+          "byStore": {
+            "三軒茶屋店": {
+              "target": 620000,
+              "remainDays": 22
+            }
+          },
+          "target": 620000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Yuumi__0": {
+          "byStore": {
+            "三軒茶屋店": {
+              "target": 620000,
+              "remainDays": 22
+            }
+          },
+          "target": 620000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Aoi__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 900000,
+              "remainDays": 22
+            }
+          },
+          "target": 900000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Yui__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 860000,
+              "remainDays": 21
+            }
+          },
+          "target": 860000,
+          "remainDays": 21,
+          "helpDays": 0
+        },
+        "Haruka__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 780000,
+              "remainDays": 19
+            }
+          },
+          "target": 780000,
+          "remainDays": 19,
+          "helpDays": 0
+        },
+        "Hana__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 770000,
+              "remainDays": 22
+            }
+          },
+          "target": 770000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Noa__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 685000,
+              "remainDays": 22
+            }
+          },
+          "target": 685000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Mariko__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 685000,
+              "remainDays": 22
+            }
+          },
+          "target": 685000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Hinako__0": {
+          "byStore": {
+            "溝の口店": {
+              "target": 930000,
+              "remainDays": 22
+            }
+          },
+          "target": 930000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Mana__0": {
+          "byStore": {
+            "溝の口店": {
+              "target": 800000,
+              "remainDays": 18
+            }
+          },
+          "target": 800000,
+          "remainDays": 18,
+          "helpDays": 0
+        },
+        "Minato__0": {
+          "byStore": {
+            "溝の口店": {
+              "target": 860000,
+              "remainDays": 22
+            }
+          },
+          "target": 860000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Reika__1": {
+          "byStore": {
+            "溝の口店": {
+              "target": 820000,
+              "remainDays": 20
+            }
+          },
+          "target": 820000,
+          "remainDays": 20,
+          "helpDays": 0
+        },
+        "Shoko__0": {
+          "byStore": {
+            "溝の口店": {
+              "target": 750000,
+              "remainDays": 18
+            }
+          },
+          "target": 750000,
+          "remainDays": 18,
+          "helpDays": 0
+        },
+        "Miyu__0": {
+          "byStore": {
+            "溝の口店": {
+              "target": 600000,
+              "remainDays": 21
+            }
+          },
+          "target": 600000,
+          "remainDays": 21,
+          "helpDays": 0
+        },
+        "Risa__0": {
+          "byStore": {
+            "センター南店": {
+              "target": 1040000,
+              "remainDays": 24
+            }
+          },
+          "target": 1040000,
+          "remainDays": 24,
+          "helpDays": 0
+        },
+        "Riko__0": {
+          "byStore": {
+            "センター南店": {
+              "target": 950000,
+              "remainDays": 22
+            }
+          },
+          "target": 950000,
+          "remainDays": 22,
+          "helpDays": 0
+        },
+        "Yuuka__0": {
+          "byStore": {
+            "センター南店": {
+              "target": 940000,
+              "remainDays": 23
+            }
+          },
+          "target": 940000,
+          "remainDays": 23,
+          "helpDays": 0
+        },
+        "Karen__0": {
+          "byStore": {
+            "センター南店": {
+              "target": 910000,
+              "remainDays": 23
+            }
+          },
+          "target": 910000,
+          "remainDays": 23,
+          "helpDays": 0
+        },
+        "Natsuki__0": {
+          "byStore": {
+            "センター南店": {
+              "target": 830000,
+              "remainDays": 22
+            }
+          },
+          "target": 830000,
+          "remainDays": 22,
+          "helpDays": 0
+        }
+      }
+    },
+    "2026-06": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 4702500
+        },
+        "大森店": {
+          "budget": 3762000
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 4389000
+        },
+        "旗の台店": {
+          "budget": 3448500
+        },
+        "溝の口店": {
+          "budget": 4389000
+        }
+      }
+    },
+    "2026-07": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 5016000
+        },
+        "大森店": {
+          "budget": 4075500
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 4702500
+        },
+        "旗の台店": {
+          "budget": 3448500
+        },
+        "溝の口店": {
+          "budget": 5016000
+        }
+      }
+    },
+    "2026-08": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 5016000
+        },
+        "大森店": {
+          "budget": 4075500
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 5016000
+        },
+        "旗の台店": {
+          "budget": 3448500
+        },
+        "溝の口店": {
+          "budget": 5329500
+        }
+      }
+    },
+    "2026-09": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 5016000
+        },
+        "大森店": {
+          "budget": 4075500
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 5016000
+        },
+        "旗の台店": {
+          "budget": 3762000
+        },
+        "溝の口店": {
+          "budget": 5329500
+        }
+      }
+    },
+    "2026-10": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 4840000
+        },
+        "二子玉川店": {
+          "budget": 4840000
+        },
+        "自由が丘店": {
+          "budget": 4840000
+        },
+        "大森店": {
+          "budget": 3932500
+        },
+        "綱島店": {
+          "budget": 4840000
+        },
+        "センター南店": {
+          "budget": 4840000
+        },
+        "旗の台店": {
+          "budget": 3630000
+        },
+        "溝の口店": {
+          "budget": 5142500
+        }
+      }
+    },
+    "2026-11": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 4752000
+        },
+        "二子玉川店": {
+          "budget": 4752000
+        },
+        "自由が丘店": {
+          "budget": 4752000
+        },
+        "大森店": {
+          "budget": 3861000
+        },
+        "綱島店": {
+          "budget": 4752000
+        },
+        "センター南店": {
+          "budget": 4752000
+        },
+        "旗の台店": {
+          "budget": 3564000
+        },
+        "溝の口店": {
+          "budget": 5049000
+        }
+      }
+    },
+    "2026-12": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 5016000
+        },
+        "大森店": {
+          "budget": 4075500
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 5016000
+        },
+        "旗の台店": {
+          "budget": 3762000
+        },
+        "溝の口店": {
+          "budget": 5329500
+        }
+      }
+    },
+    "2027-01": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 4664000
+        },
+        "二子玉川店": {
+          "budget": 4664000
+        },
+        "自由が丘店": {
+          "budget": 4664000
+        },
+        "大森店": {
+          "budget": 3789500
+        },
+        "綱島店": {
+          "budget": 4664000
+        },
+        "センター南店": {
+          "budget": 4664000
+        },
+        "旗の台店": {
+          "budget": 3498000
+        },
+        "溝の口店": {
+          "budget": 4955500
+        }
+      }
+    },
+    "2027-02": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 4664000
+        },
+        "二子玉川店": {
+          "budget": 4664000
+        },
+        "自由が丘店": {
+          "budget": 4664000
+        },
+        "大森店": {
+          "budget": 3789500
+        },
+        "綱島店": {
+          "budget": 4664000
+        },
+        "センター南店": {
+          "budget": 4664000
+        },
+        "旗の台店": {
+          "budget": 3498000
+        },
+        "溝の口店": {
+          "budget": 4955500
+        }
+      }
+    },
+    "2027-03": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 5016000
+        },
+        "大森店": {
+          "budget": 4075500
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 5016000
+        },
+        "旗の台店": {
+          "budget": 3762000
+        },
+        "溝の口店": {
+          "budget": 5329500
+        }
+      }
+    },
+    "2027-04": {
+      "stores": {
+        "三軒茶屋店": {
+          "budget": 5016000
+        },
+        "二子玉川店": {
+          "budget": 5016000
+        },
+        "自由が丘店": {
+          "budget": 5016000
+        },
+        "大森店": {
+          "budget": 4075500
+        },
+        "綱島店": {
+          "budget": 5016000
+        },
+        "センター南店": {
+          "budget": 5016000
+        },
+        "旗の台店": {
+          "budget": 3762000
+        },
+        "溝の口店": {
+          "budget": 5329500
         }
       }
     },
