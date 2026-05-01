@@ -3186,6 +3186,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-02T03:02:00+09:00"
+    },
+    {
+      "id": "R20260424-002",
+      "applied_date": "2026-04-24",
+      "name": "瀬川 樹聖",
+      "interview": "〇",
+      "interview_changed_date": "2026-05-12",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-01",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-02T03:02:33+09:00"
     }
   ]
 }
