@@ -2196,12 +2196,12 @@
     ],
     "refunds": [
       {
-        "id": "r_1777746411821_u3072n",
-        "date": "2026-05-01",
+        "id": "r_1777746453311_esfuay",
+        "date": "2026-04-30",
         "store": "三軒茶屋店",
         "staff": "Akane",
         "category": "service",
-        "amount": 10,
+        "amount": 10000,
         "customer": "テスト",
         "reason": "返金"
       }
