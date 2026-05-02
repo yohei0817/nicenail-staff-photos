@@ -2194,17 +2194,6 @@
         "kanji_from": "(ヘルプ自動補完)"
       }
     ],
-    "refunds": [
-      {
-        "id": "r_1777746453311_esfuay",
-        "date": "2026-04-30",
-        "store": "三軒茶屋店",
-        "staff": "Akane",
-        "category": "service",
-        "amount": 10000,
-        "customer": "テスト",
-        "reason": "返金"
-      }
-    ]
+    "refunds": []
   }
 }
