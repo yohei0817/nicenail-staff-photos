@@ -2231,16 +2231,26 @@
     ],
     "refunds": [
       {
-        "id": "r_1777742133616_e9k1yh",
+        "id": "r_1777741690132",
         "date": "2026-04-29",
         "store": "三軒茶屋店",
         "staff": "Rinka",
         "category": "product",
         "amount": 990,
-        "customer": "テスト様",
-        "reason": "御会計",
+        "customer": "テスト",
+        "reason": "誤入力",
         "product_name": "N3ガラクナイアシンセラム",
         "qty": 1
+      },
+      {
+        "id": "r_1777743950105_9jtdjf",
+        "date": "2026-04-01",
+        "store": "三軒茶屋店",
+        "staff": "Akane",
+        "category": "service",
+        "amount": 10000,
+        "customer": "テスト",
+        "reason": "返金"
       }
     ]
   }
