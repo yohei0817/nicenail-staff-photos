@@ -2194,6 +2194,17 @@
         "kanji_from": "(ヘルプ自動補完)"
       }
     ],
-    "refunds": []
+    "refunds": [
+      {
+        "id": "r_1777746411821_u3072n",
+        "date": "2026-05-01",
+        "store": "三軒茶屋店",
+        "staff": "Akane",
+        "category": "service",
+        "amount": 10,
+        "customer": "テスト",
+        "reason": "返金"
+      }
+    ]
   }
 }
