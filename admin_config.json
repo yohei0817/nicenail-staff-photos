@@ -2218,6 +2218,13 @@
         "kanji_from": "(ヘルプ自動補完)"
       }
     ],
-    "refunds": []
+    "refunds": [],
+    "workday_cancels": [
+      {
+        "date": "2026-05-02",
+        "staff": "Minato",
+        "reason": "Miyuお会計ミスにより"
+      }
+    ]
   }
 }
