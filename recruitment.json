@@ -3263,9 +3263,9 @@
       "status_changed_date": "2026-05-01",
       "source": "リジョブ",
       "note": "",
-      "deleted": false,
+      "deleted": true,
       "updated_by": "honbu",
-      "updated_at": "2026-05-04T08:28:04+09:00"
+      "updated_at": "2026-05-04T08:43:36+09:00"
     },
     {
       "id": "R20260430-002",
