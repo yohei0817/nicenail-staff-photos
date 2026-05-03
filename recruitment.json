@@ -3298,6 +3298,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-03T22:44:33+09:00"
+    },
+    {
+      "id": "R20260501-002",
+      "applied_date": "2026-05-01",
+      "name": "宇都宮 幸乃",
+      "interview": "〇",
+      "interview_changed_date": "2026-05-08",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-03",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-03T22:47:57+09:00"
     }
   ]
 }
