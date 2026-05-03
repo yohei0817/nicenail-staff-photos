@@ -3282,6 +3282,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-02T03:06:22+09:00"
+    },
+    {
+      "id": "R20260429-001",
+      "applied_date": "2026-04-29",
+      "name": "前澤 星那",
+      "interview": "〇",
+      "interview_changed_date": "2026-05-07",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-03",
+      "source": "紹介",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-03T22:44:33+09:00"
     }
   ]
 }
