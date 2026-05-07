@@ -3335,17 +3335,17 @@
       "id": "R20260502-001",
       "applied_date": "2026-05-02",
       "name": "須田 愛玲菜",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-11",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
       "status_changed_date": "2026-05-03",
-      "source": null,
+      "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-03T22:48:58+09:00"
+      "updated_at": "2026-05-07T19:35:32+09:00"
     }
   ]
 }
