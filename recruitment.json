@@ -3223,17 +3223,17 @@
       "id": "R20260427-001",
       "applied_date": "2026-04-27",
       "name": "三枝 美桜",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-05-01",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-02T03:03:20+09:00"
+      "updated_at": "2026-05-07T19:33:33+09:00"
     },
     {
       "id": "R20260430-001",
