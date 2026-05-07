@@ -2187,13 +2187,13 @@
       "interview_changed_date": "2025-12-21",
       "offer": "〇",
       "offer_changed_date": "2025-12-21",
-      "status": "スクール入校",
+      "status": "スクールリタイア",
       "status_changed_date": "2025-12-21",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
-      "updated_by": "migration_v1",
-      "updated_at": "2026-04-26T20:11:01+09:00"
+      "updated_by": "honbu",
+      "updated_at": "2026-05-08T00:17:19+09:00"
     },
     {
       "id": "R20251229-001",
