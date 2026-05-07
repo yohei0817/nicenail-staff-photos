@@ -3239,17 +3239,17 @@
       "id": "R20260430-001",
       "applied_date": "2026-04-30",
       "name": "亀山 祥乃",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-11",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
-      "status_changed_date": "2026-05-01",
+      "status_changed_date": "2026-05-11",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-02T03:03:40+09:00"
+      "updated_at": "2026-05-07T19:27:07+09:00"
     },
     {
       "id": "R20260501-001",
