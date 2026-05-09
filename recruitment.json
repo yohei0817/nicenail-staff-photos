@@ -3367,8 +3367,8 @@
       "id": "R20260507-001",
       "applied_date": "2026-05-07",
       "name": "野崎 やや",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-12",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3377,7 +3377,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-08T03:22:23+09:00"
+      "updated_at": "2026-05-09T19:37:52+09:00"
     },
     {
       "id": "R20260508-001",
