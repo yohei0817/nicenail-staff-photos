@@ -3383,17 +3383,17 @@
       "id": "R20260508-001",
       "applied_date": "2026-05-08",
       "name": "樽井 優希",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-09",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
-      "status_changed_date": "2026-05-08",
+      "status_changed_date": "2026-05-12",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-09T01:44:17+09:00"
+      "updated_at": "2026-05-10T01:25:16+09:00"
     }
   ]
 }
