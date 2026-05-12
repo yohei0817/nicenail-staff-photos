@@ -3270,18 +3270,18 @@
     {
       "id": "R20260430-002",
       "applied_date": "2026-04-30",
-      "name": "池田",
+      "name": "池田 百華",
       "interview": "〇",
       "interview_changed_date": "2026-05-07",
-      "offer": null,
-      "offer_changed_date": null,
-      "status": "面接調整中",
+      "offer": "〇",
+      "offer_changed_date": "2026-05-12",
+      "status": "スクール入校",
       "status_changed_date": "2026-05-07",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-07T19:26:55+09:00"
+      "updated_at": "2026-05-12T19:05:03+09:00"
     },
     {
       "id": "R20260429-001",
