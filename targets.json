@@ -7,7 +7,7 @@
     },
     "二子玉川店": {
       "budget": 4537500,
-      "target": 4030000,
+      "target": 4598000,
       "staffCount": 5
     },
     "自由が丘店": {
@@ -499,6 +499,17 @@
       },
       "target": 830000,
       "remainDays": 22,
+      "helpDays": 0
+    },
+    "Yuuhi__0": {
+      "byStore": {
+        "二子玉川店": {
+          "target": 0,
+          "remainDays": 13
+        }
+      },
+      "target": 0,
+      "remainDays": 13,
       "helpDays": 0
     }
   },
@@ -1232,7 +1243,7 @@
         },
         "二子玉川店": {
           "budget": 4537500,
-          "target": 4030000,
+          "target": 4598000,
           "staffCount": 5
         },
         "自由が丘店": {
@@ -1264,6 +1275,9 @@
           "budget": 4235000,
           "target": 4820000,
           "staffCount": 6
+        },
+        "新横浜店": {
+          "budget": 110000
         }
       },
       "staff": {
@@ -1721,6 +1735,17 @@
           },
           "target": 830000,
           "remainDays": 22,
+          "helpDays": 0
+        },
+        "Yuuhi__0": {
+          "byStore": {
+            "二子玉川店": {
+              "target": 0,
+              "remainDays": 13
+            }
+          },
+          "target": 0,
+          "remainDays": 13,
           "helpDays": 0
         }
       }
@@ -2357,28 +2382,44 @@
     "month": "2026-06",
     "stores": {
       "三軒茶屋店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 4952000,
+        "staffCount": 6
       },
       "二子玉川店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 4554000,
+        "staffCount": 5
       },
       "自由が丘店": {
-        "budget": 4702500
+        "budget": 4702500,
+        "target": 4300000,
+        "staffCount": 5
       },
       "大森店": {
-        "budget": 3762000
+        "budget": 3762000,
+        "target": 3380000,
+        "staffCount": 4
       },
       "綱島店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 4680000,
+        "staffCount": 6
       },
       "センター南店": {
-        "budget": 4389000
+        "budget": 4389000,
+        "target": 4670000,
+        "staffCount": 5
       },
       "旗の台店": {
-        "budget": 3448500
+        "budget": 3448500,
+        "target": 3050000,
+        "staffCount": 4
       },
       "溝の口店": {
-        "budget": 4389000
+        "budget": 4389000,
+        "target": 4760000,
+        "staffCount": 6
       },
       "新横浜店": {
         "budget": 1485000
