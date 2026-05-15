@@ -3458,6 +3458,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-15T21:32:24+09:00"
+    },
+    {
+      "id": "R20260515-002",
+      "applied_date": "2026-05-15",
+      "name": "近藤 留琉愛",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-15",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-15T23:34:58+09:00"
     }
   ]
 }
