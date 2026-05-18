@@ -3490,6 +3490,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-18T21:18:39+09:00"
+    },
+    {
+      "id": "R20260518-001",
+      "applied_date": "2026-05-18",
+      "name": "笠水上 萌",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-18",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-19T04:38:00+09:00"
     }
   ]
 }
