@@ -3051,13 +3051,13 @@
       "interview_changed_date": "2026-04-10",
       "offer": "〇",
       "offer_changed_date": "2026-04-17",
-      "status": "スクール入校",
+      "status": "内定受諾後辞退",
       "status_changed_date": "2026-04-17",
       "source": "HPBW",
       "note": "",
       "deleted": false,
-      "updated_by": "ver18.7_sync",
-      "updated_at": "2026-04-27T07:22:07+09:00"
+      "updated_by": "honbu",
+      "updated_at": "2026-05-18T20:32:52+09:00"
     },
     {
       "id": "R20260410-002",
