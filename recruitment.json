@@ -3351,17 +3351,17 @@
       "id": "R20260505-001",
       "applied_date": "2026-05-05",
       "name": "相川 絵美",
-      "interview": "〇",
-      "interview_changed_date": "2026-05-22",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-05-07",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-07T19:36:03+09:00"
+      "updated_at": "2026-05-19T04:38:51+09:00"
     },
     {
       "id": "R20260507-001",
