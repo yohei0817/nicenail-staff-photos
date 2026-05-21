@@ -3447,17 +3447,17 @@
       "id": "R20260515-001",
       "applied_date": "2026-05-15",
       "name": "桐沢 優羽",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-05-15",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-15T21:32:24+09:00"
+      "updated_at": "2026-05-22T05:12:54+09:00"
     },
     {
       "id": "R20260515-002",
