@@ -3511,8 +3511,8 @@
       "id": "R20260521-001",
       "applied_date": "2026-05-21",
       "name": "志村 美由希",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-22",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3521,7 +3521,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-22T05:22:53+09:00"
+      "updated_at": "2026-05-22T08:01:20+09:00"
     },
     {
       "id": "R20260521-002",
