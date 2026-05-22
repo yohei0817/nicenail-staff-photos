@@ -3527,8 +3527,8 @@
       "id": "R20260521-002",
       "applied_date": "2026-05-21",
       "name": "松永 琴葉",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-25",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3537,7 +3537,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-22T05:52:51+09:00"
+      "updated_at": "2026-05-23T01:58:07+09:00"
     },
     {
       "id": "R20260522-001",
