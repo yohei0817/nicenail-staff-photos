@@ -3554,6 +3554,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-05-22T20:18:11+09:00"
+    },
+    {
+      "id": "R20260522-002",
+      "applied_date": "2026-05-22",
+      "name": "石田 有沙",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-05-22",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-05-23T01:42:40+09:00"
     }
   ]
 }
