@@ -3481,15 +3481,15 @@
       "name": "柿崎 愛華",
       "interview": "〇",
       "interview_changed_date": "2026-05-22",
-      "offer": null,
-      "offer_changed_date": null,
-      "status": "面接調整中",
+      "offer": "〇",
+      "offer_changed_date": "2026-05-22",
+      "status": "スクール入校",
       "status_changed_date": "2026-05-15",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-18T21:18:39+09:00"
+      "updated_at": "2026-05-22T22:06:22+09:00"
     },
     {
       "id": "R20260518-001",
