@@ -3575,8 +3575,8 @@
       "id": "R20260525-001",
       "applied_date": "2026-05-25",
       "name": "品田 心優",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-27",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3585,7 +3585,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-26T11:48:09+09:00"
+      "updated_at": "2026-05-27T08:29:04+09:00"
     },
     {
       "id": "R20260525-002",
