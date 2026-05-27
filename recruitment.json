@@ -3607,8 +3607,8 @@
       "id": "R20260527-001",
       "applied_date": "2026-05-27",
       "name": "志賀 里美",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-05-28",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3617,7 +3617,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-28T02:06:11+09:00"
+      "updated_at": "2026-05-28T03:14:16+09:00"
     }
   ]
 }
