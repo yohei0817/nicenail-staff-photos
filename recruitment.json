@@ -3545,15 +3545,15 @@
       "name": "伊藤 映乃",
       "interview": "〇",
       "interview_changed_date": "2026-05-25",
-      "offer": "〇",
-      "offer_changed_date": "2026-05-27",
+      "offer": null,
+      "offer_changed_date": null,
       "status": "面接調整中",
       "status_changed_date": "2026-05-22",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-28T03:14:31+09:00"
+      "updated_at": "2026-05-22T20:18:11+09:00"
     },
     {
       "id": "R20260522-002",
@@ -3577,15 +3577,15 @@
       "name": "品田 心優",
       "interview": "〇",
       "interview_changed_date": "2026-05-27",
-      "offer": "×",
+      "offer": null,
       "offer_changed_date": null,
-      "status": "不採用",
+      "status": "面接調整中",
       "status_changed_date": "2026-05-26",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-28T01:15:27+09:00"
+      "updated_at": "2026-05-27T08:29:04+09:00"
     },
     {
       "id": "R20260525-002",
@@ -3604,20 +3604,20 @@
       "updated_at": "2026-05-26T11:48:36+09:00"
     },
     {
-      "id": "R20260527-001",
-      "applied_date": "2026-05-27",
-      "name": "志賀 里美",
-      "interview": "〇",
-      "interview_changed_date": "2026-05-28",
+      "id": "R20260528-001",
+      "applied_date": "2026-05-28",
+      "name": "須田 朝日",
+      "interview": null,
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
-      "status_changed_date": "2026-05-27",
+      "status_changed_date": "2026-05-28",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-28T03:14:23+09:00"
+      "updated_at": "2026-05-28T09:24:17+09:00"
     }
   ]
 }
