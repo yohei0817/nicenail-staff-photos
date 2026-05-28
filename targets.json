@@ -2399,7 +2399,8 @@
         "budget": 5016000
       },
       "センター南店": {
-        "budget": 2821500
+        "budget": 2821500,
+        "target": 0
       },
       "旗の台店": {
         "budget": 3448500
@@ -2530,6 +2531,39 @@
           }
         },
         "target": 798000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Riko__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 0,
+            "remainDays": 21
+          }
+        },
+        "target": 0,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Yuuka__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 0,
+            "remainDays": 20
+          }
+        },
+        "target": 0,
+        "remainDays": 20,
+        "helpDays": 0
+      },
+      "Karen__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 0,
+            "remainDays": 21
+          }
+        },
+        "target": 0,
         "remainDays": 21,
         "helpDays": 0
       }
