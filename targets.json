@@ -2403,7 +2403,8 @@
         "target": 2830000
       },
       "旗の台店": {
-        "budget": 3448500
+        "budget": 3448500,
+        "target": 3450000
       },
       "溝の口店": {
         "budget": 4389000
@@ -2565,6 +2566,50 @@
         },
         "target": 930000,
         "remainDays": 21,
+        "helpDays": 0
+      },
+      "Hazuki__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 900000,
+            "remainDays": 22
+          }
+        },
+        "target": 900000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Maki__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 900000,
+            "remainDays": 22
+          }
+        },
+        "target": 900000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Ayana__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 850000,
+            "remainDays": 22
+          }
+        },
+        "target": 850000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Aki__0": {
+        "byStore": {
+          "旗の台店": {
+            "target": 800000,
+            "remainDays": 22
+          }
+        },
+        "target": 800000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
