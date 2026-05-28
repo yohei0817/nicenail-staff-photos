@@ -2388,7 +2388,8 @@
         "budget": 5016000
       },
       "自由が丘店": {
-        "budget": 4702500
+        "budget": 4702500,
+        "target": 4730000
       },
       "大森店": {
         "budget": 3762000
@@ -2409,7 +2410,63 @@
         "budget": 1485000
       }
     },
-    "staff": {}
+    "staff": {
+      "Yuuka__1": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 950000,
+            "remainDays": 22
+          }
+        },
+        "target": 950000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Rikoto__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 1040000,
+            "remainDays": 24
+          }
+        },
+        "target": 1040000,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Rino__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 930000,
+            "remainDays": 22
+          }
+        },
+        "target": 930000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Sayaka__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 930000,
+            "remainDays": 22
+          }
+        },
+        "target": 930000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Kaine__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 880000,
+            "remainDays": 22
+          }
+        },
+        "target": 880000,
+        "remainDays": 22,
+        "helpDays": 0
+      }
+    }
   },
   "futureMonths": {
     "2026-06": {
