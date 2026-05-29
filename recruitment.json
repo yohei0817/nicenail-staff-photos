@@ -3527,17 +3527,17 @@
       "id": "R20260521-002",
       "applied_date": "2026-05-21",
       "name": "松永 琴葉",
-      "interview": "〇",
-      "interview_changed_date": "2026-05-25",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-05-21",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-23T01:58:07+09:00"
+      "updated_at": "2026-05-30T00:19:33+09:00"
     },
     {
       "id": "R20260522-001",
