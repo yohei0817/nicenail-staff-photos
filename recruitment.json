@@ -3577,15 +3577,15 @@
       "name": "品田 心優",
       "interview": "〇",
       "interview_changed_date": "2026-05-27",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-05-26",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-27T08:29:04+09:00"
+      "updated_at": "2026-05-30T00:19:57+09:00"
     },
     {
       "id": "R20260525-002",
