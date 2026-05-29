@@ -3559,17 +3559,17 @@
       "id": "R20260522-002",
       "applied_date": "2026-05-22",
       "name": "石田 有沙",
-      "interview": "〇",
-      "interview_changed_date": "2026-05-29",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-05-22",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-24T20:48:43+09:00"
+      "updated_at": "2026-05-30T00:19:03+09:00"
     },
     {
       "id": "R20260525-001",
