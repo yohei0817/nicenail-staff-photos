@@ -2783,11 +2783,11 @@
         "byStore": {
           "新横浜店": {
             "target": 700000,
-            "remainDays": 0
+            "remainDays": 21
           }
         },
         "target": 700000,
-        "remainDays": 0,
+        "remainDays": 21,
         "helpDays": 0
       }
     }
