@@ -2695,22 +2695,22 @@
         "byStore": {
           "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 19
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 19,
         "helpDays": 0
       },
       "Yui__0": {
         "byStore": {
           "綱島店": {
             "target": 0,
-            "remainDays": 0
+            "remainDays": 22
           }
         },
         "target": 0,
-        "remainDays": 0,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Haruka__0": {
