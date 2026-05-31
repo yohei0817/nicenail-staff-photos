@@ -2394,7 +2394,8 @@
         "target": 4730000
       },
       "大森店": {
-        "budget": 3762000
+        "budget": 3762000,
+        "target": 3800000
       },
       "綱島店": {
         "budget": 5016000,
@@ -2854,6 +2855,39 @@
           }
         },
         "target": 700000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Monami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 1400000,
+            "remainDays": 22
+          }
+        },
+        "target": 1400000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Mami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 1250000,
+            "remainDays": 22
+          }
+        },
+        "target": 1250000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Konoka__0": {
+        "byStore": {
+          "大森店": {
+            "target": 1150000,
+            "remainDays": 22
+          }
+        },
+        "target": 1150000,
         "remainDays": 22,
         "helpDays": 0
       }
