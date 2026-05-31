@@ -2383,7 +2383,7 @@
     "stores": {
       "三軒茶屋店": {
         "budget": 5016000,
-        "target": 5160000
+        "target": 5140000
       },
       "二子玉川店": {
         "budget": 5016000,
@@ -2806,11 +2806,11 @@
       "Yuuka__2": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 920000,
+            "target": 900000,
             "remainDays": 22
           }
         },
-        "target": 920000,
+        "target": 900000,
         "remainDays": 22,
         "helpDays": 0
       },
