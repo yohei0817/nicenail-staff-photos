@@ -3433,6 +3433,17 @@
         "customer": "セキグチ様",
         "reason": "ポイント値引きミス",
         "kanji": "田所 茉奈"
+      },
+      {
+        "id": "r_1780307380141_43_k0mv3p",
+        "date": "2026-05-10",
+        "store": "二子玉川店",
+        "staff": "Momo",
+        "category": "service",
+        "amount": 998,
+        "customer": "イケノミウ様",
+        "reason": "学割値引ミス",
+        "kanji": "小笠原 桃萌"
       }
     ],
     "workday_cancels": [
