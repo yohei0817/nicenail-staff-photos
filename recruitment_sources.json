@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "name": "リジョブ",
+      "active": true,
+      "order": 1
+    },
+    {
+      "name": "NIC",
+      "active": true,
+      "order": 2
+    },
+    {
+      "name": "HPBW",
+      "active": true,
+      "order": 3
+    },
+    {
+      "name": "求人.COM",
+      "active": true,
+      "order": 4
+    },
+    {
+      "name": "セイファート",
+      "active": true,
+      "order": 5
+    },
+    {
+      "name": "紹介",
+      "active": true,
+      "order": 6
+    },
+    {
+      "name": "indeed",
+      "active": true,
+      "order": 7
+    }
+  ],
+  "statuses": [
+    "面接調整中",
+    "連絡無し",
+    "面接ばっくれ",
+    "選考辞退",
+    "不採用",
+    "内定辞退",
+    "内定受諾後辞退",
+    "スクールリタイア",
+    "スクール入校"
+  ]
+}
