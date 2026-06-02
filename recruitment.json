@@ -3693,11 +3693,11 @@
       "offer_changed_date": null,
       "status": "面接調整中",
       "status_changed_date": "2026-06-02",
-      "source": null,
+      "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-03T04:57:25+09:00"
+      "updated_at": "2026-06-03T04:59:11+09:00"
     }
   ]
 }
