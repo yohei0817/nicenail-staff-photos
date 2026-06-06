@@ -22,7 +22,7 @@
     },
     "綱島店": {
       "budget": 5016000,
-      "target": 5130000,
+      "target": 5630000,
       "staffCount": 6
     },
     "センター南店": {
@@ -543,6 +543,17 @@
       },
       "target": 700000,
       "remainDays": 21,
+      "helpDays": 0
+    },
+    "Hairi__0": {
+      "byStore": {
+        "綱島店": {
+          "target": 500000,
+          "remainDays": 18
+        }
+      },
+      "target": 500000,
+      "remainDays": 18,
       "helpDays": 0
     }
   },
@@ -1807,7 +1818,7 @@
         },
         "綱島店": {
           "budget": 5016000,
-          "target": 5130000,
+          "target": 5630000,
           "staffCount": 6
         },
         "センター南店": {
@@ -2328,6 +2339,17 @@
           },
           "target": 700000,
           "remainDays": 21,
+          "helpDays": 0
+        },
+        "Hairi__0": {
+          "byStore": {
+            "綱島店": {
+              "target": 500000,
+              "remainDays": 18
+            }
+          },
+          "target": 500000,
+          "remainDays": 18,
           "helpDays": 0
         }
       }
