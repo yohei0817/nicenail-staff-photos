@@ -2971,13 +2971,13 @@
       "interview_changed_date": "2026-03-26",
       "offer": "〇",
       "offer_changed_date": "2026-03-26",
-      "status": "スクール入校",
+      "status": "内定受諾後辞退",
       "status_changed_date": "2026-03-26",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
-      "updated_by": "migration_v1",
-      "updated_at": "2026-04-26T20:11:01+09:00"
+      "updated_by": "honbu",
+      "updated_at": "2026-06-08T20:09:32+09:00"
     },
     {
       "id": "R20260401-001",
