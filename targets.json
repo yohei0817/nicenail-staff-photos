@@ -32,7 +32,7 @@
     },
     "旗の台店": {
       "budget": 3448500,
-      "target": 3450000,
+      "target": 3025000,
       "staffCount": 4
     },
     "溝の口店": {
@@ -126,12 +126,12 @@
     "Ayana__0": {
       "byStore": {
         "旗の台店": {
-          "target": 850000,
-          "remainDays": 22
+          "target": 425000,
+          "remainDays": 11
         }
       },
-      "target": 850000,
-      "remainDays": 22,
+      "target": 425000,
+      "remainDays": 11,
       "helpDays": 0
     },
     "Aki__0": {
@@ -1828,7 +1828,7 @@
         },
         "旗の台店": {
           "budget": 3448500,
-          "target": 3450000,
+          "target": 3025000,
           "staffCount": 4
         },
         "溝の口店": {
@@ -1922,12 +1922,12 @@
         "Ayana__0": {
           "byStore": {
             "旗の台店": {
-              "target": 850000,
-              "remainDays": 22
+              "target": 425000,
+              "remainDays": 11
             }
           },
-          "target": 850000,
-          "remainDays": 22,
+          "target": 425000,
+          "remainDays": 11,
           "helpDays": 0
         },
         "Aki__0": {
