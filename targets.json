@@ -17,7 +17,7 @@
     },
     "大森店": {
       "budget": 3762000,
-      "target": 3850000,
+      "target": 4275000,
       "staffCount": 3
     },
     "綱島店": {
@@ -128,10 +128,14 @@
         "旗の台店": {
           "target": 425000,
           "remainDays": 11
+        },
+        "大森店": {
+          "target": 425000,
+          "remainDays": 11
         }
       },
-      "target": 425000,
-      "remainDays": 11,
+      "target": 850000,
+      "remainDays": 22,
       "helpDays": 0
     },
     "Aki__0": {
@@ -1813,7 +1817,7 @@
         },
         "大森店": {
           "budget": 3762000,
-          "target": 3850000,
+          "target": 4275000,
           "staffCount": 3
         },
         "綱島店": {
@@ -1924,10 +1928,14 @@
             "旗の台店": {
               "target": 425000,
               "remainDays": 11
+            },
+            "大森店": {
+              "target": 425000,
+              "remainDays": 11
             }
           },
-          "target": 425000,
-          "remainDays": 11,
+          "target": 850000,
+          "remainDays": 22,
           "helpDays": 0
         },
         "Aki__0": {
