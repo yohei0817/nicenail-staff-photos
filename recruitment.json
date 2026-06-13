@@ -3826,6 +3826,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-06-12T19:48:00+09:00"
+    },
+    {
+      "id": "R20260613-001",
+      "applied_date": "2026-06-13",
+      "name": "照井 歩果",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-06-13",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-06-13T22:36:13+09:00"
     }
   ]
 }
