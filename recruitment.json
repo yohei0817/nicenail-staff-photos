@@ -3591,17 +3591,17 @@
       "id": "R20260525-002",
       "applied_date": "2026-05-25",
       "name": "伊藤 紗由美",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-05-26",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-26T11:48:36+09:00"
+      "updated_at": "2026-06-14T23:24:14+09:00"
     },
     {
       "id": "R20260528-001",
