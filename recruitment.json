@@ -3831,8 +3831,8 @@
       "id": "R20260613-001",
       "applied_date": "2026-06-13",
       "name": "照井 歩果",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-06-26",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3841,7 +3841,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-13T22:36:13+09:00"
+      "updated_at": "2026-06-14T23:41:56+09:00"
     },
     {
       "id": "R20260613-002",
