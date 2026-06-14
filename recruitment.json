@@ -3853,11 +3853,11 @@
       "offer_changed_date": null,
       "status": "面接調整中",
       "status_changed_date": "2026-06-14",
-      "source": "HPBW",
+      "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-14T23:22:00+09:00"
+      "updated_at": "2026-06-14T23:40:10+09:00"
     }
   ]
 }
