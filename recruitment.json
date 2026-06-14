@@ -3671,17 +3671,17 @@
       "id": "R20260602-001",
       "applied_date": "2026-06-02",
       "name": "佐伯 尚子",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-06-02",
       "source": "HPBW",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-02T22:34:16+09:00"
+      "updated_at": "2026-06-14T23:30:00+09:00"
     },
     {
       "id": "R20260602-002",
