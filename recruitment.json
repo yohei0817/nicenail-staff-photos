@@ -3847,8 +3847,8 @@
       "id": "R20260613-002",
       "applied_date": "2026-06-13",
       "name": "久米 園恵",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-06-16",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3857,7 +3857,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-14T23:40:10+09:00"
+      "updated_at": "2026-06-16T06:05:02+09:00"
     },
     {
       "id": "R20260614-001",
