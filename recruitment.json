@@ -3863,8 +3863,8 @@
       "id": "R20260614-001",
       "applied_date": "2026-06-14",
       "name": "菊池 裕美",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-06-18",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3873,7 +3873,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-16T04:08:58+09:00"
+      "updated_at": "2026-06-16T06:04:53+09:00"
     },
     {
       "id": "R20260615-001",
