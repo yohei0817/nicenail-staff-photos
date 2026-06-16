@@ -3609,15 +3609,15 @@
       "name": "須田 朝日",
       "interview": "〇",
       "interview_changed_date": "2026-05-29",
-      "offer": null,
-      "offer_changed_date": null,
-      "status": "面接調整中",
+      "offer": "〇",
+      "offer_changed_date": "2026-06-16",
+      "status": "選考辞退",
       "status_changed_date": "2026-06-17",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-05-29T23:41:39+09:00"
+      "updated_at": "2026-06-16T23:45:28+09:00"
     },
     {
       "id": "R20260528-002",
