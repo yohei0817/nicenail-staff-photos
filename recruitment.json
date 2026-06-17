@@ -3735,17 +3735,17 @@
       "id": "R20260607-002",
       "applied_date": "2026-06-07",
       "name": "関野ほのか",
-      "interview": "〇",
-      "interview_changed_date": "2026-06-29",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-06-08",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-10T02:20:05+09:00"
+      "updated_at": "2026-06-18T01:22:14+09:00"
     },
     {
       "id": "R20260608-001",
