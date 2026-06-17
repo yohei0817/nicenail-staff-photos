@@ -3906,6 +3906,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-06-16T23:43:17+09:00"
+    },
+    {
+      "id": "R20260617-001",
+      "applied_date": "2026-06-17",
+      "name": "周佳黎",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-06-17",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-06-18T01:24:46+09:00"
     }
   ]
 }
