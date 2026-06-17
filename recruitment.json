@@ -3799,17 +3799,17 @@
       "id": "R20260610-001",
       "applied_date": "2026-06-10",
       "name": "沖井 陽菜",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-06-10",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-11T02:49:16+09:00"
+      "updated_at": "2026-06-18T01:22:03+09:00"
     },
     {
       "id": "R20260612-001",
