@@ -3943,8 +3943,8 @@
       "id": "R20260618-001",
       "applied_date": "2026-06-18",
       "name": "佐藤 麻由",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-06-18",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3953,7 +3953,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-19T03:12:44+09:00"
+      "updated_at": "2026-06-19T03:51:38+09:00"
     }
   ]
 }
