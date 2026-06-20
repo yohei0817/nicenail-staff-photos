@@ -3954,6 +3954,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-06-19T03:55:32+09:00"
+    },
+    {
+      "id": "R20260620-001",
+      "applied_date": "2026-06-20",
+      "name": "大塚 心花",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-06-20",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-06-21T02:03:05+09:00"
     }
   ]
 }
