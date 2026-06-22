@@ -142,7 +142,8 @@
     "Yukino",
     "Yumeko.N",
     "Karen*",
-    "Reika*"
+    "Reika*",
+    "Aki"
   ],
   "concurrent_manager": {
     "Monami__0": [
@@ -1470,6 +1471,10 @@
     "Reika*": {
       "retired": "2026-06-30",
       "joined": "2024-11-13"
+    },
+    "Aki": {
+      "retired": "2026-06-21",
+      "joined": "2026-02-18"
     }
   },
   "awards": {
