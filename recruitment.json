@@ -3812,6 +3812,22 @@
       "updated_at": "2026-06-18T01:22:03+09:00"
     },
     {
+      "id": "R20260611-001",
+      "applied_date": "2026-06-11",
+      "name": "有路 瑞希",
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
+      "offer_changed_date": null,
+      "status": "連絡無し",
+      "status_changed_date": "2026-06-24",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-06-24T17:44:46+09:00"
+    },
+    {
       "id": "R20260612-001",
       "applied_date": "2026-06-12",
       "name": "加藤 澪",
