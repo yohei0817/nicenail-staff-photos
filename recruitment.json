@@ -3986,6 +3986,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-06-21T02:03:05+09:00"
+    },
+    {
+      "id": "R20260622-001",
+      "applied_date": "2026-06-22",
+      "name": "松田マリア梨恵",
+      "interview": "〇",
+      "interview_changed_date": "2026-07-02",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-06-25",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-06-25T20:38:45+09:00"
     }
   ]
 }
