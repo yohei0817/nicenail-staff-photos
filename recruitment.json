@@ -4007,7 +4007,7 @@
       "id": "R20260625-001",
       "applied_date": "2026-06-25",
       "name": "Rivka Steyfhani",
-      "interview": "×",
+      "interview": null,
       "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
@@ -4017,7 +4017,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-25T20:45:48+09:00"
+      "updated_at": "2026-06-25T20:45:59+09:00"
     }
   ]
 }
