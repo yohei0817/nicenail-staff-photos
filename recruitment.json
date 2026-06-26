@@ -3975,8 +3975,8 @@
       "id": "R20260620-001",
       "applied_date": "2026-06-20",
       "name": "大塚 心花",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-04",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -3985,7 +3985,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-21T02:03:05+09:00"
+      "updated_at": "2026-06-26T20:19:21+09:00"
     },
     {
       "id": "R20260622-001",
