@@ -3927,17 +3927,17 @@
       "id": "R20260617-001",
       "applied_date": "2026-06-17",
       "name": "周佳黎",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-06-17",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-18T01:24:46+09:00"
+      "updated_at": "2026-06-26T20:19:40+09:00"
     },
     {
       "id": "R20260617-002",
