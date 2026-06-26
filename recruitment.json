@@ -3943,17 +3943,17 @@
       "id": "R20260617-002",
       "applied_date": "2026-06-17",
       "name": "岸本郁美",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-06-17",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-18T02:16:34+09:00"
+      "updated_at": "2026-06-26T20:20:07+09:00"
     },
     {
       "id": "R20260618-001",
