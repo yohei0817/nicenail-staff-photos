@@ -4007,8 +4007,8 @@
       "id": "R20260623-001",
       "applied_date": "2026-06-23",
       "name": "小山 美咲",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-06-26",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4017,7 +4017,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-25T21:27:09+09:00"
+      "updated_at": "2026-06-26T20:19:08+09:00"
     },
     {
       "id": "R20260625-001",
