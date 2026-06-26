@@ -4007,17 +4007,17 @@
       "id": "R20260623-001",
       "applied_date": "2026-06-23",
       "name": "小山 美咲",
-      "interview": "〇",
-      "interview_changed_date": "2026-06-26",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-06-25",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-26T20:28:25+09:00"
+      "updated_at": "2026-06-27T00:33:25+09:00"
     },
     {
       "id": "R20260625-001",
