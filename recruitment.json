@@ -3959,17 +3959,17 @@
       "id": "R20260618-001",
       "applied_date": "2026-06-18",
       "name": "佐藤 麻由",
-      "interview": "〇",
-      "interview_changed_date": "2026-06-29",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-06-18",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-19T03:55:32+09:00"
+      "updated_at": "2026-06-28T21:09:45+09:00"
     },
     {
       "id": "R20260620-001",
