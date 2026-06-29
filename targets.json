@@ -2983,13 +2983,81 @@
         "budget": 3448500
       },
       "溝の口店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 5020000
       },
       "新横浜店": {
         "budget": 2194500
       }
     },
-    "staff": {}
+    "staff": {
+      "Hinako__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 960000,
+            "remainDays": 21
+          }
+        },
+        "target": 960000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Mana__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 850000,
+            "remainDays": 19
+          }
+        },
+        "target": 850000,
+        "remainDays": 19,
+        "helpDays": 0
+      },
+      "Minato__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 900000,
+            "remainDays": 21
+          }
+        },
+        "target": 900000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Shoko__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 780000,
+            "remainDays": 17
+          }
+        },
+        "target": 780000,
+        "remainDays": 17,
+        "helpDays": 0
+      },
+      "Miyu__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 780000,
+            "remainDays": 22
+          }
+        },
+        "target": 780000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Kaori__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 750000,
+            "remainDays": 22
+          }
+        },
+        "target": 750000,
+        "remainDays": 22,
+        "helpDays": 0
+      }
+    }
   },
   "futureMonths": {
     "2026-08": {
