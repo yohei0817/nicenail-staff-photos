@@ -2985,7 +2985,7 @@
       },
       "溝の口店": {
         "budget": 5016000,
-        "target": 5020000
+        "target": 5050000
       },
       "新横浜店": {
         "budget": 2194500
@@ -3050,11 +3050,11 @@
       "Kaori__0": {
         "byStore": {
           "溝の口店": {
-            "target": 750000,
+            "target": 780000,
             "remainDays": 22
           }
         },
-        "target": 750000,
+        "target": 780000,
         "remainDays": 22,
         "helpDays": 0
       },
