@@ -4055,8 +4055,8 @@
       "id": "R20260627-002",
       "applied_date": "2026-06-27",
       "name": "永田 奏穂",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-01",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4065,7 +4065,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-27T17:35:31+09:00"
+      "updated_at": "2026-06-30T01:53:08+09:00"
     },
     {
       "id": "R20260628-001",
