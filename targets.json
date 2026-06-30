@@ -2963,7 +2963,7 @@
     "stores": {
       "三軒茶屋店": {
         "budget": 5016000,
-        "target": 5660000
+        "target": 5025000
       },
       "二子玉川店": {
         "budget": 5016000,
@@ -3275,29 +3275,29 @@
       "Yuuka__2": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 930000,
+            "target": 950000,
             "remainDays": 22.5
           }
         },
-        "target": 930000,
+        "target": 950000,
         "remainDays": 22.5,
         "helpDays": 0
       },
       "Ann__0": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 600000,
+            "target": 630000,
             "remainDays": 13
           }
         },
-        "target": 600000,
+        "target": 630000,
         "remainDays": 13,
         "helpDays": 0
       },
       "Monami__0": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 850000,
+            "target": 85000,
             "remainDays": 2,
             "type": "help"
           },
@@ -3306,7 +3306,7 @@
             "remainDays": 20
           }
         },
-        "target": 1770000,
+        "target": 1005000,
         "remainDays": 22,
         "helpDays": 0
       },
@@ -3324,22 +3324,22 @@
       "Rinka__0": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 600000,
+            "target": 650000,
             "remainDays": 17
           }
         },
-        "target": 600000,
+        "target": 650000,
         "remainDays": 17,
         "helpDays": 0
       },
       "Yuumi__0": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 800000,
+            "target": 830000,
             "remainDays": 22
           }
         },
-        "target": 800000,
+        "target": 830000,
         "remainDays": 22,
         "helpDays": 0
       },
