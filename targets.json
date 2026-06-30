@@ -2966,7 +2966,8 @@
         "target": 5660000
       },
       "二子玉川店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 5647000
       },
       "自由が丘店": {
         "budget": 4702500,
@@ -3335,6 +3336,83 @@
         },
         "target": 800000,
         "remainDays": 22,
+        "helpDays": 0
+      },
+      "Machi__0": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 880000,
+            "remainDays": 22
+          }
+        },
+        "target": 880000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Miho__0": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 780000,
+            "remainDays": 19
+          }
+        },
+        "target": 780000,
+        "remainDays": 19,
+        "helpDays": 0
+      },
+      "Yuuri__0": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 858000,
+            "remainDays": 22
+          }
+        },
+        "target": 858000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Natsuki__1": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 836000,
+            "remainDays": 22
+          }
+        },
+        "target": 836000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Momo__0": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 800000,
+            "remainDays": 22
+          }
+        },
+        "target": 800000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Yuuhi__0": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 800000,
+            "remainDays": 21
+          }
+        },
+        "target": 800000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Hina__0": {
+        "byStore": {
+          "二子玉川店": {
+            "target": 693000,
+            "remainDays": 21
+          }
+        },
+        "target": 693000,
+        "remainDays": 21,
         "helpDays": 0
       }
     }
