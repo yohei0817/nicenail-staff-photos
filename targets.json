@@ -2974,7 +2974,8 @@
         "target": 5060000
       },
       "大森店": {
-        "budget": 4075500
+        "budget": 4075500,
+        "target": 4140000
       },
       "綱島店": {
         "budget": 5016000,
@@ -3299,10 +3300,14 @@
             "target": 850000,
             "remainDays": 2,
             "type": "help"
+          },
+          "大森店": {
+            "target": 920000,
+            "remainDays": 20
           }
         },
-        "target": 850000,
-        "remainDays": 2,
+        "target": 1770000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Akane__0": {
@@ -3413,6 +3418,50 @@
         },
         "target": 693000,
         "remainDays": 21,
+        "helpDays": 0
+      },
+      "Mami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 920000,
+            "remainDays": 22
+          }
+        },
+        "target": 920000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Ayana__0": {
+        "byStore": {
+          "大森店": {
+            "target": 800000,
+            "remainDays": 22
+          }
+        },
+        "target": 800000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Konoka__0": {
+        "byStore": {
+          "大森店": {
+            "target": 800000,
+            "remainDays": 22
+          }
+        },
+        "target": 800000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Mika leila__0": {
+        "byStore": {
+          "大森店": {
+            "target": 700000,
+            "remainDays": 22
+          }
+        },
+        "target": 700000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
