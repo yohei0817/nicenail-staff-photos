@@ -4087,8 +4087,8 @@
       "id": "R20260628-002",
       "applied_date": "2026-06-28",
       "name": "天本 美優",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-02",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4097,7 +4097,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-28T21:46:32+09:00"
+      "updated_at": "2026-07-02T03:22:46+09:00"
     },
     {
       "id": "R20260701-001",
