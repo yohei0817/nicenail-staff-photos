@@ -4098,6 +4098,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-06-28T21:46:32+09:00"
+    },
+    {
+      "id": "R20260701-001",
+      "applied_date": "2026-07-01",
+      "name": "吉田 水咲葵",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-07-01",
+      "source": "HPBW",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-01T19:51:30+09:00"
     }
   ]
 }
