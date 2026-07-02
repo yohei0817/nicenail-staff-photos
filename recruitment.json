@@ -4135,8 +4135,8 @@
       "id": "R20260702-001",
       "applied_date": "2026-07-02",
       "name": "黒木 優凪",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-03",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4145,7 +4145,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-03T01:39:45+09:00"
+      "updated_at": "2026-07-03T01:51:00+09:00"
     }
   ]
 }
