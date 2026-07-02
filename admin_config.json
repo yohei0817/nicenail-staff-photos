@@ -3076,5 +3076,8 @@
         "reason": "Miyuお会計ミスにより"
       }
     ]
-  }
+  },
+  "sales_neutralize_keywords": [
+    "FOD割引"
+  ]
 }
