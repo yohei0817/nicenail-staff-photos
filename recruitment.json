@@ -3975,17 +3975,17 @@
       "id": "R20260620-001",
       "applied_date": "2026-06-20",
       "name": "大塚 心花",
-      "interview": "〇",
-      "interview_changed_date": "2026-07-04",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-06-20",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-06-26T20:19:21+09:00"
+      "updated_at": "2026-07-04T20:11:47+09:00"
     },
     {
       "id": "R20260622-001",
