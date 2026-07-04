@@ -3080,5 +3080,8 @@
   "sales_neutralize_keywords": [
     "FOD割引",
     "Hulu割引"
-  ]
+  ],
+  "hulu_campaign": {
+    "page_public": true
+  }
 }
