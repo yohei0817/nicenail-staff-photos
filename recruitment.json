@@ -4105,15 +4105,15 @@
       "name": "吉田 水咲葵",
       "interview": "〇",
       "interview_changed_date": "2026-07-08",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-07-01",
       "source": "HPBW",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-02T09:01:16+09:00"
+      "updated_at": "2026-07-09T03:30:55+09:00"
     },
     {
       "id": "R20260701-002",
