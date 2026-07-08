@@ -10,7 +10,7 @@
     },
     "自由が丘店": {
       "budget": 4702500,
-      "target": 5060000
+      "target": 5160000
     },
     "大森店": {
       "budget": 4075500,
@@ -107,8 +107,8 @@
     "Yuuka__1": {
       "byStore": {
         "自由が丘店": {
-          "target": 530000,
-          "remainDays": 12.5
+          "target": 630000,
+          "remainDays": 14.5
         },
         "センター南店": {
           "target": 65000,
@@ -121,8 +121,8 @@
           "type": "help"
         }
       },
-      "target": 945000,
-      "remainDays": 18.5,
+      "target": 1045000,
+      "remainDays": 20.5,
       "helpDays": 0
     },
     "Rikoto__0": {
@@ -2378,7 +2378,7 @@
         },
         "自由が丘店": {
           "budget": 4702500,
-          "target": 5060000
+          "target": 5160000
         },
         "大森店": {
           "budget": 4075500,
@@ -2475,8 +2475,8 @@
         "Yuuka__1": {
           "byStore": {
             "自由が丘店": {
-              "target": 530000,
-              "remainDays": 12.5
+              "target": 630000,
+              "remainDays": 14.5
             },
             "センター南店": {
               "target": 65000,
@@ -2489,8 +2489,8 @@
               "type": "help"
             }
           },
-          "target": 945000,
-          "remainDays": 18.5,
+          "target": 1045000,
+          "remainDays": 20.5,
           "helpDays": 0
         },
         "Rikoto__0": {
