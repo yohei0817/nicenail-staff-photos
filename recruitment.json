@@ -4203,13 +4203,13 @@
       "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-07-10",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-10T19:43:06+09:00"
+      "updated_at": "2026-07-11T03:40:49+09:00"
     }
   ]
 }
