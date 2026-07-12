@@ -4215,8 +4215,8 @@
       "id": "R20260712-001",
       "applied_date": "2026-07-12",
       "name": "千葉 のゑ",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-12",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4225,7 +4225,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-12T21:25:11+09:00"
+      "updated_at": "2026-07-13T05:41:30+09:00"
     }
   ]
 }
