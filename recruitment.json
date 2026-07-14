@@ -4258,6 +4258,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-07-15T02:56:07+09:00"
+    },
+    {
+      "id": "R20260714-002",
+      "applied_date": "2026-07-14",
+      "name": "岡村 優依奈",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-07-14",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-15T03:39:57+09:00"
     }
   ]
 }
