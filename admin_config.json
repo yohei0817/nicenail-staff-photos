@@ -2568,6 +2568,18 @@
       },
       {
         "type": "transfer",
+        "date": "20026-07-15",
+        "store": "新横浜店",
+        "from_staff": "Mariko",
+        "to_staff": "Risa",
+        "amount": 4375,
+        "customer": "ヤナイ　エナ",
+        "reason": "8本お直し1時間対応の為",
+        "kanji_from": "今田 真莉子",
+        "kanji_to": "佐藤 莉紗"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
