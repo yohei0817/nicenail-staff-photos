@@ -4306,6 +4306,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-07-16T01:00:11+09:00"
+    },
+    {
+      "id": "R20260715-003",
+      "applied_date": "2026-07-15",
+      "name": "山口 明子",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-07-15",
+      "source": "indeed",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-16T04:54:37+09:00"
     }
   ]
 }
