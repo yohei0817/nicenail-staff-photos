@@ -2556,6 +2556,18 @@
       },
       {
         "type": "transfer",
+        "date": "2026-07-15",
+        "store": "二子玉川店",
+        "from_staff": "Hina",
+        "to_staff": "Yuuri",
+        "amount": 5185,
+        "customer": "キシモト　マミ",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "山舘 桧苗",
+        "kanji_to": "木村 友梨"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
