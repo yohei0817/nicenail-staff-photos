@@ -4322,6 +4322,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-07-16T04:54:37+09:00"
+    },
+    {
+      "id": "R20260716-001",
+      "applied_date": "2026-07-16",
+      "name": "金森 能子",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-07-16",
+      "source": "HPBW",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-16T23:29:02+09:00"
     }
   ]
 }
