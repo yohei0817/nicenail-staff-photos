@@ -4354,6 +4354,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-07-17T19:53:54+09:00"
+    },
+    {
+      "id": "R20260717-002",
+      "applied_date": "2026-07-17",
+      "name": "小野寺 優理",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-07-17",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-17T19:54:25+09:00"
     }
   ]
 }
