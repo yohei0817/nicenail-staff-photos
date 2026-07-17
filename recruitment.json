@@ -4338,6 +4338,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-07-16T23:29:02+09:00"
+    },
+    {
+      "id": "R20260717-001",
+      "applied_date": "2026-07-17",
+      "name": "船橋海",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "選考辞退",
+      "status_changed_date": "2026-07-17",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-17T19:53:54+09:00"
     }
   ]
 }
