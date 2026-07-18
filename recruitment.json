@@ -4279,8 +4279,8 @@
       "id": "R20260715-001",
       "applied_date": "2026-07-15",
       "name": "鈴木 智絵",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-28",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4289,7 +4289,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-15T22:46:19+09:00"
+      "updated_at": "2026-07-19T01:20:50+09:00"
     },
     {
       "id": "R20260715-002",
