@@ -4375,8 +4375,8 @@
       "id": "R20260717-003",
       "applied_date": "2026-07-17",
       "name": "斉藤 優香",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-07-23",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4385,7 +4385,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-17T19:55:07+09:00"
+      "updated_at": "2026-07-21T04:03:37+09:00"
     },
     {
       "id": "R20260718-001",
