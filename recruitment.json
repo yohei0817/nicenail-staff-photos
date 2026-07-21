@@ -4331,13 +4331,13 @@
       "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-07-16",
       "source": "HPBW",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-16T23:29:02+09:00"
+      "updated_at": "2026-07-22T05:19:15+09:00"
     },
     {
       "id": "R20260717-001",
