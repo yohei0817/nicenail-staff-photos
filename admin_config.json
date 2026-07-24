@@ -143,7 +143,8 @@
     "Yumeko.N",
     "Karen*",
     "Reika*",
-    "Aki"
+    "Aki",
+    "Ayana"
   ],
   "concurrent_manager": {
     "Monami__0": [
@@ -1553,6 +1554,10 @@
     "Aki": {
       "retired": "2026-06-21",
       "joined": "2026-02-18"
+    },
+    "Ayana": {
+      "retired": "2026-08-15",
+      "joined": "2025-08-05"
     }
   },
   "awards": {
