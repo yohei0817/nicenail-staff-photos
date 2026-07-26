@@ -3645,7 +3645,8 @@
         "budget": 5329500
       },
       "新横浜店": {
-        "budget": 2194500
+        "budget": 2194500,
+        "target": 2790000
       }
     },
     "staff": {
@@ -3863,10 +3864,15 @@
           "綱島店": {
             "target": 624000,
             "remainDays": 13
+          },
+          "新横浜店": {
+            "target": 330000,
+            "remainDays": 8,
+            "type": "help"
           }
         },
-        "target": 624000,
-        "remainDays": 13,
+        "target": 954000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Haruka__0": {
@@ -3934,6 +3940,39 @@
         },
         "target": 30000,
         "remainDays": 1,
+        "helpDays": 0
+      },
+      "Risa__0": {
+        "byStore": {
+          "新横浜店": {
+            "target": 960000,
+            "remainDays": 24
+          }
+        },
+        "target": 960000,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Natsuki__0": {
+        "byStore": {
+          "新横浜店": {
+            "target": 800000,
+            "remainDays": 20
+          }
+        },
+        "target": 800000,
+        "remainDays": 20,
+        "helpDays": 0
+      },
+      "Mariko__0": {
+        "byStore": {
+          "新横浜店": {
+            "target": 700000,
+            "remainDays": 22
+          }
+        },
+        "target": 700000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
