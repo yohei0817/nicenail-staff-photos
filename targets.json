@@ -3632,7 +3632,7 @@
       },
       "綱島店": {
         "budget": 5016000,
-        "target": 5364000
+        "target": 5394000
       },
       "センター南店": {
         "budget": 3762000,
@@ -3922,6 +3922,18 @@
         },
         "target": 630000,
         "remainDays": 18,
+        "helpDays": 0
+      },
+      "Rinka__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 30000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 30000,
+        "remainDays": 1,
         "helpDays": 0
       }
     }
