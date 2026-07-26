@@ -22,7 +22,7 @@
     },
     "綱島店": {
       "budget": 5016000,
-      "target": 5260000,
+      "target": 5290000,
       "staffCount": 6
     },
     "センター南店": {
@@ -308,10 +308,15 @@
         "三軒茶屋店": {
           "target": 650000,
           "remainDays": 17
+        },
+        "綱島店": {
+          "target": 30000,
+          "remainDays": 1,
+          "type": "help"
         }
       },
-      "target": 650000,
-      "remainDays": 17,
+      "target": 680000,
+      "remainDays": 18,
       "helpDays": 0
     },
     "Yuumi__0": {
@@ -2442,7 +2447,7 @@
         },
         "綱島店": {
           "budget": 5016000,
-          "target": 5260000,
+          "target": 5290000,
           "staffCount": 6
         },
         "センター南店": {
@@ -2728,10 +2733,15 @@
             "三軒茶屋店": {
               "target": 650000,
               "remainDays": 17
+            },
+            "綱島店": {
+              "target": 30000,
+              "remainDays": 1,
+              "type": "help"
             }
           },
-          "target": 650000,
-          "remainDays": 17,
+          "target": 680000,
+          "remainDays": 18,
           "helpDays": 0
         },
         "Yuumi__0": {
