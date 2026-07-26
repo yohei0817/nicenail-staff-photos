@@ -3646,7 +3646,7 @@
       },
       "新横浜店": {
         "budget": 2194500,
-        "target": 2790000
+        "target": 2820000
       }
     },
     "staff": {
@@ -3924,10 +3924,15 @@
           "綱島店": {
             "target": 630000,
             "remainDays": 18
+          },
+          "新横浜店": {
+            "target": 30000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 630000,
-        "remainDays": 18,
+        "target": 660000,
+        "remainDays": 19,
         "helpDays": 0
       },
       "Rinka__0": {
