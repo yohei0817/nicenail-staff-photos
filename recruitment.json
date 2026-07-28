@@ -4359,8 +4359,8 @@
       "id": "R20260717-002",
       "applied_date": "2026-07-17",
       "name": "小野寺 優理",
-      "interview": "〇",
-      "interview_changed_date": "2026-07-27",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
       "status": "選考辞退",
@@ -4369,7 +4369,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-29T03:13:14+09:00"
+      "updated_at": "2026-07-29T03:15:40+09:00"
     },
     {
       "id": "R20260717-003",
