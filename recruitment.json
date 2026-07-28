@@ -4247,17 +4247,17 @@
       "id": "R20260714-001",
       "applied_date": "2026-07-14",
       "name": "西川 海帆",
-      "interview": "〇",
-      "interview_changed_date": "2026-07-15",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-07-14",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-15T07:36:39+09:00"
+      "updated_at": "2026-07-28T22:13:50+09:00"
     },
     {
       "id": "R20260714-002",
