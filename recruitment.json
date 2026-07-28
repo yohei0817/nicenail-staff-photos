@@ -4217,15 +4217,15 @@
       "name": "千葉 のゑ",
       "interview": "〇",
       "interview_changed_date": "2026-07-12",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-07-12",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-13T05:41:30+09:00"
+      "updated_at": "2026-07-29T03:13:34+09:00"
     },
     {
       "id": "R20260713-001",
