@@ -4427,13 +4427,13 @@
       "interview_changed_date": null,
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-07-21",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-22T03:18:06+09:00"
+      "updated_at": "2026-07-29T03:12:53+09:00"
     },
     {
       "id": "R20260721-002",
