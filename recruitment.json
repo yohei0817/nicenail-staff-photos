@@ -4391,17 +4391,17 @@
       "id": "R20260718-001",
       "applied_date": "2026-07-18",
       "name": "山口 莉夏",
-      "interview": "〇",
-      "interview_changed_date": "2026-07-28",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-07-18",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-19T01:08:28+09:00"
+      "updated_at": "2026-07-29T03:13:05+09:00"
     },
     {
       "id": "R20260719-001",
