@@ -4363,13 +4363,13 @@
       "interview_changed_date": "2026-07-27",
       "offer": null,
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-07-17",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-19T01:14:55+09:00"
+      "updated_at": "2026-07-29T03:13:14+09:00"
     },
     {
       "id": "R20260717-003",
