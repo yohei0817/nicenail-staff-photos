@@ -3644,7 +3644,7 @@
       },
       "溝の口店": {
         "budget": 5329500,
-        "target": 5400000
+        "target": 5340000
       },
       "新横浜店": {
         "budget": 2194500,
@@ -4012,67 +4012,78 @@
       "Hinako__0": {
         "byStore": {
           "溝の口店": {
-            "target": 1200000,
-            "remainDays": 0
+            "target": 980000,
+            "remainDays": 21
           }
         },
-        "target": 1200000,
-        "remainDays": 0,
+        "target": 980000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Mana__0": {
         "byStore": {
           "溝の口店": {
-            "target": 1000000,
-            "remainDays": 0
+            "target": 860000,
+            "remainDays": 20
           }
         },
-        "target": 1000000,
-        "remainDays": 0,
+        "target": 860000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Minato__0": {
         "byStore": {
           "溝の口店": {
-            "target": 1000000,
-            "remainDays": 0
+            "target": 920000,
+            "remainDays": 21
           }
         },
-        "target": 1000000,
-        "remainDays": 0,
+        "target": 920000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Shoko__0": {
         "byStore": {
           "溝の口店": {
-            "target": 200000,
-            "remainDays": 0
+            "target": 130000,
+            "remainDays": 3
           }
         },
-        "target": 200000,
-        "remainDays": 0,
+        "target": 130000,
+        "remainDays": 3,
         "helpDays": 0
       },
       "Miyu__0": {
         "byStore": {
           "溝の口店": {
-            "target": 1000000,
-            "remainDays": 0
+            "target": 850000,
+            "remainDays": 22
           }
         },
-        "target": 1000000,
-        "remainDays": 0,
+        "target": 850000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Kaori__0": {
         "byStore": {
           "溝の口店": {
-            "target": 1000000,
-            "remainDays": 0
+            "target": 850000,
+            "remainDays": 22
           }
         },
-        "target": 1000000,
-        "remainDays": 0,
+        "target": 850000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Seina__0": {
+        "byStore": {
+          "溝の口店": {
+            "target": 750000,
+            "remainDays": 22
+          }
+        },
+        "target": 750000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
