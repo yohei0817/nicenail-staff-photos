@@ -4519,8 +4519,8 @@
       "id": "R20260730-001",
       "applied_date": "2026-07-30",
       "name": "近藤 美月",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-08-03",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4529,7 +4529,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-30T21:20:40+09:00"
+      "updated_at": "2026-07-30T22:59:15+09:00"
     }
   ]
 }
