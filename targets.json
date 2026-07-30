@@ -3676,7 +3676,7 @@
       },
       "溝の口店": {
         "budget": 5329500,
-        "target": 5512000
+        "target": 5504000
       },
       "新横浜店": {
         "budget": 2194500,
@@ -3912,10 +3912,15 @@
             "target": 45000,
             "remainDays": 1,
             "type": "help"
+          },
+          "溝の口店": {
+            "target": 42000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 975000,
-        "remainDays": 21,
+        "target": 1017000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Yui__0": {
@@ -4159,12 +4164,12 @@
       "Seina__0": {
         "byStore": {
           "溝の口店": {
-            "target": 750000,
-            "remainDays": 22
+            "target": 700000,
+            "remainDays": 20
           }
         },
-        "target": 750000,
-        "remainDays": 22,
+        "target": 700000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Miki__0": {
