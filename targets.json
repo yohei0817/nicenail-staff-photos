@@ -3656,7 +3656,7 @@
       },
       "自由が丘店": {
         "budget": 5016000,
-        "target": 5245000
+        "target": 5305000
       },
       "大森店": {
         "budget": 4075500,
@@ -3978,10 +3978,15 @@
             "target": 33000,
             "remainDays": 1,
             "type": "help"
+          },
+          "自由が丘店": {
+            "target": 60000,
+            "remainDays": 2,
+            "type": "help"
           }
         },
-        "target": 693000,
-        "remainDays": 20,
+        "target": 753000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Rinka__0": {
