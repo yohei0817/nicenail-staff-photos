@@ -3666,7 +3666,7 @@
       },
       "溝の口店": {
         "budget": 5329500,
-        "target": 5340000
+        "target": 5370000
       },
       "新横浜店": {
         "budget": 2194500,
@@ -3984,10 +3984,15 @@
             "target": 40000,
             "remainDays": 1,
             "type": "help"
+          },
+          "溝の口店": {
+            "target": 30000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 810000,
-        "remainDays": 21,
+        "target": 840000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Risa__0": {
