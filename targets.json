@@ -3650,7 +3650,7 @@
       },
       "大森店": {
         "budget": 4075500,
-        "target": 4105000
+        "target": 4138000
       },
       "綱島店": {
         "budget": 5016000,
@@ -3958,10 +3958,15 @@
             "target": 30000,
             "remainDays": 1,
             "type": "help"
+          },
+          "大森店": {
+            "target": 33000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 660000,
-        "remainDays": 19,
+        "target": 693000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Rinka__0": {
