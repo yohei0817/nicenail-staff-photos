@@ -3672,7 +3672,7 @@
       },
       "旗の台店": {
         "budget": 3448500,
-        "target": 3460000
+        "target": 3540000
       },
       "溝の口店": {
         "budget": 5329500,
@@ -3892,10 +3892,15 @@
           "綱島店": {
             "target": 850000,
             "remainDays": 18
+          },
+          "旗の台店": {
+            "target": 80000,
+            "remainDays": 2,
+            "type": "help"
           }
         },
-        "target": 850000,
-        "remainDays": 18,
+        "target": 930000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Yui__0": {
