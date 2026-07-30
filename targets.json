@@ -3650,7 +3650,7 @@
       },
       "大森店": {
         "budget": 4075500,
-        "target": 4110000
+        "target": 4105000
       },
       "綱島店": {
         "budget": 5016000,
@@ -3976,7 +3976,7 @@
             "remainDays": 18
           },
           "大森店": {
-            "target": 40000,
+            "target": 35000,
             "remainDays": 1,
             "type": "help"
           },
@@ -3991,7 +3991,7 @@
             "type": "help"
           }
         },
-        "target": 840000,
+        "target": 835000,
         "remainDays": 22,
         "helpDays": 0
       },
