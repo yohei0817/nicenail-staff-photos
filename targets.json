@@ -3668,7 +3668,7 @@
       },
       "センター南店": {
         "budget": 3762000,
-        "target": 4190000
+        "target": 4235000
       },
       "旗の台店": {
         "budget": 3448500,
@@ -3897,10 +3897,15 @@
             "target": 80000,
             "remainDays": 2,
             "type": "help"
+          },
+          "センター南店": {
+            "target": 45000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 930000,
-        "remainDays": 20,
+        "target": 975000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Yui__0": {
