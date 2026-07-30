@@ -3676,7 +3676,7 @@
       },
       "溝の口店": {
         "budget": 5329500,
-        "target": 5370000
+        "target": 5512000
       },
       "新横浜店": {
         "budget": 2194500,
@@ -3733,10 +3733,15 @@
           "二子玉川店": {
             "target": 880000,
             "remainDays": 22
+          },
+          "溝の口店": {
+            "target": 37000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 880000,
-        "remainDays": 22,
+        "target": 917000,
+        "remainDays": 23,
         "helpDays": 0
       },
       "Yuuhi__0": {
@@ -3755,10 +3760,15 @@
           "二子玉川店": {
             "target": 735000,
             "remainDays": 21
+          },
+          "溝の口店": {
+            "target": 105000,
+            "remainDays": 3,
+            "type": "help"
           }
         },
-        "target": 735000,
-        "remainDays": 21,
+        "target": 840000,
+        "remainDays": 24,
         "helpDays": 0
       },
       "Riko__0": {
