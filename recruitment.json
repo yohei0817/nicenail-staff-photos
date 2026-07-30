@@ -4514,6 +4514,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-07-29T21:55:02+09:00"
+    },
+    {
+      "id": "R20260730-001",
+      "applied_date": "2026-07-30",
+      "name": "近藤 美月",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-07-30",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-07-30T21:20:40+09:00"
     }
   ]
 }
