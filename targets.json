@@ -3617,7 +3617,8 @@
     "month": "2026-08",
     "stores": {
       "三軒茶屋店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 6135000
       },
       "二子玉川店": {
         "budget": 5016000,
@@ -3948,10 +3949,14 @@
             "target": 30000,
             "remainDays": 1,
             "type": "help"
+          },
+          "三軒茶屋店": {
+            "target": 700000,
+            "remainDays": 18
           }
         },
-        "target": 30000,
-        "remainDays": 1,
+        "target": 730000,
+        "remainDays": 19,
         "helpDays": 0
       },
       "Risa__0": {
@@ -4083,6 +4088,84 @@
           }
         },
         "target": 750000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Miki__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 1000000,
+            "remainDays": 22
+          }
+        },
+        "target": 1000000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Yuuka__2": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 950000,
+            "remainDays": 22
+          }
+        },
+        "target": 950000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Ann__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 980000,
+            "remainDays": 22
+          }
+        },
+        "target": 980000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Akane__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 930000,
+            "remainDays": 22
+          }
+        },
+        "target": 930000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Monami__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 45000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 45000,
+        "remainDays": 1,
+        "helpDays": 0
+      },
+      "Yuumi__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 850000,
+            "remainDays": 22
+          }
+        },
+        "target": 850000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Rinka__1": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 680000,
+            "remainDays": 22
+          }
+        },
+        "target": 680000,
         "remainDays": 22,
         "helpDays": 0
       }
