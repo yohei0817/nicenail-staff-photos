@@ -17,7 +17,7 @@
     },
     "大森店": {
       "budget": 4075500,
-      "target": 4140000,
+      "target": 4180000,
       "staffCount": 3
     },
     "綱島店": {
@@ -422,10 +422,15 @@
           "target": 40000,
           "remainDays": 1,
           "type": "help"
+        },
+        "大森店": {
+          "target": 40000,
+          "remainDays": 1,
+          "type": "help"
         }
       },
-      "target": 720000,
-      "remainDays": 19,
+      "target": 760000,
+      "remainDays": 20,
       "helpDays": 0
     },
     "Yuumi__0": {
@@ -2447,7 +2452,7 @@
         },
         "大森店": {
           "budget": 4075500,
-          "target": 4140000,
+          "target": 4180000,
           "staffCount": 3
         },
         "綱島店": {
@@ -2852,10 +2857,15 @@
               "target": 40000,
               "remainDays": 1,
               "type": "help"
+            },
+            "大森店": {
+              "target": 40000,
+              "remainDays": 1,
+              "type": "help"
             }
           },
-          "target": 720000,
-          "remainDays": 19,
+          "target": 760000,
+          "remainDays": 20,
           "helpDays": 0
         },
         "Yuumi__0": {
