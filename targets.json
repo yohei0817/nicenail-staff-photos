@@ -32,7 +32,7 @@
     },
     "旗の台店": {
       "budget": 3448500,
-      "target": 3450000,
+      "target": 3495000,
       "staffCount": 4
     },
     "溝の口店": {
@@ -248,10 +248,15 @@
         "綱島店": {
           "target": 920000,
           "remainDays": 20
+        },
+        "旗の台店": {
+          "target": 45000,
+          "remainDays": 1,
+          "type": "help"
         }
       },
-      "target": 920000,
-      "remainDays": 20,
+      "target": 965000,
+      "remainDays": 21,
       "helpDays": 0
     },
     "Yui__0": {
@@ -2467,7 +2472,7 @@
         },
         "旗の台店": {
           "budget": 3448500,
-          "target": 3450000,
+          "target": 3495000,
           "staffCount": 4
         },
         "溝の口店": {
@@ -2683,10 +2688,15 @@
             "綱島店": {
               "target": 920000,
               "remainDays": 20
+            },
+            "旗の台店": {
+              "target": 45000,
+              "remainDays": 1,
+              "type": "help"
             }
           },
-          "target": 920000,
-          "remainDays": 20,
+          "target": 965000,
+          "remainDays": 21,
           "helpDays": 0
         },
         "Yui__0": {
