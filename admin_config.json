@@ -3350,11 +3350,18 @@
     "page_public": true,
     "manual_adds": [
       {
+        "store": "大森店",
+        "count": 1,
+        "date": "2026-07-30",
+        "staff": "Monami",
+        "memo": "7/21 本人登録"
+      },
+      {
         "store": "溝の口店",
         "count": 1,
         "date": "2026-07-30",
         "staff": "Mana",
-        "memo": "自分登録"
+        "memo": "7/29　本人登録"
       }
     ]
   }
