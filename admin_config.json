@@ -3347,6 +3347,15 @@
     "Hulu割引"
   ],
   "hulu_campaign": {
-    "page_public": true
+    "page_public": true,
+    "manual_adds": [
+      {
+        "store": "溝の口店",
+        "count": 1,
+        "date": "2026-07-30",
+        "staff": "Mana",
+        "memo": "自分登録"
+      }
+    ]
   }
 }
