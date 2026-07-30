@@ -4503,8 +4503,8 @@
       "id": "R20260729-001",
       "applied_date": "2026-07-29",
       "name": "佐久間 陽日",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-08-18",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4513,7 +4513,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-29T21:55:02+09:00"
+      "updated_at": "2026-07-30T22:59:00+09:00"
     },
     {
       "id": "R20260730-001",
