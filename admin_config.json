@@ -2679,6 +2679,18 @@
       },
       {
         "type": "transfer",
+        "date": "2026-07-31",
+        "store": "三軒茶屋店",
+        "from_staff": "Rinka*",
+        "to_staff": "Miki",
+        "amount": 3990,
+        "customer": "フルイチ アイ",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "加藤 凜香",
+        "kanji_to": "上床 未來"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
@@ -2756,6 +2768,18 @@
         "reason": "10本お直し対応の為",
         "kanji_from": "湊 海音",
         "kanji_to": "瀬野 彩奈"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-01-28",
+        "store": "旗の台店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Maki",
+        "amount": 5090,
+        "customer": "オオタニ ユカ",
+        "reason": "振り込み支払いのため",
+        "kanji_to": "森山 真希",
+        "kanji_from": "(ヘルプ自動補完)"
       },
       {
         "type": "help_correction",
