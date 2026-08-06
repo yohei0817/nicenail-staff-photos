@@ -4578,6 +4578,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-08-03T00:08:06+09:00"
+    },
+    {
+      "id": "R20260806-001",
+      "applied_date": "2026-08-06",
+      "name": "高野 あいる",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-08-06",
+      "source": null,
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-08-06T19:42:39+09:00"
     }
   ]
 }
