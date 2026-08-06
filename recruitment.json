@@ -4535,17 +4535,17 @@
       "id": "R20260730-002",
       "applied_date": "2026-07-30",
       "name": "横山 智彩",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-07-31",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-07-31T19:17:01+09:00"
+      "updated_at": "2026-08-06T19:44:14+09:00"
     },
     {
       "id": "R20260801-001",
