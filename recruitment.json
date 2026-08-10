@@ -4553,15 +4553,15 @@
       "name": "泉 心緒",
       "interview": "〇",
       "interview_changed_date": "2026-08-10",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-08-02",
       "source": "HPBW",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-06T00:55:43+09:00"
+      "updated_at": "2026-08-10T23:39:25+09:00"
     },
     {
       "id": "R20260802-001",
