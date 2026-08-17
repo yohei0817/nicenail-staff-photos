@@ -426,7 +426,7 @@
         },
         "三軒茶屋店": {
           "target": 700000,
-          "remainDays": 18
+          "remainDays": 10
         },
         "大森店": {
           "target": 35000,
@@ -445,7 +445,7 @@
         }
       },
       "target": 830000,
-      "remainDays": 22,
+      "remainDays": 14,
       "helpDays": 0
     },
     "Yuumi__0": {
@@ -3574,7 +3574,7 @@
             },
             "三軒茶屋店": {
               "target": 700000,
-              "remainDays": 18
+              "remainDays": 10
             },
             "大森店": {
               "target": 35000,
@@ -3593,7 +3593,7 @@
             }
           },
           "target": 830000,
-          "remainDays": 22,
+          "remainDays": 14,
           "helpDays": 0
         },
         "Yuumi__0": {
