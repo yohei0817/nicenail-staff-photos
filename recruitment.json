@@ -4599,17 +4599,17 @@
       "id": "R20260807-001",
       "applied_date": "2026-08-07",
       "name": "小泉 里咲",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-08-07",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-10T23:39:49+09:00"
+      "updated_at": "2026-08-17T18:04:31+09:00"
     },
     {
       "id": "R20260811-001",
