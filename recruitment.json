@@ -4663,8 +4663,8 @@
       "id": "R20260816-001",
       "applied_date": "2026-08-16",
       "name": "伊藤 也乃",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-08-18",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4673,7 +4673,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-16T18:04:50+09:00"
+      "updated_at": "2026-08-17T18:03:58+09:00"
     }
   ]
 }
