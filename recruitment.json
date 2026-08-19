@@ -4583,17 +4583,17 @@
       "id": "R20260806-001",
       "applied_date": "2026-08-06",
       "name": "高野 あいる",
-      "interview": "〇",
-      "interview_changed_date": "2026-08-17",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-08-06",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-12T18:05:52+09:00"
+      "updated_at": "2026-08-19T23:12:34+09:00"
     },
     {
       "id": "R20260807-001",
