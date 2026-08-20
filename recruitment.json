@@ -4647,8 +4647,8 @@
       "id": "R20260812-001",
       "applied_date": "2026-08-12",
       "name": "橋本 きらら",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-08-25",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4657,7 +4657,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-14T01:51:47+09:00"
+      "updated_at": "2026-08-20T20:53:26+09:00"
     },
     {
       "id": "R20260816-001",
