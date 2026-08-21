@@ -3723,7 +3723,71 @@
         "date": "2026-08-03",
         "staff": "Yui",
         "memo": "8/3 本人登録"
+      },
+      {
+        "store": "自由が丘店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Rikoto",
+        "memo": "8/20本人登録"
+      },
+      {
+        "store": "新横浜店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Mariko",
+        "memo": "8/20本人登録"
+      },
+      {
+        "store": "自由が丘店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Yuuka*",
+        "memo": "8/20本人登録"
+      },
+      {
+        "store": "自由が丘店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Rino",
+        "memo": "8/20本人登録"
+      },
+      {
+        "store": "大森店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Konoka",
+        "memo": "8/20友人登録　美容液あり"
+      },
+      {
+        "store": "三軒茶屋店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Yuuka**",
+        "memo": "8/2友人登録"
+      },
+      {
+        "store": "二子玉川店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Machi",
+        "memo": "8/16本人登録"
+      },
+      {
+        "store": "大森店",
+        "count": 1,
+        "date": "2026-08-21",
+        "staff": "Konoka",
+        "memo": "8/16本人登録"
+      },
+      {
+        "store": "二子玉川店",
+        "count": 2,
+        "date": "2026-08-21",
+        "staff": "Hina",
+        "memo": "8/20友人登録2件　美容液あり"
       }
-    ]
+    ],
+    "invalids": {}
   }
 }
