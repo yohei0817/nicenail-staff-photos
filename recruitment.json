@@ -4754,6 +4754,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-08-26T22:34:13+09:00"
+    },
+    {
+      "id": "R20260826-003",
+      "applied_date": "2026-08-26",
+      "name": "松本 璃那莉",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-08-26",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-08-27T05:45:12+09:00"
     }
   ]
 }
