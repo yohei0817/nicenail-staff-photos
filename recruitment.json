@@ -4722,6 +4722,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-08-22T22:00:43+09:00"
+    },
+    {
+      "id": "R20260826-001",
+      "applied_date": "2026-08-26",
+      "name": "中村 玲菜",
+      "interview": "〇",
+      "interview_changed_date": "2026-09-14",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-08-26",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-08-26T20:19:51+09:00"
     }
   ]
 }
