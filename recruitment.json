@@ -4770,6 +4770,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-08-27T05:45:12+09:00"
+    },
+    {
+      "id": "R20260827-001",
+      "applied_date": "2026-08-27",
+      "name": "松田 千帆",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-08-27",
+      "source": "indeed",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-08-27T20:08:21+09:00"
     }
   ]
 }
