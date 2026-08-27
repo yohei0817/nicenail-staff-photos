@@ -4786,6 +4786,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-08-27T20:08:21+09:00"
+    },
+    {
+      "id": "R20260827-002",
+      "applied_date": "2026-08-27",
+      "name": "Cidro Marian joy",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-08-27",
+      "source": "indeed",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-08-27T20:08:45+09:00"
     }
   ]
 }
