@@ -4408,7 +4408,7 @@
       },
       "センター南店": {
         "budget": 3762000,
-        "target": 3780000
+        "target": 3820000
       },
       "旗の台店": {
         "budget": 3762000
@@ -4486,6 +4486,18 @@
         },
         "target": 700000,
         "remainDays": 21,
+        "helpDays": 0
+      },
+      "Aoi__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 40000,
+        "remainDays": 1,
         "helpDays": 0
       }
     }
