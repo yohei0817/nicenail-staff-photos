@@ -4408,7 +4408,7 @@
       },
       "センター南店": {
         "budget": 3762000,
-        "target": 3820000
+        "target": 3829000
       },
       "旗の台店": {
         "budget": 3762000
@@ -4424,45 +4424,45 @@
       "Riko__0": {
         "byStore": {
           "センター南店": {
-            "target": 970000,
+            "target": 950000,
             "remainDays": 20
           }
         },
-        "target": 970000,
+        "target": 950000,
         "remainDays": 20,
         "helpDays": 0
       },
       "Yuuka__0": {
         "byStore": {
           "センター南店": {
-            "target": 970000,
+            "target": 950000,
             "remainDays": 20
           }
         },
-        "target": 970000,
+        "target": 950000,
         "remainDays": 20,
         "helpDays": 0
       },
       "Karen__0": {
         "byStore": {
           "センター南店": {
-            "target": 990000,
+            "target": 970000,
             "remainDays": 21
           }
         },
-        "target": 990000,
+        "target": 970000,
         "remainDays": 21,
         "helpDays": 0
       },
       "Yuuka__1": {
         "byStore": {
           "センター南店": {
-            "target": 150000,
+            "target": 140000,
             "remainDays": 3,
             "type": "help"
           }
         },
-        "target": 150000,
+        "target": 140000,
         "remainDays": 3,
         "helpDays": 0
       },
@@ -4497,6 +4497,30 @@
           }
         },
         "target": 40000,
+        "remainDays": 1,
+        "helpDays": 0
+      },
+      "Ann__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 42000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 42000,
+        "remainDays": 1,
+        "helpDays": 0
+      },
+      "Yuumi__0": {
+        "byStore": {
+          "センター南店": {
+            "target": 37000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 37000,
         "remainDays": 1,
         "helpDays": 0
       }
