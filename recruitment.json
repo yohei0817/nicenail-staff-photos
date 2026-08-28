@@ -4823,8 +4823,8 @@
       "id": "R20260828-001",
       "applied_date": "2026-08-28",
       "name": "久保田 麗楽",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-08-31",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4833,7 +4833,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-28T20:01:57+09:00"
+      "updated_at": "2026-08-29T03:04:48+09:00"
     }
   ]
 }
