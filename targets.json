@@ -4393,7 +4393,7 @@
     "stores": {
       "三軒茶屋店": {
         "budget": 5016000,
-        "target": 412333
+        "target": 79000
       },
       "二子玉川店": {
         "budget": 5016000
@@ -4536,11 +4536,11 @@
       "Miki__0": {
         "byStore": {
           "三軒茶屋店": {
-            "target": 333333,
+            "target": 0,
             "remainDays": 0
           }
         },
-        "target": 333333,
+        "target": 0,
         "remainDays": 0,
         "helpDays": 0
       },
