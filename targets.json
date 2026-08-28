@@ -4396,7 +4396,7 @@
       },
       "二子玉川店": {
         "budget": 5016000,
-        "target": 6128000
+        "target": 6084000
       },
       "自由が丘店": {
         "budget": 5016000
@@ -4658,11 +4658,11 @@
             "type": "help"
           },
           "二子玉川店": {
-            "target": 836000,
+            "target": 792000,
             "remainDays": 22
           }
         },
-        "target": 875000,
+        "target": 831000,
         "remainDays": 23,
         "helpDays": 0
       },
