@@ -4551,8 +4551,8 @@
       "id": "R20260801-001",
       "applied_date": "2026-08-01",
       "name": "泉 心緒",
-      "interview": "〇",
-      "interview_changed_date": "2026-08-10",
+      "interview": "×",
+      "interview_changed_date": null,
       "offer": "×",
       "offer_changed_date": null,
       "status": "選考辞退",
@@ -4561,7 +4561,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-10T23:39:25+09:00"
+      "updated_at": "2026-08-29T03:14:21+09:00"
     },
     {
       "id": "R20260802-001",
