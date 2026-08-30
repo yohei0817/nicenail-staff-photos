@@ -4399,7 +4399,8 @@
         "target": 6084000
       },
       "自由が丘店": {
-        "budget": 5016000
+        "budget": 5016000,
+        "target": 5030000
       },
       "大森店": {
         "budget": 4075500
@@ -4462,10 +4463,14 @@
             "target": 140000,
             "remainDays": 3,
             "type": "help"
+          },
+          "自由が丘店": {
+            "target": 650000,
+            "remainDays": 15
           }
         },
-        "target": 140000,
-        "remainDays": 3,
+        "target": 790000,
+        "remainDays": 18,
         "helpDays": 0
       },
       "Momoka__0": {
@@ -4742,6 +4747,61 @@
         },
         "target": 880000,
         "remainDays": 22,
+        "helpDays": 0
+      },
+      "Rikoto__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 940000,
+            "remainDays": 21
+          }
+        },
+        "target": 940000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Rino__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 880000,
+            "remainDays": 20
+          }
+        },
+        "target": 880000,
+        "remainDays": 20,
+        "helpDays": 0
+      },
+      "Sayaka__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 930000,
+            "remainDays": 21
+          }
+        },
+        "target": 930000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Kaine__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 930000,
+            "remainDays": 21
+          }
+        },
+        "target": 930000,
+        "remainDays": 21,
+        "helpDays": 0
+      },
+      "Mina__0": {
+        "byStore": {
+          "自由が丘店": {
+            "target": 700000,
+            "remainDays": 21
+          }
+        },
+        "target": 700000,
+        "remainDays": 21,
         "helpDays": 0
       }
     }
