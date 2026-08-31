@@ -4697,15 +4697,15 @@
       "name": "今溝梓",
       "interview": "〇",
       "interview_changed_date": "2026-08-25",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-08-21",
       "source": "HPBW",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-22T22:07:50+09:00"
+      "updated_at": "2026-08-31T23:57:09+09:00"
     },
     {
       "id": "R20260822-001",
