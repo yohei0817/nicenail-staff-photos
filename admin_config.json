@@ -2842,6 +2842,42 @@
       },
       {
         "type": "transfer",
+        "date": "2026-08-20",
+        "store": "三軒茶屋店",
+        "from_staff": "Rinka*",
+        "to_staff": "Yuuka**",
+        "amount": 5355,
+        "customer": "スザキ ワカバ",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "加藤 凜香",
+        "kanji_to": "有泉 優香"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-8-21",
+        "store": "三軒茶屋店",
+        "from_staff": "Rinka*",
+        "to_staff": "Akane",
+        "amount": 4532,
+        "customer": "ヤマシタ　アヤナ",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "加藤 凜香",
+        "kanji_to": "平田 茜"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-08-16",
+        "store": "センター南店",
+        "from_staff": "Yuuka",
+        "to_staff": "Junna",
+        "amount": 4320,
+        "customer": "ヨシハラ　ナオコ",
+        "reason": "10本お直しのため",
+        "kanji_from": "高橋 優花",
+        "kanji_to": "小田 純菜"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
@@ -2919,6 +2955,22 @@
         "reason": "10本お直し対応の為",
         "kanji_from": "湊 海音",
         "kanji_to": "瀬野 彩奈"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-03-30",
+        "from_date": "2026-07-28",
+        "to_date": "2026-03-30",
+        "store": "センター南店",
+        "from_store": "新横浜店",
+        "to_store": "センター南店",
+        "from_staff": "Mariko",
+        "to_staff": "Karen",
+        "amount": 2495,
+        "customer": "コウゴ　ミウ",
+        "reason": "キャンセル料他店受取のため",
+        "kanji_from": "今田 真莉子",
+        "kanji_to": "渡邉 楓恋"
       },
       {
         "type": "transfer",
@@ -3150,29 +3202,6 @@
         "customer": "シマサトコ",
         "reason": "ヘルプ会計してしまったため",
         "kanji_to": "佐藤 莉紗",
-        "kanji_from": "(ヘルプ自動補完)"
-      },
-      {
-        "type": "transfer",
-        "date": "2026-07-28",
-        "store": "新横浜店",
-        "from_staff": "Mariko",
-        "to_staff": null,
-        "amount": 2490,
-        "customer": "コウゴ　ミウ",
-        "reason": "キャンセル料他店受取のため",
-        "kanji_from": "今田 真莉子"
-      },
-      {
-        "type": "help_correction",
-        "date": "2026-03-30",
-        "store": "センター南店",
-        "from_staff": "ヘルプ",
-        "to_staff": "Karen",
-        "amount": 2495,
-        "customer": "コウゴ　ミウ",
-        "reason": "キャンセル料他店受取のため",
-        "kanji_to": "渡邉 楓恋",
         "kanji_from": "(ヘルプ自動補完)"
       },
       {
@@ -3674,6 +3703,105 @@
         "customer": "コウノ マ様",
         "reason": "施術返金",
         "kanji": "清水 梨加"
+      },
+      {
+        "id": "r_1788170300101_53_b4gew8",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Miki",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "上床 未來"
+      },
+      {
+        "id": "r_1788170300101_54_l7h7z4",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Yuuka**",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "有泉 優香"
+      },
+      {
+        "id": "r_1788170300101_55_grcqbs",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Ann",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "グェン ニャット アン"
+      },
+      {
+        "id": "r_1788170300101_56_ki9hch",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Akane",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "平田 茜"
+      },
+      {
+        "id": "r_1788170300101_57_ukter8",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Rinka",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "清水 梨加"
+      },
+      {
+        "id": "r_1788170300101_58_kzzz5n",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Yuumi",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "石田 侑未"
+      },
+      {
+        "id": "r_1788170300101_59_srhi52",
+        "date": "2026-08-21",
+        "store": "三軒茶屋店",
+        "staff": "Rinka*",
+        "category": "service",
+        "amount": 1500,
+        "customer": "",
+        "reason": "その他",
+        "kanji": "加藤 凜香"
+      },
+      {
+        "id": "r_1788170300101_60_rk0g0c",
+        "date": "2026-08-21",
+        "store": "二子玉川店",
+        "staff": "Yuuhi",
+        "category": "service",
+        "amount": 1000,
+        "customer": "",
+        "reason": "会計ミス",
+        "kanji": "藤田 優妃"
+      },
+      {
+        "id": "r_1788170300101_61_9f00q2",
+        "date": "2026-08-25",
+        "store": "綱島店",
+        "staff": "Noa",
+        "category": "service",
+        "amount": 620,
+        "customer": "サイトウ アヤノ様",
+        "reason": "学割値引ミス",
+        "kanji": "中村 希愛"
       }
     ],
     "workday_cancels": [
