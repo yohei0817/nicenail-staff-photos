@@ -4397,7 +4397,7 @@
       },
       "二子玉川店": {
         "budget": 5016000,
-        "target": 6084000
+        "target": 6228000
       },
       "自由が丘店": {
         "budget": 5016000,
@@ -4503,10 +4503,15 @@
           "センター南店": {
             "target": 700000,
             "remainDays": 21
+          },
+          "二子玉川店": {
+            "target": 33000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 700000,
-        "remainDays": 21,
+        "target": 733000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Aoi__0": {
@@ -4686,10 +4691,15 @@
           "溝の口店": {
             "target": 850000,
             "remainDays": 1
+          },
+          "二子玉川店": {
+            "target": 35000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 850000,
-        "remainDays": 1,
+        "target": 885000,
+        "remainDays": 2,
         "helpDays": 0
       },
       "Seina__0": {
@@ -4849,10 +4859,15 @@
           "自由が丘店": {
             "target": 930000,
             "remainDays": 21
+          },
+          "二子玉川店": {
+            "target": 42000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 930000,
-        "remainDays": 21,
+        "target": 972000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Mina__0": {
@@ -4903,10 +4918,15 @@
           "旗の台店": {
             "target": 950000,
             "remainDays": 21
+          },
+          "二子玉川店": {
+            "target": 34000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 950000,
-        "remainDays": 21,
+        "target": 984000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Rinka__1": {
