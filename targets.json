@@ -4421,7 +4421,7 @@
       },
       "溝の口店": {
         "budget": 5329500,
-        "target": 5431000
+        "target": 5423000
       },
       "新横浜店": {
         "budget": 2508000,
@@ -4720,11 +4720,11 @@
       "Seina__0": {
         "byStore": {
           "溝の口店": {
-            "target": 820000,
+            "target": 770000,
             "remainDays": 21
           }
         },
-        "target": 820000,
+        "target": 770000,
         "remainDays": 21,
         "helpDays": 0
       },
@@ -5047,10 +5047,15 @@
           "三軒茶屋店": {
             "target": 1080000,
             "remainDays": 23
+          },
+          "溝の口店": {
+            "target": 42000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 1080000,
-        "remainDays": 23,
+        "target": 1122000,
+        "remainDays": 24,
         "helpDays": 0
       },
       "Yuuka__2": {
