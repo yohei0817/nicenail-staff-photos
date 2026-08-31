@@ -4425,7 +4425,7 @@
       },
       "新横浜店": {
         "budget": 2508000,
-        "target": 2799000
+        "target": 2780000
       }
     },
     "staff": {
@@ -4604,10 +4604,15 @@
           "溝の口店": {
             "target": 840000,
             "remainDays": 19
+          },
+          "新横浜店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 840000,
-        "remainDays": 19,
+        "target": 880000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Minato__0": {
@@ -4615,10 +4620,15 @@
           "溝の口店": {
             "target": 900000,
             "remainDays": 20
+          },
+          "新横浜店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 900000,
-        "remainDays": 20,
+        "target": 940000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Shoko__0": {
@@ -4847,10 +4857,15 @@
           "自由が丘店": {
             "target": 880000,
             "remainDays": 20
+          },
+          "新横浜店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 880000,
-        "remainDays": 20,
+        "target": 920000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Sayaka__0": {
@@ -4958,13 +4973,13 @@
             "remainDays": 16
           },
           "新横浜店": {
-            "target": 200000,
-            "remainDays": 5,
+            "target": 240000,
+            "remainDays": 6,
             "type": "help"
           }
         },
-        "target": 840000,
-        "remainDays": 21,
+        "target": 880000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Hana__0": {
@@ -4972,10 +4987,15 @@
           "綱島店": {
             "target": 880000,
             "remainDays": 21
+          },
+          "新横浜店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 880000,
-        "remainDays": 21,
+        "target": 920000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Hairi__0": {
@@ -4992,34 +5012,34 @@
       "Risa__0": {
         "byStore": {
           "新横浜店": {
-            "target": 943000,
-            "remainDays": 23
+            "target": 880000,
+            "remainDays": 21
           }
         },
-        "target": 943000,
-        "remainDays": 23,
+        "target": 880000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Natsuki__0": {
         "byStore": {
           "新横浜店": {
-            "target": 880000,
-            "remainDays": 22
+            "target": 760000,
+            "remainDays": 19
           }
         },
-        "target": 880000,
-        "remainDays": 22,
+        "target": 760000,
+        "remainDays": 19,
         "helpDays": 0
       },
       "Mariko__0": {
         "byStore": {
           "新横浜店": {
-            "target": 736000,
-            "remainDays": 23
+            "target": 700000,
+            "remainDays": 21
           }
         },
-        "target": 736000,
-        "remainDays": 23,
+        "target": 700000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Miki__0": {
