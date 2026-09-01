@@ -4405,7 +4405,7 @@
       },
       "大森店": {
         "budget": 4075500,
-        "target": 4480000
+        "target": 4390000
       },
       "綱島店": {
         "budget": 5016000,
@@ -4490,8 +4490,8 @@
             "remainDays": 0
           },
           "大森店": {
-            "target": 700000,
-            "remainDays": 22
+            "target": 680000,
+            "remainDays": 21
           },
           "綱島店": {
             "target": 30000,
@@ -4499,8 +4499,8 @@
             "type": "help"
           }
         },
-        "target": 730000,
-        "remainDays": 23,
+        "target": 710000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Junna__0": {
@@ -4682,12 +4682,12 @@
             "type": "help"
           },
           "大森店": {
-            "target": 850000,
-            "remainDays": 21
+            "target": 830000,
+            "remainDays": 20
           }
         },
-        "target": 891000,
-        "remainDays": 42,
+        "target": 871000,
+        "remainDays": 41,
         "helpDays": 0
       },
       "Miyu__0": {
@@ -5087,8 +5087,8 @@
       "Mami__0": {
         "byStore": {
           "大森店": {
-            "target": 1000000,
-            "remainDays": 22
+            "target": 980000,
+            "remainDays": 21
           },
           "綱島店": {
             "target": 41000,
@@ -5096,15 +5096,15 @@
             "type": "help"
           }
         },
-        "target": 1041000,
-        "remainDays": 23,
+        "target": 1021000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Mika leila__0": {
         "byStore": {
           "大森店": {
-            "target": 830000,
-            "remainDays": 22
+            "target": 800000,
+            "remainDays": 21
           },
           "綱島店": {
             "target": 30000,
@@ -5112,8 +5112,8 @@
             "type": "help"
           }
         },
-        "target": 860000,
-        "remainDays": 23,
+        "target": 830000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
