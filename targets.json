@@ -4397,7 +4397,7 @@
       },
       "二子玉川店": {
         "budget": 5016000,
-        "target": 6228000
+        "target": 5989000
       },
       "自由が丘店": {
         "budget": 5016000,
@@ -4761,12 +4761,12 @@
             "type": "help"
           },
           "二子玉川店": {
-            "target": 792000,
-            "remainDays": 22
+            "target": 756000,
+            "remainDays": 21
           }
         },
-        "target": 831000,
-        "remainDays": 23,
+        "target": 795000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Miia__0": {
@@ -4799,8 +4799,8 @@
       "Miho__0": {
         "byStore": {
           "二子玉川店": {
-            "target": 760000,
-            "remainDays": 19
+            "target": 720000,
+            "remainDays": 18
           },
           "自由が丘店": {
             "target": 40000,
@@ -4808,15 +4808,15 @@
             "type": "help"
           }
         },
-        "target": 800000,
-        "remainDays": 20,
+        "target": 760000,
+        "remainDays": 19,
         "helpDays": 0
       },
       "Yuuri__0": {
         "byStore": {
           "二子玉川店": {
-            "target": 902000,
-            "remainDays": 22
+            "target": 861000,
+            "remainDays": 21
           },
           "大森店": {
             "target": 40000,
@@ -4824,15 +4824,15 @@
             "type": "help"
           }
         },
-        "target": 942000,
+        "target": 901000,
         "remainDays": 23,
         "helpDays": 0
       },
       "Natsuki__1": {
         "byStore": {
           "二子玉川店": {
-            "target": 924000,
-            "remainDays": 22
+            "target": 882000,
+            "remainDays": 21
           },
           "自由が丘店": {
             "target": 40000,
@@ -4840,15 +4840,15 @@
             "type": "help"
           }
         },
-        "target": 964000,
-        "remainDays": 23,
+        "target": 922000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Momo__0": {
         "byStore": {
           "二子玉川店": {
-            "target": 880000,
-            "remainDays": 22
+            "target": 840000,
+            "remainDays": 21
           },
           "綱島店": {
             "target": 40000,
@@ -4856,15 +4856,15 @@
             "type": "help"
           }
         },
-        "target": 920000,
-        "remainDays": 23,
+        "target": 880000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Yuuhi__0": {
         "byStore": {
           "二子玉川店": {
-            "target": 880000,
-            "remainDays": 22
+            "target": 840000,
+            "remainDays": 21
           },
           "大森店": {
             "target": 40000,
