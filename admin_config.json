@@ -4249,37 +4249,37 @@
     ],
     "invalids": {
       "三軒茶屋店": {
-        "total": 17,
+        "total": 16,
         "alloc": {
           "Miki": 4,
           "Ann": 3,
           "Yuuka**": 3,
-          "■Yuumi": 3,
+          "■Yuumi": 2,
           "■Rinka": 1,
           "Akane": 1,
           "★Rinka*": 2
         }
       },
       "二子玉川店": {
-        "total": 14,
+        "total": 13,
         "alloc": {
-          "Yuuri": 2,
+          "Yuuri": 3,
           "Machi": 2,
           "Natsuki*": 2,
-          "Yuuhi": 2,
+          "Yuuhi": 1,
           "Momo": 2,
-          "Miho": 2,
+          "Miho": 1,
           "★Hina": 2
         }
       },
       "自由が丘店": {
-        "total": 19,
+        "total": 16,
         "alloc": {
-          "Rikoto": 5,
-          "Yuuka*": 4,
+          "Rikoto": 4,
+          "Yuuka*": 3,
           "Sayaka": 3,
           "★Mina": 3,
-          "Rino": 2,
+          "Rino": 1,
           "Kaine": 2
         }
       },
@@ -4322,11 +4322,11 @@
         }
       },
       "溝の口店": {
-        "total": 17,
+        "total": 15,
         "alloc": {
-          "Hinako": 4,
+          "Hinako": 3,
           "Minato": 3,
-          "■Miyu": 3,
+          "■Miyu": 2,
           "Mana": 2,
           "■Kaori": 2,
           "★Seina": 2,
@@ -4334,11 +4334,11 @@
         }
       },
       "新横浜店": {
-        "total": 12,
+        "total": 10,
         "alloc": {
           "Risa": 5,
-          "Natsuki": 4,
-          "■Mariko": 3
+          "Natsuki": 3,
+          "■Mariko": 2
         }
       }
     }
