@@ -4393,7 +4393,7 @@
     "stores": {
       "三軒茶屋店": {
         "budget": 5016000,
-        "target": 5320000
+        "target": 5510000
       },
       "二子玉川店": {
         "budget": 5016000,
@@ -4434,10 +4434,15 @@
           "センター南店": {
             "target": 950000,
             "remainDays": 20
+          },
+          "三軒茶屋店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 950000,
-        "remainDays": 20,
+        "target": 990000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Yuuka__0": {
@@ -4461,10 +4466,15 @@
           "センター南店": {
             "target": 970000,
             "remainDays": 21
+          },
+          "三軒茶屋店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 970000,
-        "remainDays": 21,
+        "target": 1010000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Yuuka__1": {
@@ -4705,10 +4715,15 @@
           "溝の口店": {
             "target": 850000,
             "remainDays": 21
+          },
+          "三軒茶屋店": {
+            "target": 35000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 850000,
-        "remainDays": 21,
+        "target": 885000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Kaori__0": {
@@ -5048,10 +5063,15 @@
           "新横浜店": {
             "target": 880000,
             "remainDays": 21
+          },
+          "三軒茶屋店": {
+            "target": 40000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 880000,
-        "remainDays": 21,
+        "target": 920000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Natsuki__0": {
@@ -5075,10 +5095,15 @@
           "新横浜店": {
             "target": 700000,
             "remainDays": 21
+          },
+          "三軒茶屋店": {
+            "target": 35000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 700000,
-        "remainDays": 21,
+        "target": 735000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Miki__0": {
