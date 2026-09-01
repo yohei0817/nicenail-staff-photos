@@ -4577,6 +4577,33 @@
         "remainDays": 23,
         "helpDays": 0
       },
+      "Miki__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 1080000,
+            "remainDays": 23
+          },
+          "溝の口店": {
+            "target": 42000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 1122000,
+        "remainDays": 24,
+        "helpDays": 0
+      },
+      "Yuuka__2": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 950000,
+            "remainDays": 22
+          }
+        },
+        "target": 950000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
       "Akane__0": {
         "byStore": {
           "三軒茶屋店": {
@@ -4678,7 +4705,7 @@
         "byStore": {
           "溝の口店": {
             "target": 41000,
-            "remainDays": 21,
+            "remainDays": 1,
             "type": "help"
           },
           "大森店": {
@@ -4687,7 +4714,7 @@
           }
         },
         "target": 891000,
-        "remainDays": 42,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Miyu__0": {
@@ -5044,33 +5071,6 @@
         },
         "target": 700000,
         "remainDays": 21,
-        "helpDays": 0
-      },
-      "Miki__0": {
-        "byStore": {
-          "三軒茶屋店": {
-            "target": 1080000,
-            "remainDays": 23
-          },
-          "溝の口店": {
-            "target": 42000,
-            "remainDays": 1,
-            "type": "help"
-          }
-        },
-        "target": 1122000,
-        "remainDays": 24,
-        "helpDays": 0
-      },
-      "Yuuka__2": {
-        "byStore": {
-          "三軒茶屋店": {
-            "target": 950000,
-            "remainDays": 22
-          }
-        },
-        "target": 950000,
-        "remainDays": 22,
         "helpDays": 0
       },
       "Monami__0": {
