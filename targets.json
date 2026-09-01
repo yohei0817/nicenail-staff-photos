@@ -4393,7 +4393,7 @@
     "stores": {
       "三軒茶屋店": {
         "budget": 5016000,
-        "target": 4810000
+        "target": 5510000
       },
       "二子玉川店": {
         "budget": 5016000,
@@ -4960,10 +4960,14 @@
             "target": 38000,
             "remainDays": 1,
             "type": "help"
+          },
+          "三軒茶屋店": {
+            "target": 700000,
+            "remainDays": 22
           }
         },
-        "target": 38000,
-        "remainDays": 1,
+        "target": 738000,
+        "remainDays": 23,
         "helpDays": 0
       },
       "Yui__0": {
