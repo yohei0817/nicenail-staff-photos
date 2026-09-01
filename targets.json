@@ -4678,7 +4678,7 @@
         "byStore": {
           "溝の口店": {
             "target": 41000,
-            "remainDays": 1,
+            "remainDays": 21,
             "type": "help"
           },
           "大森店": {
@@ -4687,7 +4687,7 @@
           }
         },
         "target": 891000,
-        "remainDays": 22,
+        "remainDays": 42,
         "helpDays": 0
       },
       "Miyu__0": {
