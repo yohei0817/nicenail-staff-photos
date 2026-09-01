@@ -4233,6 +4233,100 @@
         "memo": "8/28 本人登録　友人2件　美容液なし　羽田三樹 小池佑輔2件"
       }
     ],
-    "invalids": {}
+    "invalids": {
+      "三軒茶屋店": {
+        "total": 17,
+        "alloc": {
+          "Miki": 4,
+          "Ann": 3,
+          "Yuuka**": 3,
+          "■Yuumi": 3,
+          "■Rinka": 1,
+          "Akane": 1,
+          "★Rinka*": 2
+        }
+      },
+      "二子玉川店": {
+        "total": 14,
+        "alloc": {
+          "Yuuri": 2,
+          "Machi": 2,
+          "Natsuki*": 2,
+          "Yuuhi": 2,
+          "Momo": 2,
+          "Miho": 2,
+          "★Hina": 2
+        }
+      },
+      "自由が丘店": {
+        "total": 19,
+        "alloc": {
+          "Rikoto": 5,
+          "Yuuka*": 4,
+          "Sayaka": 3,
+          "★Mina": 3,
+          "Rino": 2,
+          "Kaine": 2
+        }
+      },
+      "大森店": {
+        "total": 15,
+        "alloc": {
+          "Monami": 3,
+          "Mami": 3,
+          "□Konoka": 3,
+          "■Mika leila": 3,
+          "□Ayana": 3
+        }
+      },
+      "綱島店": {
+        "total": 14,
+        "alloc": {
+          "Aoi": 3,
+          "★Miia": 3,
+          "Yui": 2,
+          "☆Hairi": 3,
+          "□Noa": 1,
+          "Haruka": 1,
+          "Hana": 1
+        }
+      },
+      "センター南店": {
+        "total": 8,
+        "alloc": {
+          "Riko": 3,
+          "Karen": 2,
+          "★Momoka": 1,
+          "Yuuka": 1,
+          "★Junna": 1
+        }
+      },
+      "旗の台店": {
+        "total": 2,
+        "alloc": {
+          "Maki": 2
+        }
+      },
+      "溝の口店": {
+        "total": 17,
+        "alloc": {
+          "Hinako": 4,
+          "Minato": 3,
+          "■Miyu": 3,
+          "Mana": 2,
+          "■Kaori": 2,
+          "★Seina": 2,
+          "Shoko": 1
+        }
+      },
+      "新横浜店": {
+        "total": 12,
+        "alloc": {
+          "Risa": 5,
+          "Natsuki": 4,
+          "■Mariko": 3
+        }
+      }
+    }
   }
 }
