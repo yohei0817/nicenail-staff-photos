@@ -4711,17 +4711,17 @@
       "id": "R20260822-001",
       "applied_date": "2026-08-22",
       "name": "瑞慶山 心夏",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-08-22",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-22T22:00:43+09:00"
+      "updated_at": "2026-09-02T07:24:14+09:00"
     },
     {
       "id": "R20260826-001",
