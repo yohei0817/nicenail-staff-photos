@@ -4405,7 +4405,7 @@
       },
       "大森店": {
         "budget": 4075500,
-        "target": 4705000
+        "target": 4685000
       },
       "綱島店": {
         "budget": 5016000,
@@ -5116,11 +5116,11 @@
       "Monami__0": {
         "byStore": {
           "大森店": {
-            "target": 1100000,
+            "target": 1080000,
             "remainDays": 22
           }
         },
-        "target": 1100000,
+        "target": 1080000,
         "remainDays": 22,
         "helpDays": 0
       },
