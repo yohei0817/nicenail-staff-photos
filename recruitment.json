@@ -4882,6 +4882,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-09-02T21:21:46+09:00"
+    },
+    {
+      "id": "R20260902-002",
+      "applied_date": "2026-09-02",
+      "name": "井池 淳理紗",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-09-02",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-09-03T03:39:47+09:00"
     }
   ]
 }
