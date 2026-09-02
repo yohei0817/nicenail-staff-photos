@@ -4839,8 +4839,8 @@
       "id": "R20260901-001",
       "applied_date": "2026-09-01",
       "name": "常盤  永",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-11",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4849,7 +4849,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-01T17:52:06+09:00"
+      "updated_at": "2026-09-02T20:38:47+09:00"
     }
   ]
 }
