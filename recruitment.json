@@ -4791,8 +4791,8 @@
       "id": "R20260827-001",
       "applied_date": "2026-08-27",
       "name": "松田 千帆",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-08",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4801,7 +4801,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-27T20:08:21+09:00"
+      "updated_at": "2026-09-02T21:01:13+09:00"
     },
     {
       "id": "R20260827-002",
