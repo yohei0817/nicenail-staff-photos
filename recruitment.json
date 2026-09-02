@@ -4855,8 +4855,8 @@
       "id": "R20260902-001",
       "applied_date": "2026-09-02",
       "name": "細田 志穂",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-07",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4865,7 +4865,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-02T20:41:23+09:00"
+      "updated_at": "2026-09-02T21:21:46+09:00"
     }
   ]
 }
