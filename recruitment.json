@@ -4836,6 +4836,22 @@
       "updated_at": "2026-08-31T22:09:41+09:00"
     },
     {
+      "id": "R20260828-002",
+      "applied_date": "2026-08-28",
+      "name": "深澤美穂",
+      "interview": "〇",
+      "interview_changed_date": "2026-09-11",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-09-02",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-09-02T21:28:08+09:00"
+    },
+    {
       "id": "R20260901-001",
       "applied_date": "2026-09-01",
       "name": "常盤  永",
