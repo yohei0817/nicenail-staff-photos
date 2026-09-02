@@ -4471,8 +4471,8 @@
       "id": "R20260727-001",
       "applied_date": "2026-07-27",
       "name": "福室 愛夏",
-      "interview": "×",
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-08-05",
       "offer": "×",
       "offer_changed_date": null,
       "status": "不採用",
@@ -4481,7 +4481,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-29T03:15:36+09:00"
+      "updated_at": "2026-09-03T02:21:13+09:00"
     },
     {
       "id": "R20260727-002",
