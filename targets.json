@@ -37,7 +37,7 @@
     },
     "溝の口店": {
       "budget": 5329500,
-      "target": 5423000,
+      "target": 5573000,
       "staffCount": 6
     },
     "新横浜店": {
@@ -833,12 +833,12 @@
     "Seina__0": {
       "byStore": {
         "溝の口店": {
-          "target": 770000,
-          "remainDays": 21
+          "target": 300000,
+          "remainDays": 10
         }
       },
-      "target": 770000,
-      "remainDays": 21,
+      "target": 300000,
+      "remainDays": 10,
       "helpDays": 0
     },
     "Rinka__1": {
@@ -871,6 +871,17 @@
       },
       "target": 984000,
       "remainDays": 22,
+      "helpDays": 0
+    },
+    "Kaho__0": {
+      "byStore": {
+        "溝の口店": {
+          "target": 620000,
+          "remainDays": 18
+        }
+      },
+      "target": 620000,
+      "remainDays": 18,
       "helpDays": 0
     }
   },
@@ -4062,7 +4073,7 @@
         },
         "溝の口店": {
           "budget": 5329500,
-          "target": 5423000,
+          "target": 5573000,
           "staffCount": 6
         },
         "新横浜店": {
@@ -4858,12 +4869,12 @@
         "Seina__0": {
           "byStore": {
             "溝の口店": {
-              "target": 770000,
-              "remainDays": 21
+              "target": 300000,
+              "remainDays": 10
             }
           },
-          "target": 770000,
-          "remainDays": 21,
+          "target": 300000,
+          "remainDays": 10,
           "helpDays": 0
         },
         "Rinka__1": {
@@ -4896,6 +4907,17 @@
           },
           "target": 984000,
           "remainDays": 22,
+          "helpDays": 0
+        },
+        "Kaho__0": {
+          "byStore": {
+            "溝の口店": {
+              "target": 620000,
+              "remainDays": 18
+            }
+          },
+          "target": 620000,
+          "remainDays": 18,
           "helpDays": 0
         }
       }
