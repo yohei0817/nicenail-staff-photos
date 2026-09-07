@@ -4745,15 +4745,15 @@
       "name": "べっどあしゅりー",
       "interview": "〇",
       "interview_changed_date": "2026-09-07",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-08-26",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-08-26T22:34:13+09:00"
+      "updated_at": "2026-09-07T22:25:45+09:00"
     },
     {
       "id": "R20260826-003",
