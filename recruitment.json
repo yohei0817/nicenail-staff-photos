@@ -4903,8 +4903,8 @@
       "id": "R20260902-003",
       "applied_date": "2026-09-02",
       "name": "池田 琉乃",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-14",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4913,7 +4913,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-03T21:00:17+09:00"
+      "updated_at": "2026-09-07T20:12:43+09:00"
     },
     {
       "id": "R20260903-001",
