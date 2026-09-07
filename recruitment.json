@@ -4983,8 +4983,8 @@
       "id": "R20260906-001",
       "applied_date": "2026-09-06",
       "name": "山田 陽奈子",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-09",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -4993,7 +4993,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-07T20:01:06+09:00"
+      "updated_at": "2026-09-07T20:01:25+09:00"
     }
   ]
 }
