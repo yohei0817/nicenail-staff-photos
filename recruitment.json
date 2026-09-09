@@ -5058,6 +5058,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-09-09T19:27:01+09:00"
+    },
+    {
+      "id": "R20260909-002",
+      "applied_date": "2026-09-09",
+      "name": "石澤 佳奈",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-09-09",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-09-09T19:28:12+09:00"
     }
   ]
 }
