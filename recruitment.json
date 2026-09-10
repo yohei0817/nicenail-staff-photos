@@ -5047,8 +5047,8 @@
       "id": "R20260909-001",
       "applied_date": "2026-09-09",
       "name": "鈴木 捺美",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-11",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5057,7 +5057,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-09T19:27:01+09:00"
+      "updated_at": "2026-09-11T02:00:09+09:00"
     },
     {
       "id": "R20260909-002",
