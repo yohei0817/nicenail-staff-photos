@@ -4969,15 +4969,15 @@
       "name": "原田みのり",
       "interview": "〇",
       "interview_changed_date": "2026-09-09",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-09-04",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-05T04:14:11+09:00"
+      "updated_at": "2026-09-14T19:50:12+09:00"
     },
     {
       "id": "R20260906-001",
