@@ -4873,15 +4873,15 @@
       "name": "細田 志穂",
       "interview": "〇",
       "interview_changed_date": "2026-09-07",
-      "offer": null,
-      "offer_changed_date": null,
-      "status": "面接調整中",
+      "offer": "〇",
+      "offer_changed_date": "2026-09-14",
+      "status": "スクール入校",
       "status_changed_date": "2026-09-02",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-02T21:21:46+09:00"
+      "updated_at": "2026-09-14T19:51:02+09:00"
     },
     {
       "id": "R20260902-002",
