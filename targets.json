@@ -42,7 +42,7 @@
     },
     "新横浜店": {
       "budget": 2508000,
-      "target": 2780000
+      "target": 3110000
     }
   },
   "staff": {
@@ -835,10 +835,15 @@
         "溝の口店": {
           "target": 300000,
           "remainDays": 10
+        },
+        "新横浜店": {
+          "target": 330000,
+          "remainDays": 11,
+          "type": "help"
         }
       },
-      "target": 300000,
-      "remainDays": 10,
+      "target": 630000,
+      "remainDays": 21,
       "helpDays": 0
     },
     "Rinka__1": {
@@ -4089,7 +4094,7 @@
         },
         "新横浜店": {
           "budget": 2508000,
-          "target": 2780000
+          "target": 3110000
         }
       },
       "staff": {
@@ -4882,10 +4887,15 @@
             "溝の口店": {
               "target": 300000,
               "remainDays": 10
+            },
+            "新横浜店": {
+              "target": 330000,
+              "remainDays": 11,
+              "type": "help"
             }
           },
-          "target": 300000,
-          "remainDays": 10,
+          "target": 630000,
+          "remainDays": 21,
           "helpDays": 0
         },
         "Rinka__1": {
