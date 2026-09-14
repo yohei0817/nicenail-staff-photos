@@ -4391,20 +4391,5 @@
     },
     "final_reveal": true
   },
-  "leaves": [
-    {
-      "name": "Aoi",
-      "type": "産休",
-      "from": "2026-10-31",
-      "to": "2027-04-30",
-      "note": ""
-    },
-    {
-      "name": "Shoko",
-      "type": "産休",
-      "from": "2026-09-01",
-      "to": "2027-05-01",
-      "note": ""
-    }
-  ]
+  "leaves": []
 }
