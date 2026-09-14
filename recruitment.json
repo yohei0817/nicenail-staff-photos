@@ -5111,8 +5111,8 @@
       "id": "R20260913-001",
       "applied_date": "2026-09-13",
       "name": "宮尾",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-17",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5121,7 +5121,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-14T07:26:16+09:00"
+      "updated_at": "2026-09-15T07:05:52+09:00"
     },
     {
       "id": "R20260914-001",
