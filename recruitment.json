@@ -4985,15 +4985,15 @@
       "name": "山田 陽奈子",
       "interview": "〇",
       "interview_changed_date": "2026-09-09",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-09-07",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-07T20:01:25+09:00"
+      "updated_at": "2026-09-14T19:50:05+09:00"
     },
     {
       "id": "R20260907-001",
