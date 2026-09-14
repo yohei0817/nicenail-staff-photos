@@ -5095,8 +5095,8 @@
       "id": "R20260910-002",
       "applied_date": "2026-09-10",
       "name": "清水 莉花",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-09-18",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5105,7 +5105,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-11T02:48:58+09:00"
+      "updated_at": "2026-09-14T19:10:29+09:00"
     },
     {
       "id": "R20260913-001",
