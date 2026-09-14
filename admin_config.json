@@ -374,8 +374,7 @@
     "キューティクルオイル",
     "N3",
     "KAHI",
-    "クレンジングオイル",
-    "フェイスクリーム"
+    "クレンジングオイル"
   ],
   "option_keywords": [
     "パラジェル",
@@ -462,6 +461,11 @@
         "限定ラメグラ",
         "オフのみ"
       ]
+    },
+    {
+      "name": "フェイスクリーム",
+      "type": "contains",
+      "keywords": []
     }
   ],
   "menu_category_exclude": [
@@ -2925,6 +2929,42 @@
       },
       {
         "type": "transfer",
+        "date": "2026-09-05",
+        "store": "溝の口店",
+        "from_staff": "Seina",
+        "to_staff": "Kaori",
+        "amount": 5585,
+        "customer": "ミハラ　ヒナコ",
+        "reason": "10本お直しの為",
+        "kanji_from": "前澤 星那",
+        "kanji_to": "盛小根 香"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-09-05",
+        "store": "三軒茶屋店",
+        "from_staff": "Rinka*",
+        "to_staff": "Yuumi",
+        "amount": 5530,
+        "customer": "アベ リコ",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "加藤 凜香",
+        "kanji_to": "石田 侑未"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-09-08",
+        "store": "綱島店",
+        "from_staff": "Hana",
+        "to_staff": "Yui",
+        "amount": 2995,
+        "customer": "ハシノ　カレン",
+        "reason": "担当分けて施術を行ったため",
+        "kanji_from": "岩尾 華",
+        "kanji_to": "横田 唯音"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
@@ -3261,6 +3301,123 @@
         "customer": "フジイリカ",
         "reason": "名前指定ミスの為",
         "kanji_to": "沼田 美葵",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-02",
+        "store": "溝の口店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Mana",
+        "amount": 5200,
+        "customer": "スズキ   ハナコ",
+        "reason": "10本お直しの為",
+        "kanji_to": "田所 茉奈",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-08-22",
+        "store": "溝の口店",
+        "from_staff": "Seina",
+        "to_staff": null,
+        "amount": 5200,
+        "customer": "スズキ  ハナコ",
+        "reason": "10本お直しの為",
+        "kanji_from": "前澤 星那"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-09-04",
+        "store": "綱島店",
+        "from_staff": "Noa",
+        "to_staff": null,
+        "amount": 3990,
+        "customer": "カジヤマ　ハナ",
+        "reason": "無キャン来店なしの方を来店処理してしまったため。",
+        "kanji_from": "中村 希愛"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-09-08",
+        "store": "綱島店",
+        "from_staff": "Aoi",
+        "to_staff": null,
+        "amount": 2458,
+        "customer": "ヤマコシヒロコ",
+        "reason": "担当分けて施術を行ったため",
+        "kanji_from": "成田 碧"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-08",
+        "store": "綱島店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Hairi",
+        "amount": 2457,
+        "customer": "ヤマコシ　ヒロコ",
+        "reason": "担当分けて施術を行ったため",
+        "kanji_to": "須長 葉衣里",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-09",
+        "store": "綱島店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Mami",
+        "amount": 4990,
+        "customer": "クドウ チヒロ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "岸野 真実",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-09",
+        "store": "綱島店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Mami",
+        "amount": 5375,
+        "customer": "ヨネカワ アキ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "岸野 真実",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-09",
+        "store": "綱島店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Mami",
+        "amount": 4200,
+        "customer": "カトウ ルイ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "岸野 真実",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-11",
+        "store": "三軒茶屋店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Kaho",
+        "amount": 6705,
+        "customer": "ツカモト　アリアネ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "永田 奏穂",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-11",
+        "store": "三軒茶屋店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Kaho",
+        "amount": 4705,
+        "customer": "フクダ　タカコ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "永田 奏穂",
         "kanji_from": "(ヘルプ自動補完)"
       }
     ],
@@ -4390,6 +4547,5 @@
       }
     },
     "final_reveal": true
-  },
-  "leaves": []
+  }
 }
