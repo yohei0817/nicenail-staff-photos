@@ -461,6 +461,11 @@
         "限定ラメグラ",
         "オフのみ"
       ]
+    },
+    {
+      "name": "フェイスクリーム",
+      "type": "contains",
+      "keywords": []
     }
   ],
   "menu_category_exclude": [
