@@ -37,7 +37,7 @@
     },
     "溝の口店": {
       "budget": 5329500,
-      "target": 5573000,
+      "target": 5993000,
       "staffCount": 6
     },
     "新横浜店": {
@@ -882,6 +882,17 @@
       },
       "target": 620000,
       "remainDays": 18,
+      "helpDays": 0
+    },
+    "Miyu__1": {
+      "byStore": {
+        "溝の口店": {
+          "target": 420000,
+          "remainDays": 13
+        }
+      },
+      "target": 420000,
+      "remainDays": 13,
       "helpDays": 0
     }
   },
@@ -4073,7 +4084,7 @@
         },
         "溝の口店": {
           "budget": 5329500,
-          "target": 5573000,
+          "target": 5993000,
           "staffCount": 6
         },
         "新横浜店": {
@@ -4918,6 +4929,17 @@
           },
           "target": 620000,
           "remainDays": 18,
+          "helpDays": 0
+        },
+        "Miyu__1": {
+          "byStore": {
+            "溝の口店": {
+              "target": 420000,
+              "remainDays": 13
+            }
+          },
+          "target": 420000,
+          "remainDays": 13,
           "helpDays": 0
         }
       }
