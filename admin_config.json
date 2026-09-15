@@ -4007,6 +4007,30 @@
         "customer": "サイトウ アヤノ様",
         "reason": "学割値引ミス",
         "kanji": "中村 希愛"
+      },
+      {
+        "id": "r_1789465490682_61_w7jfyi",
+        "date": "2026-09-14",
+        "store": "二子玉川店",
+        "staff": "Yuuhi",
+        "category": "service",
+        "amount": 4915,
+        "customer": "オタイユキコ様",
+        "reason": "会計ミス",
+        "kanji": "藤田 優妃"
+      },
+      {
+        "id": "r_1789465490682_62_shmo9m",
+        "date": "2026-09-14",
+        "store": "二子玉川店",
+        "staff": "Yuuhi",
+        "category": "product",
+        "amount": 1980,
+        "customer": "オタイ ユキコ様",
+        "reason": "店販ミス（個数誤入力）",
+        "product_name": "W発酵化粧水",
+        "qty": 2,
+        "kanji": "藤田 優妃"
       }
     ],
     "workday_cancels": [
