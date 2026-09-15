@@ -37,7 +37,7 @@
     },
     "溝の口店": {
       "budget": 5329500,
-      "target": 5993000,
+      "target": 5763000,
       "staffCount": 6
     },
     "新横浜店": {
@@ -49,11 +49,11 @@
     "Hinako__0": {
       "byStore": {
         "溝の口店": {
-          "target": 970000,
+          "target": 950000,
           "remainDays": 22
         }
       },
-      "target": 970000,
+      "target": 950000,
       "remainDays": 22,
       "helpDays": 0
     },
@@ -103,7 +103,7 @@
     "Miyu__0": {
       "byStore": {
         "溝の口店": {
-          "target": 850000,
+          "target": 820000,
           "remainDays": 21
         },
         "三軒茶屋店": {
@@ -112,14 +112,14 @@
           "type": "help"
         }
       },
-      "target": 885000,
+      "target": 855000,
       "remainDays": 22,
       "helpDays": 0
     },
     "Kaori__0": {
       "byStore": {
         "溝の口店": {
-          "target": 850000,
+          "target": 820000,
           "remainDays": 1
         },
         "二子玉川店": {
@@ -128,7 +128,7 @@
           "type": "help"
         }
       },
-      "target": 885000,
+      "target": 855000,
       "remainDays": 2,
       "helpDays": 0
     },
@@ -881,22 +881,22 @@
     "Kaho__0": {
       "byStore": {
         "溝の口店": {
-          "target": 620000,
+          "target": 500000,
           "remainDays": 18
         }
       },
-      "target": 620000,
+      "target": 500000,
       "remainDays": 18,
       "helpDays": 0
     },
     "Miyu__1": {
       "byStore": {
         "溝の口店": {
-          "target": 420000,
+          "target": 390000,
           "remainDays": 13
         }
       },
-      "target": 420000,
+      "target": 390000,
       "remainDays": 13,
       "helpDays": 0
     }
@@ -4089,7 +4089,7 @@
         },
         "溝の口店": {
           "budget": 5329500,
-          "target": 5993000,
+          "target": 5763000,
           "staffCount": 6
         },
         "新横浜店": {
@@ -4101,11 +4101,11 @@
         "Hinako__0": {
           "byStore": {
             "溝の口店": {
-              "target": 970000,
+              "target": 950000,
               "remainDays": 22
             }
           },
-          "target": 970000,
+          "target": 950000,
           "remainDays": 22,
           "helpDays": 0
         },
@@ -4155,7 +4155,7 @@
         "Miyu__0": {
           "byStore": {
             "溝の口店": {
-              "target": 850000,
+              "target": 820000,
               "remainDays": 21
             },
             "三軒茶屋店": {
@@ -4164,14 +4164,14 @@
               "type": "help"
             }
           },
-          "target": 885000,
+          "target": 855000,
           "remainDays": 22,
           "helpDays": 0
         },
         "Kaori__0": {
           "byStore": {
             "溝の口店": {
-              "target": 850000,
+              "target": 820000,
               "remainDays": 1
             },
             "二子玉川店": {
@@ -4180,7 +4180,7 @@
               "type": "help"
             }
           },
-          "target": 885000,
+          "target": 855000,
           "remainDays": 2,
           "helpDays": 0
         },
@@ -4933,22 +4933,22 @@
         "Kaho__0": {
           "byStore": {
             "溝の口店": {
-              "target": 620000,
+              "target": 500000,
               "remainDays": 18
             }
           },
-          "target": 620000,
+          "target": 500000,
           "remainDays": 18,
           "helpDays": 0
         },
         "Miyu__1": {
           "byStore": {
             "溝の口店": {
-              "target": 420000,
+              "target": 390000,
               "remainDays": 13
             }
           },
-          "target": 420000,
+          "target": 390000,
           "remainDays": 13,
           "helpDays": 0
         }
