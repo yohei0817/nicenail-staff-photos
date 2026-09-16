@@ -3420,6 +3420,30 @@
         "reason": "ヘルプ会計してしまったため",
         "kanji_to": "永田 奏穂",
         "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-15",
+        "store": "綱島店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Momoka",
+        "amount": 4805,
+        "customer": "スズキ アミ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "池田 百華",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-09-15",
+        "store": "三軒茶屋店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Mariko",
+        "amount": 4200,
+        "customer": "ヤツナミ　エリナ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "今田 真莉子",
+        "kanji_from": "(ヘルプ自動補完)"
       }
     ],
     "refunds": [
