@@ -5111,17 +5111,17 @@
       "id": "R20260913-001",
       "applied_date": "2026-09-13",
       "name": "宮尾",
-      "interview": "〇",
-      "interview_changed_date": "2026-09-17",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-09-13",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-15T07:05:52+09:00"
+      "updated_at": "2026-09-18T03:19:04+09:00"
     },
     {
       "id": "R20260914-001",
