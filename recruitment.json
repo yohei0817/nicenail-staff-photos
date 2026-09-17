@@ -4999,17 +4999,17 @@
       "id": "R20260907-001",
       "applied_date": "2026-09-07",
       "name": "大竹 里奈",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-09-07",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-08T03:44:19+09:00"
+      "updated_at": "2026-09-18T03:25:59+09:00"
     },
     {
       "id": "R20260908-001",
