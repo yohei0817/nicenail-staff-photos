@@ -5079,17 +5079,17 @@
       "id": "R20260910-001",
       "applied_date": "2026-09-10",
       "name": "前田 櫂人",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-09-10",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-11T01:56:39+09:00"
+      "updated_at": "2026-09-23T20:27:45+09:00"
     },
     {
       "id": "R20260910-002",
