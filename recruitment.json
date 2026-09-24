@@ -5097,15 +5097,15 @@
       "name": "清水 莉花",
       "interview": "〇",
       "interview_changed_date": "2026-09-18",
-      "offer": null,
-      "offer_changed_date": null,
-      "status": "面接調整中",
+      "offer": "〇",
+      "offer_changed_date": "2026-09-24",
+      "status": "スクール入校",
       "status_changed_date": "2026-09-10",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-14T19:10:29+09:00"
+      "updated_at": "2026-09-25T06:38:49+09:00"
     },
     {
       "id": "R20260913-001",
