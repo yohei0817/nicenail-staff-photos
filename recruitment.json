@@ -5300,6 +5300,22 @@
       "updated_at": "2026-09-28T18:45:46+09:00"
     },
     {
+      "id": "R20260927-003",
+      "applied_date": "2026-09-27",
+      "name": "姜 静琦",
+      "interview": "〇",
+      "interview_changed_date": "2026-09-28",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-09-28",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-09-28T23:44:46+09:00"
+    },
+    {
       "id": "R20260928-001",
       "applied_date": "2026-09-28",
       "name": "金岡 美祈",
