@@ -5223,17 +5223,17 @@
       "id": "R20260924-001",
       "applied_date": "2026-09-24",
       "name": "岩崎 シーナ",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-09-24",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-24T19:30:13+09:00"
+      "updated_at": "2026-09-28T23:54:23+09:00"
     },
     {
       "id": "R20260924-002",
