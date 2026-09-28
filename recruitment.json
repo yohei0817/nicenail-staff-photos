@@ -5191,17 +5191,17 @@
       "id": "R20260920-001",
       "applied_date": "2026-09-20",
       "name": "長田 依里奈",
-      "interview": "〇",
-      "interview_changed_date": "2026-09-25",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-09-21",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-22T05:30:54+09:00"
+      "updated_at": "2026-09-28T23:54:59+09:00"
     },
     {
       "id": "R20260923-001",
