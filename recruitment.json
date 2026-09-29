@@ -5346,6 +5346,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-09-29T20:46:01+09:00"
+    },
+    {
+      "id": "R20260928-003",
+      "applied_date": "2026-09-28",
+      "name": "萩原 愛心",
+      "interview": "〇",
+      "interview_changed_date": "2026-10-22",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-09-29",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-09-30T00:10:27+09:00"
     }
   ]
 }
