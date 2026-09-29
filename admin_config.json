@@ -4067,7 +4067,8 @@
   },
   "sales_neutralize_keywords": [
     "FOD割引",
-    "Hulu割引"
+    "Hulu割引",
+    "ステップアップバリューカード"
   ],
   "hulu_campaign": {
     "page_public": true,
@@ -4612,5 +4613,8 @@
       "to": "2026-11-07",
       "note": "産休から育休予定"
     }
+  ],
+  "voucher_keywords": [
+    "ステップアップバリューカード"
   ]
 }
