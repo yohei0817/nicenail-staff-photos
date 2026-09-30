@@ -5472,7 +5472,8 @@
         "target": 5510000
       },
       "大森店": {
-        "budget": 3932500
+        "budget": 3932500,
+        "target": 4510000
       },
       "綱島店": {
         "budget": 4840000
@@ -5809,6 +5810,61 @@
           }
         },
         "target": 800000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Monami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 1000000,
+            "remainDays": 22
+          }
+        },
+        "target": 1000000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Mami__0": {
+        "byStore": {
+          "大森店": {
+            "target": 1000000,
+            "remainDays": 22
+          }
+        },
+        "target": 1000000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Konoka__0": {
+        "byStore": {
+          "大森店": {
+            "target": 880000,
+            "remainDays": 22
+          }
+        },
+        "target": 880000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Mika leila__0": {
+        "byStore": {
+          "大森店": {
+            "target": 850000,
+            "remainDays": 22
+          }
+        },
+        "target": 850000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Momoka__0": {
+        "byStore": {
+          "大森店": {
+            "target": 780000,
+            "remainDays": 22
+          }
+        },
+        "target": 780000,
         "remainDays": 22,
         "helpDays": 0
       }
