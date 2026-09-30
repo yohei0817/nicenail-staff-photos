@@ -5477,7 +5477,8 @@
         "target": 4510000
       },
       "綱島店": {
-        "budget": 4840000
+        "budget": 4840000,
+        "target": 4882000
       },
       "センター南店": {
         "budget": 4235000,
@@ -5933,6 +5934,95 @@
         },
         "target": 750000,
         "remainDays": 22,
+        "helpDays": 0
+      },
+      "Aoi__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 704000,
+            "remainDays": 16
+          }
+        },
+        "target": 704000,
+        "remainDays": 16,
+        "helpDays": 0
+      },
+      "Yui__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 832000,
+            "remainDays": 18.5
+          }
+        },
+        "target": 832000,
+        "remainDays": 18.5,
+        "helpDays": 0
+      },
+      "Haruka__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 774000,
+            "remainDays": 18
+          }
+        },
+        "target": 774000,
+        "remainDays": 18,
+        "helpDays": 0
+      },
+      "Hana__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 902000,
+            "remainDays": 22
+          }
+        },
+        "target": 902000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Noa__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 880000,
+            "remainDays": 22
+          }
+        },
+        "target": 880000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Hairi__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 770000,
+            "remainDays": 22
+          }
+        },
+        "target": 770000,
+        "remainDays": 22,
+        "helpDays": 0
+      },
+      "Miia__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 0,
+            "remainDays": 0
+          }
+        },
+        "target": 0,
+        "remainDays": 0,
+        "helpDays": 0
+      },
+      "Mariko__0": {
+        "byStore": {
+          "綱島店": {
+            "target": 20000,
+            "remainDays": 0.5,
+            "type": "help"
+          }
+        },
+        "target": 20000,
+        "remainDays": 0.5,
         "helpDays": 0
       }
     }
