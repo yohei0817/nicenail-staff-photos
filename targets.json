@@ -5469,7 +5469,7 @@
       },
       "自由が丘店": {
         "budget": 4840000,
-        "target": 5400000
+        "target": 5450000
       },
       "大森店": {
         "budget": 3932500
@@ -5761,11 +5761,11 @@
       "Rikoto__0": {
         "byStore": {
           "自由が丘店": {
-            "target": 1050000,
+            "target": 1100000,
             "remainDays": 26
           }
         },
-        "target": 1050000,
+        "target": 1100000,
         "remainDays": 26,
         "helpDays": 0
       },
