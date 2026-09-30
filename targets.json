@@ -5476,7 +5476,7 @@
       },
       "綱島店": {
         "budget": 4840000,
-        "target": 4926000
+        "target": 4904000
       },
       "センター南店": {
         "budget": 4235000,
@@ -5991,11 +5991,11 @@
       "Noa__0": {
         "byStore": {
           "綱島店": {
-            "target": 880000,
+            "target": 858000,
             "remainDays": 22
           }
         },
-        "target": 880000,
+        "target": 858000,
         "remainDays": 22,
         "helpDays": 0
       },
