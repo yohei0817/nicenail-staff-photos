@@ -5494,7 +5494,7 @@
       },
       "新横浜店": {
         "budget": 2722500,
-        "target": 3558000
+        "target": 3536000
       }
     },
     "staff": {
@@ -6059,11 +6059,11 @@
       "Natsuki__0": {
         "byStore": {
           "新横浜店": {
-            "target": 902000,
+            "target": 880000,
             "remainDays": 22
           }
         },
-        "target": 902000,
+        "target": 880000,
         "remainDays": 22,
         "helpDays": 0
       }
