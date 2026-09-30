@@ -5493,7 +5493,8 @@
         "target": 5420000
       },
       "新横浜店": {
-        "budget": 2722500
+        "budget": 2722500,
+        "target": 3558000
       }
     },
     "staff": {
@@ -5634,10 +5635,15 @@
           "溝の口店": {
             "target": 0,
             "remainDays": 0
+          },
+          "新横浜店": {
+            "target": 682000,
+            "remainDays": 22,
+            "type": "transfer"
           }
         },
-        "target": 0,
-        "remainDays": 0,
+        "target": 682000,
+        "remainDays": 22,
         "helpDays": 0
       },
       "Kaho__0": {
@@ -5941,10 +5947,15 @@
           "綱島店": {
             "target": 704000,
             "remainDays": 16
+          },
+          "新横浜店": {
+            "target": 35000,
+            "remainDays": 1,
+            "type": "help"
           }
         },
-        "target": 704000,
-        "remainDays": 16,
+        "target": 739000,
+        "remainDays": 17,
         "helpDays": 0
       },
       "Yui__0": {
@@ -5952,10 +5963,15 @@
           "綱島店": {
             "target": 832000,
             "remainDays": 18.5
+          },
+          "新横浜店": {
+            "target": 168000,
+            "remainDays": 4,
+            "type": "help"
           }
         },
-        "target": 832000,
-        "remainDays": 18.5,
+        "target": 1000000,
+        "remainDays": 22.5,
         "helpDays": 0
       },
       "Haruka__0": {
@@ -6019,10 +6035,36 @@
             "target": 20000,
             "remainDays": 0.5,
             "type": "help"
+          },
+          "新横浜店": {
+            "target": 805000,
+            "remainDays": 23
           }
         },
-        "target": 20000,
-        "remainDays": 0.5,
+        "target": 825000,
+        "remainDays": 23.5,
+        "helpDays": 0
+      },
+      "Risa__0": {
+        "byStore": {
+          "新横浜店": {
+            "target": 966000,
+            "remainDays": 23
+          }
+        },
+        "target": 966000,
+        "remainDays": 23,
+        "helpDays": 0
+      },
+      "Natsuki__0": {
+        "byStore": {
+          "新横浜店": {
+            "target": 902000,
+            "remainDays": 22
+          }
+        },
+        "target": 902000,
+        "remainDays": 22,
         "helpDays": 0
       }
     }
