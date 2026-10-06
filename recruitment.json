@@ -5447,8 +5447,8 @@
       "id": "R20261005-001",
       "applied_date": "2026-10-05",
       "name": "西牧 緋奈",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-10-16",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5457,7 +5457,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-05T18:13:41+09:00"
+      "updated_at": "2026-10-07T08:16:29+09:00"
     },
     {
       "id": "R20261005-002",
