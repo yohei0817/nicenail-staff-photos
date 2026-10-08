@@ -5554,6 +5554,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-08T19:04:09+09:00"
+    },
+    {
+      "id": "R20261007-004",
+      "applied_date": "2026-10-07",
+      "name": "佐藤 芹那",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-10-08",
+      "source": "indeed",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-10-08T19:05:45+09:00"
     }
   ]
 }
