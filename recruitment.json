@@ -5415,17 +5415,17 @@
       "id": "R20261002-002",
       "applied_date": "2026-10-02",
       "name": "浅野 愛",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-10-02",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-03T03:35:36+09:00"
+      "updated_at": "2026-10-10T21:56:46+09:00"
     },
     {
       "id": "R20261002-003",
