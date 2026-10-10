@@ -5527,8 +5527,8 @@
       "id": "R20261007-002",
       "applied_date": "2026-10-07",
       "name": "倉嶋 鷹美",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-10-13",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5537,7 +5537,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-08T18:59:36+09:00"
+      "updated_at": "2026-10-10T22:01:55+09:00"
     },
     {
       "id": "R20261007-003",
