@@ -5607,8 +5607,8 @@
       "id": "R20261011-001",
       "applied_date": "2026-10-11",
       "name": "高久 麗",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-10-15",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5617,7 +5617,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-12T03:22:02+09:00"
+      "updated_at": "2026-10-13T22:55:20+09:00"
     },
     {
       "id": "R20261011-002",
