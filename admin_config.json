@@ -3099,6 +3099,18 @@
       },
       {
         "type": "transfer",
+        "date": "2026-10-12",
+        "store": "新横浜店",
+        "from_staff": "Seina",
+        "to_staff": "Mariko",
+        "amount": 3990,
+        "customer": "イシバシ アサト",
+        "reason": "10本お直し対応のため",
+        "kanji_from": "前澤 星那",
+        "kanji_to": "今田 真莉子"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
@@ -3624,29 +3636,6 @@
         "customer": "グンジ リホ",
         "reason": "ヘルプ会計してしまったため",
         "kanji_to": "近藤 留琉愛",
-        "kanji_from": "(ヘルプ自動補完)"
-      },
-      {
-        "type": "transfer",
-        "date": "2026-10-08",
-        "store": "新横浜店",
-        "from_staff": "Seina",
-        "to_staff": null,
-        "amount": 3990,
-        "customer": "イシバシ アサト",
-        "reason": "10本お直し対応のため",
-        "kanji_from": "前澤 星那"
-      },
-      {
-        "type": "help_correction",
-        "date": "2026-10-12",
-        "store": "新横浜店",
-        "from_staff": "ヘルプ",
-        "to_staff": "Mariko",
-        "amount": 3990,
-        "customer": "イマダ　マリコ",
-        "reason": "10本お直し対応のため",
-        "kanji_to": "今田 真莉子",
         "kanji_from": "(ヘルプ自動補完)"
       }
     ],
@@ -4259,6 +4248,39 @@
         "product_name": "W発酵化粧水",
         "qty": 2,
         "kanji": "藤田 優妃"
+      },
+      {
+        "id": "r_1792151362408_63_jv501b",
+        "date": "2026-09-20",
+        "store": "新横浜店",
+        "staff": "Natsuki",
+        "category": "service",
+        "amount": 1500,
+        "customer": "ジェニ",
+        "reason": "その他",
+        "kanji": "長橋 夏希"
+      },
+      {
+        "id": "r_1792151362408_64_ffua9i",
+        "date": "2026-09-24",
+        "store": "溝の口店",
+        "staff": "Seina",
+        "category": "service",
+        "amount": 840,
+        "customer": "ナカムラユウカ様",
+        "reason": "学割会計ミス",
+        "kanji": "前澤 星那"
+      },
+      {
+        "id": "r_1792151362408_65_e4cvqd",
+        "date": "2026-09-25",
+        "store": "二子玉川店",
+        "staff": "Machi",
+        "category": "service",
+        "amount": 399,
+        "customer": "オギノモエカ",
+        "reason": "学割値引ミス",
+        "kanji": "羽田 真千"
       }
     ],
     "workday_cancels": [
