@@ -3063,6 +3063,42 @@
       },
       {
         "type": "transfer",
+        "date": "2026-10-06",
+        "store": "自由が丘店",
+        "from_staff": "Rico",
+        "to_staff": "Sayaka",
+        "amount": 4375,
+        "customer": "スズキ　キョウカ",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "石井 凛冴",
+        "kanji_to": "宮川 彩花"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-10-07",
+        "store": "三軒茶屋店",
+        "from_staff": "Rinka*",
+        "to_staff": "Miki",
+        "amount": 4915,
+        "customer": "カワナミ アン",
+        "reason": "10本お直し対応の為",
+        "kanji_from": "加藤 凜香",
+        "kanji_to": "上床 未來"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-10-07",
+        "store": "三軒茶屋店",
+        "from_staff": "Miki",
+        "to_staff": "Rinka*",
+        "amount": 2200,
+        "customer": "カワナミ アン",
+        "reason": "他スタッフで会計してしまった為",
+        "kanji_from": "上床 未來",
+        "kanji_to": "加藤 凜香"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
@@ -3576,6 +3612,41 @@
         "customer": "タケウチ アイ",
         "reason": "ヘルプで会計してしまったため",
         "kanji_to": "長橋 夏希",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-10-09",
+        "store": "大森店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Ruria",
+        "amount": 5200,
+        "customer": "グンジ リホ",
+        "reason": "ヘルプ会計してしまったため",
+        "kanji_to": "近藤 留琉愛",
+        "kanji_from": "(ヘルプ自動補完)"
+      },
+      {
+        "type": "transfer",
+        "date": "2026-10-08",
+        "store": "新横浜店",
+        "from_staff": "Seina",
+        "to_staff": null,
+        "amount": 3990,
+        "customer": "イシバシ アサト",
+        "reason": "10本お直し対応のため",
+        "kanji_from": "前澤 星那"
+      },
+      {
+        "type": "help_correction",
+        "date": "2026-10-12",
+        "store": "新横浜店",
+        "from_staff": "ヘルプ",
+        "to_staff": "Mariko",
+        "amount": 3990,
+        "customer": "イマダ　マリコ",
+        "reason": "10本お直し対応のため",
+        "kanji_to": "今田 真莉子",
         "kanji_from": "(ヘルプ自動補完)"
       }
     ],
