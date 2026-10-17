@@ -5682,6 +5682,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-16T03:17:29+09:00"
+    },
+    {
+      "id": "R20261017-001",
+      "applied_date": "2026-10-17",
+      "name": "二本木 愛梨",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-10-17",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-10-18T00:11:11+09:00"
     }
   ]
 }
