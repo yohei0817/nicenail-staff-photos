@@ -5591,17 +5591,17 @@
       "id": "R20261009-001",
       "applied_date": "2026-10-09",
       "name": "登坂 美咲",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "連絡無し",
       "status_changed_date": "2026-10-10",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-10T22:09:13+09:00"
+      "updated_at": "2026-10-20T03:57:52+09:00"
     },
     {
       "id": "R20261011-001",
