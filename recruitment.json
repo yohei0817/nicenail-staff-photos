@@ -5177,15 +5177,15 @@
       "name": "上野 さくら",
       "interview": "〇",
       "interview_changed_date": "2026-10-14",
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "不採用",
       "status_changed_date": "2026-09-19",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-23T20:23:38+09:00"
+      "updated_at": "2026-10-20T03:46:27+09:00"
     },
     {
       "id": "R20260920-001",
