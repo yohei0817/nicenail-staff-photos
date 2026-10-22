@@ -5762,6 +5762,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-21T18:18:14+09:00"
+    },
+    {
+      "id": "R20261022-001",
+      "applied_date": "2026-10-22",
+      "name": "根本 明莉",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-10-22",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-10-22T22:10:30+09:00"
     }
   ]
 }
