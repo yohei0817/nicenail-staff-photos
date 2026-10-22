@@ -5353,15 +5353,15 @@
       "name": "萩原 愛心",
       "interview": "〇",
       "interview_changed_date": "2026-10-22",
-      "offer": null,
-      "offer_changed_date": null,
+      "offer": "〇",
+      "offer_changed_date": "2026-10-22",
       "status": "面接調整中",
       "status_changed_date": "2026-09-29",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-09-30T00:10:27+09:00"
+      "updated_at": "2026-10-22T22:12:39+09:00"
     },
     {
       "id": "R20260930-001",
