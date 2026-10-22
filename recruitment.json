@@ -5778,6 +5778,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-23T01:10:28+09:00"
+    },
+    {
+      "id": "R20261022-002",
+      "applied_date": "2026-10-22",
+      "name": "齋藤 陽菜",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-10-22",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-10-23T02:55:25+09:00"
     }
   ]
 }
