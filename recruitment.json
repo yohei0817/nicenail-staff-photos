@@ -5735,8 +5735,8 @@
       "id": "R20261021-001",
       "applied_date": "2026-10-21",
       "name": "倉澤 いろは",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-10-28",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5745,7 +5745,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-21T18:14:00+09:00"
+      "updated_at": "2026-10-23T23:49:12+09:00"
     },
     {
       "id": "R20261021-002",
