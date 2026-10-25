@@ -5956,7 +5956,7 @@
       },
       "自由が丘店": {
         "budget": 4752000,
-        "target": 6470000
+        "target": 5920000
       },
       "大森店": {
         "budget": 3861000
@@ -6136,12 +6136,12 @@
       "Yuuka__1": {
         "byStore": {
           "自由が丘店": {
-            "target": 850000,
-            "remainDays": 17
+            "target": 600000,
+            "remainDays": 12
           }
         },
-        "target": 850000,
-        "remainDays": 17,
+        "target": 600000,
+        "remainDays": 12,
         "helpDays": 0
       },
       "Rikoto__0": {
@@ -6158,56 +6158,56 @@
       "Rino__0": {
         "byStore": {
           "自由が丘店": {
-            "target": 970000,
-            "remainDays": 22
+            "target": 900000,
+            "remainDays": 20
           }
         },
-        "target": 970000,
-        "remainDays": 22,
+        "target": 900000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Sayaka__0": {
         "byStore": {
           "自由が丘店": {
-            "target": 970000,
-            "remainDays": 22
+            "target": 940000,
+            "remainDays": 21
           }
         },
-        "target": 970000,
-        "remainDays": 22,
+        "target": 940000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Kaine__0": {
         "byStore": {
           "自由が丘店": {
-            "target": 950000,
-            "remainDays": 22
+            "target": 930000,
+            "remainDays": 21
           }
         },
-        "target": 950000,
-        "remainDays": 22,
+        "target": 930000,
+        "remainDays": 21,
         "helpDays": 0
       },
       "Mina__0": {
         "byStore": {
           "自由が丘店": {
-            "target": 850000,
-            "remainDays": 22
+            "target": 750000,
+            "remainDays": 20
           }
         },
-        "target": 850000,
-        "remainDays": 22,
+        "target": 750000,
+        "remainDays": 20,
         "helpDays": 0
       },
       "Rico__0": {
         "byStore": {
           "自由が丘店": {
-            "target": 780000,
-            "remainDays": 21
+            "target": 700000,
+            "remainDays": 20
           }
         },
-        "target": 780000,
-        "remainDays": 21,
+        "target": 700000,
+        "remainDays": 20,
         "helpDays": 0
       }
     }
