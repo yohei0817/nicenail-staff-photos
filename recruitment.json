@@ -5799,8 +5799,8 @@
       "id": "R20261023-001",
       "applied_date": "2026-10-23",
       "name": "高須 由梨",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-10-29",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5809,7 +5809,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-23T19:56:43+09:00"
+      "updated_at": "2026-10-28T20:09:50+09:00"
     },
     {
       "id": "R20261023-002",
