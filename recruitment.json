@@ -5858,6 +5858,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-28T20:03:39+09:00"
+    },
+    {
+      "id": "R20261027-002",
+      "applied_date": "2026-10-27",
+      "name": "小川 裕大",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-10-28",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-10-28T20:04:20+09:00"
     }
   ]
 }
