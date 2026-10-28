@@ -5753,15 +5753,15 @@
       "name": "原 ひなの",
       "interview": "〇",
       "interview_changed_date": "2026-10-23",
-      "offer": null,
-      "offer_changed_date": null,
+      "offer": "〇",
+      "offer_changed_date": "2026-10-28",
       "status": "面接調整中",
       "status_changed_date": "2026-10-21",
       "source": "indeed",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-23T23:49:21+09:00"
+      "updated_at": "2026-10-28T20:10:04+09:00"
     },
     {
       "id": "R20261022-001",
