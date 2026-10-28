@@ -5890,6 +5890,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-28T20:04:39+09:00"
+    },
+    {
+      "id": "R20261028-001",
+      "applied_date": "2026-10-28",
+      "name": "須藤 美怜",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-10-28",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-10-29T06:52:40+09:00"
     }
   ]
 }
