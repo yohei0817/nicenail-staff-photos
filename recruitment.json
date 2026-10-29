@@ -5911,8 +5911,8 @@
       "id": "R20261028-002",
       "applied_date": "2026-10-28",
       "name": "重盛 もも",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-11-04",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -5921,7 +5921,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-29T06:55:01+09:00"
+      "updated_at": "2026-10-30T01:40:42+09:00"
     },
     {
       "id": "R20261028-003",
