@@ -5949,7 +5949,7 @@
     "stores": {
       "三軒茶屋店": {
         "budget": 4752000,
-        "target": 5150000
+        "target": 5193000
       },
       "二子玉川店": {
         "budget": 4752000,
@@ -6492,6 +6492,18 @@
         },
         "target": 730000,
         "remainDays": 21,
+        "helpDays": 0
+      },
+      "Monami__0": {
+        "byStore": {
+          "三軒茶屋店": {
+            "target": 43000,
+            "remainDays": 1,
+            "type": "help"
+          }
+        },
+        "target": 43000,
+        "remainDays": 1,
         "helpDays": 0
       }
     }
