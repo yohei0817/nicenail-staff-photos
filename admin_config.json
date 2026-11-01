@@ -3202,6 +3202,18 @@
       },
       {
         "type": "transfer",
+        "date": "2026-10-31",
+        "store": "センター南店",
+        "from_staff": "Ayane",
+        "to_staff": "Yuuka",
+        "amount": 4705,
+        "customer": "サノ　アヤ",
+        "reason": "10本お直しの為",
+        "kanji_from": "須田 彩音",
+        "kanji_to": "高橋 優花"
+      },
+      {
+        "type": "transfer",
         "date": "2026-02-07",
         "from_date": "2026-02-03",
         "to_date": "2026-02-07",
