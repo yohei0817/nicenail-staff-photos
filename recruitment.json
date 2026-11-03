@@ -5970,6 +5970,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-10-31T02:09:57+09:00"
+    },
+    {
+      "id": "R20261101-001",
+      "applied_date": "2026-11-01",
+      "name": "風間　七海",
+      "interview": "〇",
+      "interview_changed_date": "2026-11-09",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-11-03",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-11-04T03:59:41+09:00"
     }
   ]
 }
