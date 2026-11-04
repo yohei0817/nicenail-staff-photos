@@ -6002,6 +6002,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-11-04T20:15:50+09:00"
+    },
+    {
+      "id": "R20261104-002",
+      "applied_date": "2026-11-04",
+      "name": "平敷 バレリア",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-11-04",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-11-04T22:57:58+09:00"
     }
   ]
 }
