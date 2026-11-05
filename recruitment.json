@@ -6007,8 +6007,8 @@
       "id": "R20261104-002",
       "applied_date": "2026-11-04",
       "name": "平敷 バレリア",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-11-06",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -6017,7 +6017,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-11-04T22:57:58+09:00"
+      "updated_at": "2026-11-05T18:58:32+09:00"
     },
     {
       "id": "R20261104-003",
