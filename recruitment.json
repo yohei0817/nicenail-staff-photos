@@ -5831,17 +5831,17 @@
       "id": "R20261025-001",
       "applied_date": "2026-10-25",
       "name": "渋谷 蘭子",
-      "interview": null,
+      "interview": "×",
       "interview_changed_date": null,
-      "offer": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "選考辞退",
       "status_changed_date": "2026-10-25",
       "source": "HPBW",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-10-26T01:35:52+09:00"
+      "updated_at": "2026-11-05T19:03:10+09:00"
     },
     {
       "id": "R20261027-001",
