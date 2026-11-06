@@ -6007,17 +6007,17 @@
       "id": "R20261104-002",
       "applied_date": "2026-11-04",
       "name": "平敷 バレリア",
-      "interview": "〇",
-      "interview_changed_date": "2026-11-06",
-      "offer": null,
+      "interview": "×",
+      "interview_changed_date": null,
+      "offer": "×",
       "offer_changed_date": null,
-      "status": "面接調整中",
+      "status": "面接ばっくれ",
       "status_changed_date": "2026-11-04",
       "source": "リジョブ",
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-11-05T18:58:32+09:00"
+      "updated_at": "2026-11-06T20:19:06+09:00"
     },
     {
       "id": "R20261104-003",
