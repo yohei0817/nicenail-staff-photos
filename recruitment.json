@@ -6066,6 +6066,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-11-09T03:05:19+09:00"
+    },
+    {
+      "id": "R20261106-002",
+      "applied_date": "2026-11-06",
+      "name": "椎木 亜耶奈",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-11-08",
+      "source": "indeed",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-11-09T03:07:16+09:00"
     }
   ]
 }
