@@ -6071,8 +6071,8 @@
       "id": "R20261106-002",
       "applied_date": "2026-11-06",
       "name": "椎木 亜耶奈",
-      "interview": null,
-      "interview_changed_date": null,
+      "interview": "〇",
+      "interview_changed_date": "2026-11-10",
       "offer": null,
       "offer_changed_date": null,
       "status": "面接調整中",
@@ -6081,7 +6081,7 @@
       "note": "",
       "deleted": false,
       "updated_by": "honbu",
-      "updated_at": "2026-11-09T03:07:16+09:00"
+      "updated_at": "2026-11-10T03:42:40+09:00"
     },
     {
       "id": "R20261106-003",
