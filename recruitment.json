@@ -6098,6 +6098,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-11-09T03:08:13+09:00"
+    },
+    {
+      "id": "R20261109-001",
+      "applied_date": "2026-11-09",
+      "name": "金 智安",
+      "interview": null,
+      "interview_changed_date": null,
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-11-09",
+      "source": "indeed",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-11-10T06:07:27+09:00"
     }
   ]
 }
