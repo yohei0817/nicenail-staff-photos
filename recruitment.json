@@ -6130,6 +6130,22 @@
       "deleted": false,
       "updated_by": "honbu",
       "updated_at": "2026-11-10T06:07:27+09:00"
+    },
+    {
+      "id": "R20261110-001",
+      "applied_date": "2026-11-10",
+      "name": "白岩 青空",
+      "interview": "〇",
+      "interview_changed_date": "2026-11-18",
+      "offer": null,
+      "offer_changed_date": null,
+      "status": "面接調整中",
+      "status_changed_date": "2026-11-12",
+      "source": "リジョブ",
+      "note": "",
+      "deleted": false,
+      "updated_by": "honbu",
+      "updated_at": "2026-11-12T21:37:41+09:00"
     }
   ]
 }
